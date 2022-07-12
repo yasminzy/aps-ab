@@ -15,4 +15,5 @@ features:
     title: Too fast
 footer: Template maintained by tsutoringo | MIT Licensed
 ---
+
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/tsutoringo/VitePress-with-Netlify-CMS&amp;stack=cms" style="display:block; text-align:center"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
