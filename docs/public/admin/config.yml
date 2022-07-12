@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: tsutoringo/VitePress-with-Netlify-CMS
+  repo: yasminzy/apsab
 media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
@@ -18,14 +18,14 @@ collections:
               label: "Hero image",
               name: "heroImage",
               widget: "image",
-              required: false,
+              required: false
             }
           - { label: "Hero text", name: "heroText", widget: "string" }
           - {
               label: "Tagline",
               name: "tagline",
               widget: "string",
-              required: false,
+              required: false
             }
           - { label: "Action text", name: "actionText", widget: "string" }
           - { label: "Action link", name: "actionLink", widget: "string" }
@@ -39,7 +39,7 @@ collections:
               label: "Footer",
               name: "footer",
               widget: "string",
-              required: false,
+              required: false
             }
           - { label: "Body", name: body, widget: markdown, required: false }
   - label: "Post"
