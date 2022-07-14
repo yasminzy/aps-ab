@@ -1,9 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;600&family=Roboto+Slab:wght@400;600&family=Roboto:wght@400;600&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 @layer base {
-  h1 {
-    @apply text-slate-500;
+  :root {
+    /* base */
+    --vp-c-white: #ffffff;
+    --vp-c-white-soft: #efeff6;
+    --vp-c-white-mute: #e0e0ee;
+
+    --vp-c-black: #0a0a11;
+    --vp-c-black-pure: #000000;
+    --vp-c-black-soft: #141422;
+    --vp-c-black-mute: #1f1f33;
+
+    --vp-c-gray: #615c60;
+    --vp-c-gray-light-1: #807c7f;
+    --vp-c-gray-light-2: #a09d9f;
+    --vp-c-gray-light-3: #bfbdbf;
+    --vp-c-gray-light-4: #dfdedf;
+    --vp-c-gray-light-5: #efeeef;
+    --vp-c-gray-dark-1: #4d494c;
+    --vp-c-gray-dark-2: #3a3739;
+    --vp-c-gray-dark-3: #262426;
+    --vp-c-gray-dark-4: #131213;
+    --vp-c-gray-dark-5: #090909;
+
+    --vp-c-divider-light-1: rgba(217, 205, 210, 0.29);
+    --vp-c-divider-light-2: rgba(217, 205, 210, 0.12);
+    --vp-c-divider-dark-1: rgba(64, 52, 57, 0.65);
+    --vp-c-divider-dark-2: rgba(64, 52, 57, 0.48);
+
+    --vp-c-text-light-1: rgba(16, 13, 14, 0.8);
+    --vp-c-text-light-2: rgba(16, 13, 14, 0.6);
+    --vp-c-text-light-3: rgba(16, 13, 14, 0.4);
+    --vp-c-text-light-4: rgba(16, 13, 14, 0.2);
+
+    --vp-c-text-dark-1: rgba(245, 242, 243, 0.8);
+    --vp-c-text-dark-2: rgba(245, 242, 243, 0.6);
+    --vp-c-text-dark-3: rgba(245, 242, 243, 0.4);
+    --vp-c-text-dark-4: rgba(245, 242, 243, 0.2);
+
+    --vp-c-indigo: #6868ac;
+    --vp-c-indigo-soft: #8686bc;
+    --vp-c-indigo-light: #c2c2dd;
+    --vp-c-indigo-lighter: #a4a4cd;
+    --vp-c-indigo-dark: #535389;
+    --vp-c-indigo-darker: #535389;
+
+    --vp-c-green: #859f94;
+    --vp-c-green-light: #b5c5be;
+    --vp-c-green-lighter: #9db2a9;
+    --vp-c-green-dark: #4f5f58;
+    --vp-c-green-darker: #6a7f76;
+    --vp-c-green-dimm-1: rgba(133, 159, 148, 0.5);
+    --vp-c-green-dimm-2: rgba(133, 159, 148, 0.25);
+    --vp-c-green-dimm-3: rgba(133, 159, 148, 0.05);
+
+    --vp-c-yellow: #cdb97d;
+    --vp-c-yellow-light: #e1d5b1;
+    --vp-c-yellow-lighter: #d7c797;
+    --vp-c-yellow-dark: #7b6f4b;
+    --vp-c-yellow-darker: #a49464;
+    --vp-c-yellow-dimm-1: rgba(205, 185, 125, 0.5);
+    --vp-c-yellow-dimm-2: rgba(205, 185, 125, 0.25);
+    --vp-c-yellow-dimm-3: rgba(205, 185, 125, 0.05);
+
+    --vp-c-red: #894b5d;
+    --vp-c-red-light: #b8939d;
+    --vp-c-red-lighter: #a06e7d;
+    --vp-c-red-dark: #522d37;
+    --vp-c-red-darker: #6d3c4a;
+    --vp-c-red-dimm-1: rgba(137, 75, 93, 0.5);
+    --vp-c-red-dimm-2: rgba(137, 75, 93, 0.25);
+    --vp-c-red-dimm-3: rgba(137, 75, 93, 0.05);
+
+    /* brand */
+    --vp-c-brand: var(--vp-c-indigo);
+    --vp-c-brand-light: var(--vp-c-indigo-light);
+    --vp-c-brand-lighter: var(--vp-c-indigo-lighter);
+    --vp-c-brand-dark: var(--vp-c-indigo-dark);
+    --vp-c-brand-darker: var(--vp-c-indigo-darker);
+
+    /* font */
+    --vp-font-family-base: Roboto, sans-serif;
+    --vp-font-family-mono: "Roboto Mono", monospace;
+  }
+}
+
+@layer components {
+  ::selection {
+    background-color: var(--vp-c-brand-light);
+  }
+
+  .dark ::selection {
+    background-color: var(--vp-c-brand);
   }
 }
