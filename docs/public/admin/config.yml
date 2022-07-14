@@ -9,31 +9,24 @@ editor:
   preview: false
 collections:
   - name: ledps
-    label: LEDPS
     folder: docs/ledps/
     delete: false
     fields:
       - name: title
-        label: Judul
         widget: hidden
       - name: body
-        label: Isi
         widget: markdown
 
   - name: lkps
-    label: LKPS
     delete: false
     files:
       - name: 1-tata-pamong-tata-kelola-dan-kerja-sama
-        label: Tata Pamong, Tata Kelola dan Kerjasama
         file: docs/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama.md
         fields:
           - name: kerja-sama-tridharma-perguruan-tinggi
-            label: Kerja Sama Tridharma Perguruan Tinggi
             widget: list
             fields:
               - name: jenis
-                label: Jenis
                 widget: select
                 options:
                   - { label: Pendidikan, value: pendidikan }
@@ -41,7 +34,6 @@ collections:
                   - { label: Pengabdian kepada Masyarakat, value: pkm }
 
               - name: tingkat
-                label: Tingkat
                 widget: select
                 options:
                   - { label: Internasional, value: internasional }
@@ -49,23 +41,104 @@ collections:
                   - { label: Lokal/ Wilayah, value: lokal }
 
               - name: judul-kegiatan-kerja-sama
-                label: Judul Kegiatan Kerja Sama
                 widget: string
 
               - name: manfaat-bagi-ps-yang-diakreditasi
-                label: Manfaat bagi PS yang Diakreditasi
                 widget: string
 
               - name: tanggal-awal-kerja-sama
-                label: Tanggal Awal Kerja Sama (HH/BB/TTTT)
                 widget: datetime
                 date_format: DD/MM/YYYY
 
               - name: tanggal-akhir-kerja-sama
-                label: Tanggal Akhir Kerja Sama (HH/BB/TTTT)
                 widget: datetime
                 date_format: DD/MM/YYYY
 
               - name: bukti-kerja-sama
-                label: Bukti Kerja Sama
                 widget: text
+
+      - name: 2-mahasiswa
+        file: docs/lkps/2-mahasiswa.md
+        fields:
+          - name: 
+            fields:
+              - name: 
+                options:
+                  - { label: , value:  }
+      
+      - name: 3-sumber-daya-manusia
+        file: docs/lkps/3-sumber-daya-manusia.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
+      
+      - name: 4-keuangan-sarana-dan-prasarana
+        file: docs/lkps/4-keuangan-sarana-dan-prasarana.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
+      
+      - name: 5-pendidikan
+        file: docs/lkps/5-pendidikan.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
+      
+      - name: 6-penelitian
+        file: docs/lkps/6-penelitian.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
+      
+      - name: 7-pengabdian-kepada-masyarakat
+        file: docs/lkps/7-pengabdian-kepada-masyarakat.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
+      
+      - name: 8-luaran-dan-capaian-tridharma-perguruan-tinggi
+        file: docs/lkps/8-luaran-dan-capaian-tridharma-perguruan-tinggi.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
+      
+      - name: 9-penjaminan-mutu
+        file: docs/lkps/9-penjaminan-mutu.md
+        fields:
+          - name: 
+            widget: list
+            fields:
+              - name: 
+                widget: select
+                options:
+                  - { label: , value:  }
