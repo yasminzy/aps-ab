@@ -1,3 +1,7 @@
+---
+title: Luaran dan Capaian Tridharma Perguruan Tinggi
+---
+
 # Luaran dan Capaian Tridharma Perguruan Tinggi
 
 <!--@include: ../penilaian/51-63.md-->

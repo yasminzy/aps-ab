@@ -1,3 +1,7 @@
+---
+title: Tata Pamong, Tata Kelola dan Kerja Sama
+---
+
 # Tata Pamong, Tata Kelola dan Kerja Sama
 
 <!--@include: ../penilaian/7-12.md-->

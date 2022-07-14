@@ -1,3 +1,7 @@
+---
+title: Mahasiswa
+---
+
 # Mahasiswa
 
 <!--@include: ../penilaian/13-14.md-->

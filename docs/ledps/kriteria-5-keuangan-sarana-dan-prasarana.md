@@ -1,3 +1,7 @@
+---
+title: Keuangan, Sarana dan Prasarana
+---
+
 # Keuangan, Sarana dan Prasarana
 
 <!--@include: ../penilaian/32-37.md-->

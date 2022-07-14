@@ -1,3 +1,7 @@
+---
+title: Penelitian
+---
+
 # Penelitian
 
 <!--@include: ../penilaian/48.md-->

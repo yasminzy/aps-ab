@@ -1,3 +1,7 @@
+---
+title: Penjaminan Mutu
+---
+
 # Penjaminan Mutu
 
 <!--@include: ../penilaian/64-67.md-->

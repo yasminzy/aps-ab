@@ -1,3 +1,7 @@
+---
+title: Pendidikan
+---
+
 # Pendidikan
 
 <!--@include: ../penilaian/38-47.md-->

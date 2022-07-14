@@ -1,3 +1,7 @@
+---
+title: Sumber Daya Manusia
+---
+
 # Sumber Daya Manusia
 
 <!--@include: ../penilaian/15-31.md-->

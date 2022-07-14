@@ -1,3 +1,7 @@
+---
+title: Visi, Misi, Tujuan dan Strategi
+---
+
 # Visi, Misi, Tujuan dan Strategi
 
 <!--@include: ../penilaian/3-6.md-->
