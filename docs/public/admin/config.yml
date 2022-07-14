@@ -1,10 +1,6 @@
 backend:
-  name: git-gateway
-local_backend: true
-# backend:
-#   name: github
-#   repo: yasminzy/apsab
-# publish_mode: editorial_workflow
+  name: github
+  repo: yasminzy/apsab
 media_folder: "public/media"
 public_folder: "/media"
 site_url: https://apsab.netlify.app
