@@ -1,52 +1,98 @@
 backend:
-  name: github
-  repo: yasminzy/apsab
-media_folder: "docs/public/media"
+  name: git-gateway
+local_backend: true
+# backend:
+#   name: github
+#   repo: yasminzy/apsab
+# publish_mode: editorial_workflow
+media_folder: "public/media"
 public_folder: "/media"
-publish_mode: editorial_workflow
+site_url: https://apsab.netlify.app
+logo_url: https://apsab.netlify.app/media/logo.svg
+locale: "id"
+editor:
+  preview: false
 collections:
-  - label: "Home"
-    name: "home"
+  - name: "data"
+    label: "Data"
     files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "docs/index.md"
-        delete: false
+      - name: "kondisi-eksternal"
+        label: "Kondisi Eksternal"
+        file: "data/kondisi-eksternal.md"
         fields:
-          - { label: "Home", name: "home", widget: "hidden", default: true }
-          - {
-              label: "Hero image",
-              name: "heroImage",
-              widget: "image",
-              required: false
-            }
-          - { label: "Hero text", name: "heroText", widget: "string" }
-          - {
-              label: "Tagline",
-              name: "tagline",
-              widget: "string",
-              required: false
-            }
-          - { label: "Action text", name: "actionText", widget: "string" }
-          - { label: "Action link", name: "actionLink", widget: "string" }
-          - label: Features
-            name: features
-            widget: list
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Details", name: "details", widget: "string" }
-          - {
-              label: "Footer",
-              name: "footer",
-              widget: "string",
-              required: false
-            }
-          - { label: "Body", name: body, widget: markdown, required: false }
-  - label: "Post"
-    name: "posts"
-    folder: "docs/post"
-    create: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Meta description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "profil-upps"
+        label: "Profil UPPS"
+        file: "data/profil-upps.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "visi-misi-tujuan-dan-strategi"
+        label: "Visi, Misi, Tujuan dan Strategi"
+        file: "data/kriteria-1-visi-misi-tujuan-dan-strategi.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "tata-pamong-tata-kelola-dan-kerja-sama"
+        label: "Tata Pamong, Tata Kelola dan Kerja sama"
+        file: "data/kriteria-2-tata-pamong-tata-kelola-dan-kerja-sama.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "mahasiswa"
+        label: "Mahasiswa"
+        file: "data/kriteria-3-mahasiswa.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "sumber-daya-manusia"
+        label: "Sumber Daya Manusia"
+        file: "data/kriteria-4-sumber-daya-manusia.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "keuangan-sarana-dan-prasarana"
+        label: "Keuangan, Sarana dan Prasarana"
+        file: "data/kriteria-5-keuangan-sarana-dan-prasarana.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "pendidikan"
+        label: "Pendidikan"
+        file: "data/kriteria-6-pendidikan.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "penelitian"
+        label: "Penelitian"
+        file: "data/kriteria-7-penelitian.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "pengabdian-kepada-masyarakat"
+        label: "Pengabdian kepada Masyarakat"
+        file: "data/kriteria-8-pengabdian-kepada-masyarakat.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "luaran-dan-capaian-tridharma-perguruan-tinggi"
+        label: "Luaran dan Capaian Tridharma Perguruan Tinggi"
+        file: "data/kriteria-9-luaran-dan-capaian-tridharma-perguruan-tinggi.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "penjaminan-mutu"
+        label: "Penjaminan Mutu"
+        file: "data/penjaminan-mutu.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+      - name: "program-pengembangan-berkelanjutan"
+        label: "Program Pengembangan Berkelanjutan"
+        file: "data/program-pengembangan-berkelanjutan.md"
+        fields:
+          - { name: "title", label: "Judul", , widget: "string" }
+          - { name: "body", label: "Isi", widget: "markdown" }
+    delete: false
+  
