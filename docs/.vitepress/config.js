@@ -9,28 +9,30 @@ module.exports = {
   titleTemplate: false,
 
   themeConfig: {
-    logo: "/media/logo.svg",
-    siteTitle: false,
-
     nav: [
       {
-        text: "Data",
-        link: "/data/kondisi-eksternal",
+        text: "LEDPS",
+        link: "/ledps/kondisi-eksternal",
         activeMatch: "/data/"
+      },
+      {
+        text: "LKPS",
+        link: "/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama",
+        activeMatch: "/lkps/"
       },
       { text: "Admin", link: "/admin/" }
     ],
 
     sidebar: {
-      "/data/": [
+      "/ledps/": [
         {
-          text: "Pembuka",
+          text: "Eksternal dan Profil",
           collapsible: true,
           items: [
-            { text: "Kondisi Eksternal", link: "/data/kondisi-eksternal" },
+            { text: "Kondisi Eksternal", link: "/ledps/kondisi-eksternal" },
             {
               text: "Profil UPPS",
-              link: "/data/profil-unit-pengelola-program-studi"
+              link: "/ledps/profil-unit-pengelola-program-studi"
             }
           ]
         },
@@ -40,50 +42,95 @@ module.exports = {
           items: [
             {
               text: "Visi, Misi, Tujuan dan Strategi",
-              link: "/data/kriteria-1-visi-misi-tujuan-dan-strategi"
+              link: "/ledps/kriteria-1-visi-misi-tujuan-dan-strategi"
             },
             {
               text: "Tata Pamong, Tata Kelola dan Kerja Sama",
-              link: "/data/kriteria-2-tata-pamong-tata-kelola-dan-kerja-sama"
+              link: "/ledps/kriteria-2-tata-pamong-tata-kelola-dan-kerja-sama"
             },
             {
               text: "Mahasiswa",
-              link: "/data/kriteria-3-mahasiswa"
+              link: "/ledps/kriteria-3-mahasiswa"
             },
             {
               text: "Sumber Daya Manusia",
-              link: "/data/kriteria-4-sumber-daya-manusia"
+              link: "/ledps/kriteria-4-sumber-daya-manusia"
             },
             {
               text: "Keuangan, Sarana dan Prasarana",
-              link: "/data/kriteria-5-keuangan-sarana-dan-prasarana"
+              link: "/ledps/kriteria-5-keuangan-sarana-dan-prasarana"
             },
             {
               text: "Pendidikan",
-              link: "/data/kriteria-6-pendidikan"
+              link: "/ledps/kriteria-6-pendidikan"
             },
             {
               text: "Penelitian",
-              link: "/data/kriteria-7-penelitian"
+              link: "/ledps/kriteria-7-penelitian"
             },
             {
               text: "Pengabdian kepada Masyarakat",
-              link: "/data/kriteria-8-pengabdian-kepada-masyarakat"
+              link: "/ledps/kriteria-8-pengabdian-kepada-masyarakat"
             },
             {
               text: "Luaran dan Capaian Tridharma",
-              link: "/data/kriteria-9-luaran-dan-capaian-tridharma-perguruan-tinggi"
+              link: "/ledps/kriteria-9-luaran-dan-capaian-tridharma-perguruan-tinggi"
             }
           ]
         },
         {
-          text: "Penutup",
+          text: "Mutu dan Pengembangan",
           collapsible: true,
           items: [
-            { text: "Penjaminan Mutu", link: "/data/penjaminan-mutu" },
+            { text: "Penjaminan Mutu", link: "/ledps/penjaminan-mutu" },
             {
               text: "Program Pengembangan Berkelanjutan",
-              link: "/data/program-pengembangan-berkelanjutan"
+              link: "/ledps/program-pengembangan-berkelanjutan"
+            }
+          ]
+        }
+      ],
+
+      "/lkps/": [
+        {
+          text: "Kriteria Akreditasi",
+          collapsible: true,
+          items: [
+            {
+              text: "Tata Pamong, Tata Kelola dan Kerja Sama",
+              link: "/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama"
+            },
+            {
+              text: "Mahasiswa",
+              link: "/lkps/2-mahasiswa"
+            },
+            {
+              text: "Sumber Daya Manusia",
+              link: "/lkps/3-sumber-daya-manusia"
+            },
+            {
+              text: "Keuangan, Sarana dan Prasarana",
+              link: "/lkps/4-keuangan-sarana-dan-prasarana"
+            },
+            {
+              text: "Pendidikan",
+              link: "/lkps/5-pendidikan"
+            },
+            {
+              text: "Penelitian",
+              link: "/lkps/6-penelitian"
+            },
+            {
+              text: "Pengabdian kepada Masyarakat",
+              link: "/lkps/7-pengabdian-kepada-masyarakat"
+            },
+            {
+              text: "Luaran dan Capaian Tridharma Perguruan Tinggi",
+              link: "/lkps/8-luaran-dan-capaian-tridharma-perguruan-tinggi"
+            },
+            {
+              text: "Penjaminan Mutu",
+              link: "/lkps/9-penjaminan-mutu"
             }
           ]
         }
