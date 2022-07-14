@@ -16,78 +16,77 @@ collections:
         label: "Kondisi Eksternal"
         file: "docs/data/kondisi-eksternal.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "profil-upps"
         label: "Profil UPPS"
         file: "docs/data/profil-upps.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "visi-misi-tujuan-dan-strategi"
         label: "Visi, Misi, Tujuan dan Strategi"
         file: "docs/data/kriteria-1-visi-misi-tujuan-dan-strategi.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "tata-pamong-tata-kelola-dan-kerja-sama"
         label: "Tata Pamong, Tata Kelola dan Kerja sama"
         file: "docs/data/kriteria-2-tata-pamong-tata-kelola-dan-kerja-sama.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "mahasiswa"
         label: "Mahasiswa"
         file: "docs/data/kriteria-3-mahasiswa.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "sumber-daya-manusia"
         label: "Sumber Daya Manusia"
         file: "docs/data/kriteria-4-sumber-daya-manusia.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "keuangan-sarana-dan-prasarana"
         label: "Keuangan, Sarana dan Prasarana"
         file: "docs/data/kriteria-5-keuangan-sarana-dan-prasarana.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "pendidikan"
         label: "Pendidikan"
         file: "docs/data/kriteria-6-pendidikan.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "penelitian"
         label: "Penelitian"
         file: "docs/data/kriteria-7-penelitian.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "pengabdian-kepada-masyarakat"
         label: "Pengabdian kepada Masyarakat"
         file: "docs/data/kriteria-8-pengabdian-kepada-masyarakat.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "luaran-dan-capaian-tridharma-perguruan-tinggi"
         label: "Luaran dan Capaian Tridharma Perguruan Tinggi"
         file: "docs/data/kriteria-9-luaran-dan-capaian-tridharma-perguruan-tinggi.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "penjaminan-mutu"
         label: "Penjaminan Mutu"
         file: "docs/data/penjaminan-mutu.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
+
       - name: "program-pengembangan-berkelanjutan"
         label: "Program Pengembangan Berkelanjutan"
         file: "docs/data/program-pengembangan-berkelanjutan.md"
         fields:
-          - { name: "title", label: "Judul", widget: "string" }
           - { name: "body", label: "Isi", widget: "markdown" }
     delete: false

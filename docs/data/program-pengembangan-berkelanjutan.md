@@ -1,8 +1,4 @@
----
-title: Program Pengembangan Berkelanjutan
----
-
-# {{ $frontmatter.title }}
+# Program Pengembangan Berkelanjutan
 
 ## Analisis SWOT
 

@@ -1,7 +1,3 @@
----
-title: Profil UPPS
----
-
-# {{ $frontmatter.title }}
+# Profil UPPS
 
 <!--@include: ../indikator/2.md-->

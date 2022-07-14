@@ -1,8 +1,4 @@
----
-title: Tata Pamong, Tata Kelola dan Kerja sama
----
-
-# {{ $frontmatter.title }}
+# Tata Pamong, Tata Kelola dan Kerja sama
 
 ## Sistem Tata Pamong
 

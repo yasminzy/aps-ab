@@ -1,8 +1,4 @@
----
-title: Pengabdian kepada Masyarakat
----
-
-# {{ $frontmatter.title }}
+# Pengabdian kepada Masyarakat
 
 ## Relevansi PkM
 

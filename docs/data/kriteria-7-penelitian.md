@@ -1,8 +1,4 @@
----
-title: Penelitian
----
-
-# {{ $frontmatter.title }}
+# Penelitian
 
 ## Relevansi Penelitian
 

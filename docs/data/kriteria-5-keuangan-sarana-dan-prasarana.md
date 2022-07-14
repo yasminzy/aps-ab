@@ -1,8 +1,4 @@
----
-title: Keuangan, Sarana dan Prasarana
----
-
-# {{ $frontmatter.title }}
+# Keuangan, Sarana dan Prasarana
 
 ## Keuangan
 

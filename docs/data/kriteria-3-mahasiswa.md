@@ -1,8 +1,4 @@
----
-title: Mahasiswa
----
-
-# {{ $frontmatter.title }}
+# Mahasiswa
 
 ## Kualitas Input Mahasiswa
 

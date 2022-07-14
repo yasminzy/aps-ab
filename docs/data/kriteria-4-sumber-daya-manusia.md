@@ -1,8 +1,4 @@
----
-title: Sumber Daya Manusia
----
-
-# {{ $frontmatter.title }}
+# Sumber Daya Manusia
 
 ## Profil Dosen
 

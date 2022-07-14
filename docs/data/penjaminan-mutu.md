@@ -1,8 +1,4 @@
----
-title: Penjaminan Mutu
----
-
-# {{ $frontmatter.title }}
+# Penjaminan Mutu
 
 ## Keberadaan Unit Penjaminan dan Komitmen Pimpinan
 

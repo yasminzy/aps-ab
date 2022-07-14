@@ -1,7 +1,3 @@
----
-title: Visi, Misi, Tujuan dan Strategi
----
-
-# {{ $frontmatter.title }}
+# Visi, Misi, Tujuan dan Strategi
 
 <!--@include: ../indikator/3-6.md-->

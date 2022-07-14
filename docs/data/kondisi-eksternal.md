@@ -1,8 +1,4 @@
----
-title: Kondisi Eksternal
----
-
-# {{ $frontmatter.title }}
+# Kondisi Eksternal
 
 <!--@include: ../indikator/1.md-->
 

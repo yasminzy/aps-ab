@@ -1,8 +1,4 @@
----
-title: Luaran dan Capaian Tridharma Perguruan Tinggi
----
-
-# {{ $frontmatter.title }}
+# Luaran dan Capaian Tridharma Perguruan Tinggi
 
 ## Luaran Dharma Pendidikan
 

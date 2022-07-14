@@ -1,8 +1,4 @@
----
-title: Pendidikan
----
-
-# {{ $frontmatter.title }}
+# Pendidikan
 
 ## Kurikulum
 
