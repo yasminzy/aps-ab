@@ -13,6 +13,9 @@ collections:
     folder: docs/ledps/
     delete: false
     fields:
+      - name: title
+        label: Judul
+        widget: hidden
       - name: body
         label: Isi
         widget: markdown

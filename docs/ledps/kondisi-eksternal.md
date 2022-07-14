@@ -1,3 +1,7 @@
+---
+title: Kondisi Eksternal
+---
+
 # Kondisi Eksternal
 
 <!--@include: ../penilaian/1.md-->
