@@ -27,7 +27,7 @@ collections:
         fields:
           - name: "kerja-sama-tridharma-perguruan-tinggi"
             label: "Kerja Sama Tridharma Perguruan Tinggi"
-            widget: "list",
+            widget: "list"
             fields:
               - name: "jenis"
                 label: "Jenis"
