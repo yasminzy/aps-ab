@@ -1,70 +1,68 @@
 backend:
   name: github
   repo: yasminzy/apsab
-media_folder: "public/media"
-public_folder: "/media"
+media_folder: public/media
+public_folder: /media
 site_url: https://apsab.netlify.app
-locale: "id"
+locale: id
 editor:
   preview: false
 collections:
-  - name: "ledps"
-    label: "LEDPS"
-    folder: "docs/ledps/"
+  - name: ledps
+    label: LEDPS
+    folder: docs/ledps/
     delete: false
     fields:
-      - name: "body"
-        label: "Isi"
-        widget: "markdown"
+      - name: body
+        label: Isi
+        widget: markdown
 
-  - name: "lkps"
-    label: "LKPS"
+  - name: lkps
+    label: LKPS
     delete: false
     files:
-      - name: "1-tata-pamong-tata-kelola-dan-kerja-sama"
-        label: "Tata Pamong, Tata Kelola dan Kerjasama"
-        file: "docs/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama.md"
+      - name: 1-tata-pamong-tata-kelola-dan-kerja-sama
+        label: Tata Pamong, Tata Kelola dan Kerjasama
+        file: docs/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama.md
         fields:
-          - name: "kerja-sama-tridharma-perguruan-tinggi"
-            label: "Kerja Sama Tridharma Perguruan Tinggi"
-            widget: "list"
+          - name: kerja-sama-tridharma-perguruan-tinggi
+            label: Kerja Sama Tridharma Perguruan Tinggi
+            widget: list
             fields:
-              - name: "jenis"
-                label: "Jenis"
-                widget: "select"
+              - name: jenis
+                label: Jenis
+                widget: select
                 options:
-                  { label: "Pendidikan", value: "pendidikan" },
-                  { label: "Penelitian", value: "penelitian" },
-                  { label: "Pengabdian kepada Masyarakat", value: "pkm" }
+                  - { label: Pendidikan, value: pendidikan }
+                  - { label: Penelitian, value: penelitian }
+                  - { label: Pengabdian kepada Masyarakat, value: pkm }
 
-              - name: "tingkat"
-                label: "Tingkat"
-                widget: "select"
+              - name: tingkat
+                label: Tingkat
+                widget: select
                 options:
-                  { label: "Internasional", value: "internasional" },
-                  { label: "Nasional", value: "nasional" },
-                  { label: "Lokal/ Wilayah", value: "lokal" }
+                  - { label: Internasional, value: internasional }
+                  - { label: Nasional, value: nasional }
+                  - { label: Lokal/ Wilayah, value: lokal }
 
-              - name: "judul-kegiatan-kerja-sama"
-                label: "Judul Kegiatan Kerja Sama"
-                widget: "string"
+              - name: judul-kegiatan-kerja-sama
+                label: Judul Kegiatan Kerja Sama
+                widget: string
 
-              - name: "manfaat-bagi-ps-yang-diakreditasi"
-                label: ""Manfaat bagi PS yang Diakreditasi
-                widget: "string"
+              - name: manfaat-bagi-ps-yang-diakreditasi
+                label: Manfaat bagi PS yang Diakreditasi
+                widget: string
 
-              - name: "tanggal-awal-kerja-sama"
-                label: "Tanggal Awal Kerja Sama (HH/BB/TTTT)"
-                widget: "datetime"
-                date_format: "DD/MM/YYYY"
+              - name: tanggal-awal-kerja-sama
+                label: Tanggal Awal Kerja Sama (HH/BB/TTTT)
+                widget: datetime
+                date_format: DD/MM/YYYY
 
-              - name: "tanggal-akhir-kerja-sama"
-                label: "Tanggal Akhir Kerja Sama (HH/BB/TTTT)"
-                widget: "datetime"
-                date_format: "DD/MM/YYYY"
+              - name: tanggal-akhir-kerja-sama
+                label: Tanggal Akhir Kerja Sama (HH/BB/TTTT)
+                widget: datetime
+                date_format: DD/MM/YYYY
 
-              - name: "bukti-kerja-sama"
-                label: "Bukti Kerja Sama"
-                widget: "text"
-
-
+              - name: bukti-kerja-sama
+                label: Bukti Kerja Sama
+                widget: text
