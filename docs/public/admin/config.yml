@@ -141,8 +141,8 @@ collections:
                       value_type: "int"
                     }
                   - {
-                      name: "transfer,
-                      label: "Transfer,
+                      name: "transfer",
+                      label: "Transfer",
                       widget: "number",
                       value_type: "int"
                     }
