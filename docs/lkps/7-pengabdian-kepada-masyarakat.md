@@ -1,3 +1,3 @@
 # Pengabdian kepada Masyarakat
 
-## 7 PkM DTPS yang melibatkan mahasiswa
+## 7 PkM DTPS yang Melibatkan Mahasiswa
