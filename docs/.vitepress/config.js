@@ -20,7 +20,7 @@ module.exports = {
         link: "/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama",
         activeMatch: "/lkps/"
       },
-      { text: "Admin", link: "/admin" }
+      { text: "Admin", link: "/admin/#/" }
     ],
 
     sidebar: {

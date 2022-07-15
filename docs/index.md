@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Input Data
-      link: /admin/
+      link: /admin/#/
     - theme: alt
       text: Mulai Baca
       link: /ledps/kondisi-eksternal
