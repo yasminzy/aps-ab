@@ -186,9 +186,9 @@ collections:
                 label: "Kesesuaian dengan Kompetensi Inti PS"
                 widget: "boolean"
               
-              - name: "jabatan",
-                label: "Jabatan Akademik",
-                widget: "select",
+              - name: "jabatan"
+                label: "Jabatan Akademik"
+                widget: "select"
                 options:
                   - {
                       label: "Asisten Ahli",
@@ -496,7 +496,7 @@ collections:
               
               - name: "sks"
                 label: "Bobot Kredit (SKS)"
-                widget: "number",
+                widget: "number"
                 value_type: "int"
 
           - name: "tabel-3b1"
@@ -511,12 +511,12 @@ collections:
                 label: "Bidang Keahlian"
                 widget: "string"
               
-              - name: "rekognisi",
-                label: "Rekognisi",
+              - name: "rekognisi"
+                label: "Rekognisi"
                 widget: "text"
               
-              - name: "bukti-pendukung",
-                label: "Bukti Pendukung",
+              - name: "bukti-pendukung"
+                label: "Bukti Pendukung"
                 widget: "text"
 
               - name: "tingkat"
