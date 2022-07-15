@@ -19,8 +19,7 @@ module.exports = {
         text: "LKPS",
         link: "/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama",
         activeMatch: "/lkps/"
-      },
-      { text: "Admin", link: "/admin/#/" }
+      }
     ],
 
     sidebar: {
@@ -146,9 +145,9 @@ module.exports = {
 
     lastUpdatedText: "Terakhir diperbarui",
 
-    docFooter: {
-      prev: "Kembali",
-      next: "Berikutnya"
+    editLink: {
+      pattern: "https://apsab.netlify.app/admin",
+      text: "Edit data"
     },
 
     algolia: {
