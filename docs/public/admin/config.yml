@@ -173,7 +173,7 @@ collections:
                       widget: "string"
                     }
                   - {
-                      name: "s3,
+                      name: "s3",
                       label: "Doktor/Doktor Terapan",
                       widget: "string"
                     }
@@ -382,12 +382,12 @@ collections:
                 widget: "object"
                 fields:
                   - {
-                      name: "magister-magister-terapan",
+                      name: "s2",
                       label: "Magister/Magister Terapan",
                       widget: "string"
                     }
                   - {
-                      name: "doktor-doktor-terapan",
+                      name: "s3",
                       label: "Doktor/Doktor Terapan",
                       widget: "string"
                     }
@@ -511,20 +511,13 @@ collections:
                 label: "Bidang Keahlian"
                 widget: "string"
               
-              - name: "rekognisi-dan-bukti-pendukung"
-                label: "Rekognisi dan Bukti Pendukung"
-                widget: "object"
-                fields:
-                  - {
-                      name: "rekognisi",
-                      label: "Rekognisi",
-                      widget: "text"
-                    }
-                  - {
-                      name: "bukti-pendukung",
-                      label: "Bukti Pendukung",
-                      widget: "text"
-                    }
+              - name: "rekognisi",
+                label: "Rekognisi",
+                widget: "text"
+              
+              - name: "bukti-pendukung",
+                label: "Bukti Pendukung",
+                widget: "text"
 
               - name: "tingkat"
                 label: "Tingkat"
@@ -1303,7 +1296,7 @@ collections:
                 value_type: "int"
               
               - name: "ipk"
-                label: "Indeks Prestasi Kumulatif (IPK)"
+                label: "IPK"
                 widget: "object"
                 fields:
                   - {
