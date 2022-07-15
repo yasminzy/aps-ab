@@ -880,7 +880,7 @@ collections:
                     }
                   - {
                       name: "yang-dimiliki",
-                      label: "Yang Dimiliki UPPS"
+                      label: "Yang Dimiliki UPPS",
                       widget: "number",
                       value_type: "int"
                     }
@@ -892,8 +892,8 @@ collections:
                   - { label: "Sendiri", value: "sendiri" }
                   - { label: "Sewa", value: "sewa" }
 
-              - name: "kondisi
-                label: "Kondisi
+              - name: "kondisi"
+                label: "Kondisi"
                 widget: "select"
                 options:
                   - { label: "Terawat", value: "terawat" }
