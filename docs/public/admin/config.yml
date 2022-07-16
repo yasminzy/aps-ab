@@ -54,6 +54,10 @@ collections:
                   - label: "Pengabdian kepada Masyarakat"
                     value: "pkm"
 
+              - name: "mitra"
+                label: "Lembaga Mitra"
+                widget: "string"
+
               - name: "tingkat"
                 label: "Tingkat"
                 widget: "select"
