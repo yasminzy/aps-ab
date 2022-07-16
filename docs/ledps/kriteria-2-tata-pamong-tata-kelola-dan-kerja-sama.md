@@ -1,5 +1,5 @@
 ---
-title: Tata Pamong, Tata Kelola dan Kerja Sama
+title: Kriteria 2 - Tata Pamong, Tata Kelola dan Kerja Sama
 ---
 
 # Tata Pamong, Tata Kelola dan Kerja Sama

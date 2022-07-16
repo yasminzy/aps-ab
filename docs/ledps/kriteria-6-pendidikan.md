@@ -1,5 +1,5 @@
 ---
-title: Pendidikan
+title: Kriteria 6 - Pendidikan
 ---
 
 # Pendidikan

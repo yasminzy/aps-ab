@@ -1,5 +1,5 @@
 ---
-title: Penelitian
+title: Kriteria 7 - Penelitian
 ---
 
 # Penelitian

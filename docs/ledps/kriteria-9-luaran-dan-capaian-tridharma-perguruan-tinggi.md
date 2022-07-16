@@ -1,5 +1,5 @@
 ---
-title: Luaran dan Capaian Tridharma Perguruan Tinggi
+title: Kriteria 9 - Luaran dan Capaian Tridharma Perguruan Tinggi
 ---
 
 # Luaran dan Capaian Tridharma Perguruan Tinggi

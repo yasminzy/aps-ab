@@ -1,5 +1,5 @@
 ---
-title: Mahasiswa
+title: Kriteria 3 - Mahasiswa
 ---
 
 # Mahasiswa

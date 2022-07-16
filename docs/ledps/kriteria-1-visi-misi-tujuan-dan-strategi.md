@@ -1,5 +1,5 @@
 ---
-title: Visi, Misi, Tujuan dan Strategi
+title: Kriteria 1 - Visi, Misi, Tujuan dan Strategi
 ---
 
 # Visi, Misi, Tujuan dan Strategi

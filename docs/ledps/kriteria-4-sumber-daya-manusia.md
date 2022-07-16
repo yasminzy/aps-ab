@@ -1,5 +1,5 @@
 ---
-title: Sumber Daya Manusia
+title: Kriteria 4 - Sumber Daya Manusia
 ---
 
 # Sumber Daya Manusia

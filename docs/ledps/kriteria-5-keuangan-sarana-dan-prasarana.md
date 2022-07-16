@@ -1,5 +1,5 @@
 ---
-title: Keuangan, Sarana dan Prasarana
+title: Kriteria 5 - Keuangan, Sarana dan Prasarana
 ---
 
 # Keuangan, Sarana dan Prasarana

@@ -1,5 +1,5 @@
 ---
-title: Pengabdian kepada Masyarakat
+title: Kriteria 8 - Pengabdian kepada Masyarakat
 ---
 
 # Pengabdian kepada Masyarakat
