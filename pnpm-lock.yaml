@@ -32,6 +32,9 @@ packages:
     peerDependencies:
       "@algolia/client-search": ^4.9.1
       algoliasearch: ^4.9.1
+    peerDependenciesMeta:
+      "@algolia/client-search":
+        optional: true
     dependencies:
       "@algolia/autocomplete-shared": 1.7.1
       algoliasearch: 4.13.1
@@ -220,7 +223,7 @@ packages:
       }
     dependencies:
       "@docsearch/react": 3.1.1
-      preact: 10.9.0
+      preact: 10.10.0
     transitivePeerDependencies:
       - "@algolia/client-search"
       - "@types/react"
@@ -354,10 +357,10 @@ packages:
       "@vue/shared": 3.2.37
     dev: true
 
-  /@vue/devtools-api/6.2.0:
+  /@vue/devtools-api/6.2.1:
     resolution:
       {
-        integrity: sha512-pF1G4wky+hkifDiZSWn8xfuLOJI1ZXtuambpBEYaf7Xaf6zC/pM29rvAGpd3qaGXnr4BAXU1Pxz/VfvBGwexGA==
+        integrity: sha512-OEgAMeQXvCoJ+1x8WyQuVZzFo0wcyCmUR3baRVLmKBo1LmYZWMlRiXlux5jd0fqVJu6PfDbOrZItVqUEzLobeQ==
       }
     dev: true
 
@@ -424,10 +427,10 @@ packages:
       }
     dev: true
 
-  /@vueuse/core/8.9.1_vue@3.2.37:
+  /@vueuse/core/8.9.3_vue@3.2.37:
     resolution:
       {
-        integrity: sha512-a7goYb/gJxjXRBw4Fr/jEACiN33ghwM1ohJVu+Zwsr3lNL4qCQ1nU+ogta98lNg5hXJxWj7mYEmQDjjyWOu5nA==
+        integrity: sha512-q2pr3N7FPG7IBBhEXTYOJU+38VwKMLP5IfD33byzBV4Th7f1JHT4qPKvJrvr17knAefPRzNqgt9et+xFqaRlPQ==
       }
     peerDependencies:
       "@vue/composition-api": ^1.1.0
@@ -439,23 +442,23 @@ packages:
         optional: true
     dependencies:
       "@types/web-bluetooth": 0.0.14
-      "@vueuse/metadata": 8.9.1
-      "@vueuse/shared": 8.9.1_vue@3.2.37
+      "@vueuse/metadata": 8.9.3
+      "@vueuse/shared": 8.9.3_vue@3.2.37
       vue: 3.2.37
-      vue-demi: 0.13.2_vue@3.2.37
+      vue-demi: 0.13.4_vue@3.2.37
     dev: true
 
-  /@vueuse/metadata/8.9.1:
+  /@vueuse/metadata/8.9.3:
     resolution:
       {
-        integrity: sha512-6LADOlyl3oENHa9dsoY7LXjU1Mh14DnpM6ztETI3hpm5ZffOMIG5CB2Q6aEZfIvYr1lkJVmG2L82wFKk7VRfIA==
+        integrity: sha512-57gZZKtWAmcJaUBmciCohvmumVLz4+FnoVnWj7U5BWs5PC2/7gU9Z0/i1i9leDNeboAauFzAq7z1GjS8eYnT+w==
       }
     dev: true
 
-  /@vueuse/shared/8.9.1_vue@3.2.37:
+  /@vueuse/shared/8.9.3_vue@3.2.37:
     resolution:
       {
-        integrity: sha512-klZfn7ijI3juqVgpfQVrrlBh4uTFajwSCWm8Cdt45Kg26b1LZ9jn9n7J6GhmkFay5016GnjjivQoekQSMeJNUg==
+        integrity: sha512-foorYQAU3CGknAO1w9No/rpGBJmb7L74MPltnZAYxeBRfhsajjJYYgja+D5IT2vT+/a0NciISaVp3fDwMN1ocA==
       }
     peerDependencies:
       "@vue/composition-api": ^1.1.0
@@ -467,7 +470,7 @@ packages:
         optional: true
     dependencies:
       vue: 3.2.37
-      vue-demi: 0.13.2_vue@3.2.37
+      vue-demi: 0.13.4_vue@3.2.37
     dev: true
 
   /acorn-node/1.8.2:
@@ -548,8 +551,8 @@ packages:
     peerDependencies:
       postcss: ^8.1.0
     dependencies:
-      browserslist: 4.21.1
-      caniuse-lite: 1.0.30001364
+      browserslist: 4.21.2
+      caniuse-lite: 1.0.30001366
       fraction.js: 4.2.0
       normalize-range: 0.1.2
       picocolors: 1.0.0
@@ -582,18 +585,18 @@ packages:
       fill-range: 7.0.1
     dev: true
 
-  /browserslist/4.21.1:
+  /browserslist/4.21.2:
     resolution:
       {
-        integrity: sha512-Nq8MFCSrnJXSc88yliwlzQe3qNe3VntIjhsArW9IJOEPSHNx23FalwApUVbzAWABLhYJJ7y8AynWI/XM8OdfjQ==
+        integrity: sha512-MonuOgAtUB46uP5CezYbRaYKBNt2LxP0yX+Pmj4LkcDFGkn9Cbpi83d9sCjwQDErXsIJSzY5oKGDbgOlF/LPAA==
       }
     engines: { node: ^6 || ^7 || ^8 || ^9 || ^10 || ^11 || ^12 || >=13.7 }
     hasBin: true
     dependencies:
-      caniuse-lite: 1.0.30001364
-      electron-to-chromium: 1.4.186
+      caniuse-lite: 1.0.30001366
+      electron-to-chromium: 1.4.191
       node-releases: 2.0.6
-      update-browserslist-db: 1.0.4_browserslist@4.21.1
+      update-browserslist-db: 1.0.4_browserslist@4.21.2
     dev: true
 
   /camelcase-css/2.0.1:
@@ -604,10 +607,10 @@ packages:
     engines: { node: ">= 6" }
     dev: true
 
-  /caniuse-lite/1.0.30001364:
+  /caniuse-lite/1.0.30001366:
     resolution:
       {
-        integrity: sha512-9O0xzV3wVyX0SlegIQ6knz+okhBB5pE0PC40MNdwcipjwpxoUEHL24uJ+gG42cgklPjfO5ZjZPme9FTSN3QT2Q==
+        integrity: sha512-yy7XLWCubDobokgzudpkKux8e0UOOnLHE6mlNJBzT3lZJz6s5atSEzjoL+fsCPkI0G8MP5uVdDx1ur/fXEWkZA==
       }
     dev: true
 
@@ -686,10 +689,10 @@ packages:
       }
     dev: true
 
-  /electron-to-chromium/1.4.186:
+  /electron-to-chromium/1.4.191:
     resolution:
       {
-        integrity: sha512-YoVeFrGd/7ROjz4R9uPoND1K/hSRC/xADy9639ZmIZeJSaBnKdYx3I6LMPsY7CXLpK7JFgKQVzeZ/dk2br6Eaw==
+        integrity: sha512-MeEaiuoSFh4G+rrN+Ilm1KJr8pTTZloeLurcZ+PRcthvdK1gWThje+E6baL7/7LoNctrzCncavAG/j/vpES9jg==
       }
     dev: true
 
@@ -1323,10 +1326,10 @@ packages:
       source-map-js: 1.0.2
     dev: true
 
-  /preact/10.9.0:
+  /preact/10.10.0:
     resolution:
       {
-        integrity: sha512-jO6/OvCRL+OT8gst/+Q2ir7dMybZAX8ioP02Zmzh3BkQMHLyqZSujvxbUriXvHi8qmhcHKC2Gwbog6Kt+YTh+Q==
+        integrity: sha512-fszkg1iJJjq68I4lI8ZsmBiaoQiQHbxf1lNq+72EmC/mZOsFF5zn3k1yv9QGoFgIXzgsdSKtYymLJsrJPoamjQ==
       }
     dev: true
 
@@ -1384,10 +1387,10 @@ packages:
     engines: { iojs: ">=1.0.0", node: ">=0.10.0" }
     dev: true
 
-  /rollup/2.76.0:
+  /rollup/2.77.0:
     resolution:
       {
-        integrity: sha512-9jwRIEY1jOzKLj3nsY/yot41r19ITdQrhs+q3ggNWhr9TQgduHqANvPpS32RNpzGklJu3G1AJfvlZLi/6wFgWA==
+        integrity: sha512-vL8xjY4yOQEw79DvyXLijhnhh+R/O9zpF/LEgkCebZFtb6ELeN9H3/2T0r8+mp+fFTBHZ5qGpOpW2ela2zRt3g==
       }
     engines: { node: ">=10.0.0" }
     hasBin: true
@@ -1498,7 +1501,7 @@ packages:
       is-number: 7.0.0
     dev: true
 
-  /update-browserslist-db/1.0.4_browserslist@4.21.1:
+  /update-browserslist-db/1.0.4_browserslist@4.21.2:
     resolution:
       {
         integrity: sha512-jnmO2BEGUjsMOe/Fg9u0oczOe/ppIDZPebzccl1yDWGLFP16Pa1/RM5wEoKYPG2zstNcDuAStejyxsOuKINdGA==
@@ -1507,7 +1510,7 @@ packages:
     peerDependencies:
       browserslist: ">= 4.21.0"
     dependencies:
-      browserslist: 4.21.1
+      browserslist: 4.21.2
       escalade: 3.1.1
       picocolors: 1.0.0
     dev: true
@@ -1541,7 +1544,7 @@ packages:
       esbuild: 0.14.49
       postcss: 8.4.14
       resolve: 1.22.1
-      rollup: 2.76.0
+      rollup: 2.77.0
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
@@ -1557,8 +1560,8 @@ packages:
       "@docsearch/css": 3.1.1
       "@docsearch/js": 3.1.1
       "@vitejs/plugin-vue": 2.3.3_vite@2.9.14+vue@3.2.37
-      "@vue/devtools-api": 6.2.0
-      "@vueuse/core": 8.9.1_vue@3.2.37
+      "@vue/devtools-api": 6.2.1
+      "@vueuse/core": 8.9.3_vue@3.2.37
       body-scroll-lock: 4.0.0-beta.0
       shiki: 0.10.1
       vite: 2.9.14
@@ -1588,10 +1591,10 @@ packages:
       }
     dev: true
 
-  /vue-demi/0.13.2_vue@3.2.37:
+  /vue-demi/0.13.4_vue@3.2.37:
     resolution:
       {
-        integrity: sha512-41ukrclEbMddAyP7PvxMSYqnOSzPV6r7GNnyTSKSCNTaz19GehxmTiXyP9kwHSUv2+Dr6hHqiUiF7L1VAw2KdQ==
+        integrity: sha512-KP4lq9uSz0KZbaqCllRhnxMV3mYRsRWJfdsAhZyt5bV5O1RTpoeDptBRV9NOa/JgOpfaA9ane88VF7OjWNK/DA==
       }
     engines: { node: ">=12" }
     hasBin: true
