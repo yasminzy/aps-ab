@@ -6,7 +6,7 @@
 
     - Kepemimpinan operasional, ditunjukkan melalui kemampuan menggerakkan seluruh sumber daya internal secara optimal dalam melaksanakan tridharma menuju pencapaian visi.
     - Kepemimpinan organisasional, ditunjukkan melalui kemampuan dalam menggerakkan organisasi dan mengharmonisasikan suasana kerja yang kondusif untuk menjamin tercapainya VMTS.
-    - Kepemimpinan publik, ditunjukkan melalui kemampuan dalam menjalin kerjasama yang menjadikan program studi menjadi rujukan bagi masyarakat di bidang keilmuannya.
+    - Kepemimpinan publik, ditunjukkan melalui kemampuan dalam menjalin kerja sama yang menjadikan program studi menjadi rujukan bagi masyarakat di bidang keilmuannya.
 
 1.  Kapabilitas Pimpinan UPPS
 
