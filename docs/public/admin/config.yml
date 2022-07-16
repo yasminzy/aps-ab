@@ -30,7 +30,7 @@ collections:
         file: "docs/lkps/1-tata-pamong-tata-kelola-dan-kerja-sama.md"
         fields:
           - name: "tabel-1"
-            label: "Kerjasama Tridharma Perguruan Tinggi"
+            label: "Kerja Sama"
             widget: "list"
             fields:
               - name: "jenis"
@@ -160,7 +160,7 @@ collections:
         file: "docs/lkps/3-sumber-daya-manusia.md"
         fields:
           - name: "tabel-3a1"
-            label: "Dosen Tetap Pengampu Mata Kuliah"
+            label: "Dosen Tetap"
             widget: "list"
             fields:
               - name: "nama"
@@ -236,7 +236,7 @@ collections:
                 widget: "text"
 
           - name: "tabel-3a2"
-            label: "Dosen Pembimbing Utama TA"
+            label: "Dosen Pembimbing"
             widget: "list"
             fields:
               - name: "nama"
@@ -298,11 +298,11 @@ collections:
                     widget: "string"
 
           - name: "tabel-3a3"
-            label: "EWMP Dosen Tetap PT"
+            label: "EWMP Dosen Tetap"
             widget: "list"
             fields:
               - name: "nama"
-                label: "Nama Dosen (DT)"
+                label: "Nama Dosen"
                 widget: "string"
 
               - name: "dtps"
@@ -344,7 +344,7 @@ collections:
                     value_type: "float"
 
           - name: "tabel-3a4"
-            label: "Dosen Tidak Tetap pengampu mata kuliah"
+            label: "Dosen Tidak Tetap"
             widget: "list"
             fields:
               - name: "nama"
@@ -416,11 +416,11 @@ collections:
                 widget: "boolean"
 
           - name: "tabel-3a5"
-            label: "Dosen Industri/Praktisi"
+            label: "Dosen Industri"
             widget: "list"
             fields:
               - name: "nama"
-                label: "Nama Dosen Industri/Praktisi"
+                label: "Nama Dosen"
                 widget: "string"
 
               - name: "nomor-induk"
@@ -467,7 +467,7 @@ collections:
                 value_type: "int"
 
           - name: "tabel-3b1"
-            label: "Pengakuan/Rekognisi DTPS"
+            label: "Pengakuan DTPS"
             widget: "list"
             fields:
               - name: "nama"
@@ -578,7 +578,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-3b5"
-            label: "Pagelaran/Pameran/Presentasi/Publikasi Ilmiah DTPS"
+            label: "Publikasi Ilmiah DTPS"
             widget: "list"
             fields:
               - name: "jenis"
@@ -635,7 +635,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-3b7"
-            label: "Produk/jasa DTPS yang diadopsi oleh industri/masyarakat"
+            label: "Produk DTPS"
             widget: "list"
             fields:
               - name: "nama"
@@ -655,7 +655,7 @@ collections:
                 widget: "string"
 
           - name: "tabel-3b8"
-            label: "Luaran Penelitian/PkM Lainnya oleh DTPS"
+            label: "Luaran Lainnya"
             widget: "list"
             fields:
               - name: "jenis"
@@ -708,7 +708,7 @@ collections:
                 widget: "string"
 
           - name: "tabel-3c"
-            label: "Data Tenaga Kependidikan"
+            label: "Tenaga Kependidikan"
             widget: "list"
             max: 4
             fields:
@@ -858,7 +858,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-4b"
-            label: "Prasarana dan Peralatan Utama Laboratorium"
+            label: "Prasarana Laboratorium"
             widget: "list"
             fields:
               - name: "nama-lab"
@@ -962,7 +962,7 @@ collections:
         file: "docs/lkps/5-pendidikan.md"
         fields:
           - name: "tabel-5a1"
-            label: "Kurikulum, Capaian Pembelajaran, dan Rencana Pembelajaran"
+            label: "Kurikulum"
             widget: "list"
             fields:
               - name: "semester"
@@ -1030,7 +1030,7 @@ collections:
                 widget: "string"
 
           - name: "tabel-5a2"
-            label: "Pembimbingan Tugas Akhir"
+            label: "Pembimbingan TA"
             widget: "list"
             fields:
               - name: "nama"
@@ -1125,7 +1125,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-5c"
-            label: "Integrasi Kegiatan Penelitian/PkM dalam Pembelajaran"
+            label: "Integrasi Penelitian/PkM"
             widget: "list"
             fields:
               - name: "nama"
@@ -1246,7 +1246,7 @@ collections:
         file: "docs/lkps/7-pengabdian-kepada-masyarakat.md"
         fields:
           - name: "tabel-7"
-            label: "PkM DTPS yang Melibatkan Mahasiswa"
+            label: "PkM DTPS"
             widget: "list"
             fields:
               - name: "nama-dosen"
@@ -1349,7 +1349,7 @@ collections:
                 widget: "string"
 
           - name: "tabel-8b2"
-            label: "Prestasi Nonakademik Mahasiswa"
+            label: "Prestasi Nonakademik"
             widget: "list"
             fields:
               - name: "nama"
@@ -1380,7 +1380,7 @@ collections:
                 widget: "string"
 
           - name: "tabel-8c"
-            label: "Masa studi lulusan Program Studi"
+            label: "Masa Studi"
             fields:
               - name: "ts-4"
                 label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2019/2020"
@@ -1478,7 +1478,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-8d1"
-            label: "Waktu Tunggu Lulusan"
+            label: "Waktu Tunggu"
             widget: "list"
             max: 3
             fields:
@@ -1530,7 +1530,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-8d2"
-            label: "Kesesuaian Bidang Kerja Lulusan"
+            label: "Kesesuaian Kerja"
             widget: "list"
             max: 3
             fields:
@@ -1577,7 +1577,7 @@ collections:
                     value_type: "int"
 
           - name: "tabel-8e1"
-            label: "Tempat Kerja Lulusan"
+            label: "Tempat Kerja"
             widget: "list"
             max: 3
             fields:
@@ -1651,7 +1651,7 @@ collections:
                   - label: "Kemampuan berkomunikasi"
                     value: 5
 
-                  - label: "Kerjasama tim"
+                  - label: "Kerja sama tim"
                     value: 6
 
                   - label: "Pengembangan diri"
@@ -1686,7 +1686,7 @@ collections:
                 widget: "text"
 
           - name: "tabel-8f4"
-            label: "Produk/jasa mahasiswa yang diadopsi industri/masyarakat"
+            label: "Produk Mahasiswa"
             widget: "list"
             fields:
               - name: "nama"
@@ -1710,7 +1710,7 @@ collections:
         file: "docs/lkps/9-penjaminan-mutu.md"
         fields:
           - name: "tabel-9a"
-            label: "Evaluasi dan Pengendalian SPMI"
+            label: "Evaluasi SPMI"
             widget: "list"
             max: 24
             fields:
@@ -1817,7 +1817,7 @@ collections:
                 time_format: false
 
           - name: "tabel-9b"
-            label: "Ketersediaan Dokumen/Buku SPMI"
+            label: "Dokumen SPMI"
             widget: "list"
             max: 4
             fields:
