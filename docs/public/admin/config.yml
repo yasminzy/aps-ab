@@ -1382,7 +1382,7 @@ collections:
           - name: "tabel-8c"
             label: "Masa studi lulusan Program Studi"
             fields:
-              - name: "ts-4"
+              - name: "masa-studi-ts-4"
                 label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun"
                 widget: "object"
                 fields:
@@ -1411,7 +1411,7 @@ collections:
                     widget: "number"
                     value_type: "int"
 
-              - name: "ts-3"
+              - name: "masa-studi-ts-3"
                 label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun"
                 widget: "object"
                 fields:
@@ -1435,7 +1435,7 @@ collections:
                     widget: "number"
                     value_type: "int"
 
-              - name: "ts-2"
+              - name: "masa-studi-ts-2"
                 label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun"
                 widget: "object"
                 fields:
@@ -1454,7 +1454,7 @@ collections:
                     widget: "number"
                     value_type: "int"
 
-              - name: "ts-1"
+              - name: "masa-studi-ts-1"
                 label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun"
                 widget: "object"
                 fields:
@@ -1468,7 +1468,7 @@ collections:
                     widget: "number"
                     value_type: "int"
 
-              - name: "ts"
+              - name: "masa-studi-ts"
                 label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun"
                 widget: "object"
                 fields:
