@@ -69,7 +69,7 @@ collections:
                   - label: "Nasional"
                     value: "nasional"
 
-                  - label: "Lokal/Wilayah"
+                  - label: "Lokal/ Wilayah"
                     value: "wilayah"
 
               - name: "judul"
@@ -99,7 +99,7 @@ collections:
                 hint: "Bukti kerjasama dapat berupa Surat Penugasan, Surat Perjanjian Kerjasama (SPK), bukti-bukti pelaksanaan (laporan, hasil kerjasama, luaran kerjasama), atau bukti lain yang relevan. Dokumen Memorandum of Understanding (MoU), Memorandum of Agreement (MoA), atau dokumen sejenis yang memayungi pelaksanaan kerjasama, tidak dapat dijadikan bukti realisasi kerjasama."
 
       - name: "tabel-2a2"
-        label: "2.a.2 - Seleksi Mahasiswa Untuk Program Studi Diploma Tiga"
+        label: "2.a.2 - Seleksi Mahasiswa untuk Program Studi Diploma Tiga"
         file: "docs/lkps/tabel-2a2.md"
         fields:
           - name: "data"
@@ -107,6 +107,7 @@ collections:
             widget: "list"
             summary: "{{fields.tahun}}"
             max: 4
+            min: 4
             fields:
               - name: "tahun"
                 label: "Tahun Akademik"
@@ -193,20 +194,20 @@ collections:
                 widget: "string"
 
               - name: "nomorInduk"
-                label: "NIDN/NIDK"
+                label: "NIDN/ NIDK"
                 widget: "string"
 
               - name: "namaProdi"
                 label: "Nama Prodi Pasca Sarjana"
                 widget: "object"
-                hint: "Diisi dengan nama Program Studi pada pendidikan pasca sarjana (Magister/Magister Terapan dan/atau Doktor/Doktor Terapan) yang pernah diikuti."
+                hint: "Diisi dengan nama Program Studi pada pendidikan pasca sarjana (Magister/ Magister Terapan dan/ atau Doktor/ Doktor Terapan) yang pernah diikuti."
                 fields:
                   - name: "s2"
-                    label: "Magister/Magister Terapan"
+                    label: "Magister/ Magister Terapan"
                     widget: "string"
 
                   - name: "s3"
-                    label: "Doktor/Doktor Terapan"
+                    label: "Doktor/ Doktor Terapan"
                     widget: "string"
 
               - name: "bidangKeahlian"
@@ -217,24 +218,28 @@ collections:
               - name: "sesuaiKompetensi"
                 label: "Kesesuaian dengan Kompetensi Inti PS"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika bidang keahlian sesuai dengan kompetensi inti Program Studi yang diakreditasi."
 
               - name: "jabatan"
                 label: "Jabatan Akademik"
                 widget: "select"
-                default: "asisten-ahli"
+                default: "tidakAda"
                 options:
+                  - label: "-"
+                    value: 0
+
                   - label: "Asisten Ahli"
-                    value: "asisten-ahli"
+                    value: 1
 
                   - label: "Lektor"
-                    value: "lektor"
+                    value: 2
 
                   - label: "Lektor Kepala"
-                    value: "lektor-kepala"
+                    value: 3
 
                   - label: "Guru Besar"
-                    value: "guru-besar"
+                    value: 4
 
               - name: "noSertifikatPendidik"
                 label: "Nomor Sertifikat Pendidik Profesional"
@@ -242,7 +247,7 @@ collections:
                 hint: "Diisi dengan nomor Sertifikat Pendidik Profesional."
 
               - name: "sertifikat"
-                label: "Sertifikat Profesi/Kompetensi/Industri"
+                label: "Sertifikat Profesi/ Kompetensi/ Industri"
                 widget: "object"
                 hint: "Diisi dengan bidang sertifikasi dan lembaga penerbit sertifikat."
                 fields:
@@ -262,6 +267,7 @@ collections:
               - name: "bidangKeahlianSesuaiMatkul"
                 label: "Kesesuaian Bidang Keahlian dengan Mata Kuliah yang Diampu"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika bidang keahlian sesuai dengan mata kuliah yang diampu."
 
               - name: "matkulDiPsLain"
@@ -361,6 +367,7 @@ collections:
               - name: "dtps"
                 label: "DTPS"
                 widget: "boolean"
+                required: false
                 hint: "Toggle untuk Dosen Tetap Perguruan Tinggi yang ditugaskan sebagai pengampu mata kuliah dengan bidang keahlian yang sesuai dengan kompetensi inti Program Studi yang diakreditasi."
 
               - name: "ewmp"
@@ -398,7 +405,7 @@ collections:
                     min: 0
 
                   - name: "tugasTambahan"
-                    label: "Tugas Tambahan dan/atau Penunjang"
+                    label: "Tugas Tambahan dan/ atau Penunjang"
                     widget: "number"
                     value_type: "float"
                     min: 0
@@ -417,21 +424,21 @@ collections:
                 widget: "string"
 
               - name: "nomorInduk"
-                label: "NIDN/NIDK"
+                label: "NIDN/ NIDK"
                 widget: "string"
                 hint: "NIDN (Nomor Induk Dosen Nasional), NIDK (Nomor Induk Dosen Khusus), diisi jika ada."
 
               - name: "pendidikan"
                 label: "Pendidikan Pasca Sarjana"
                 widget: "object"
-                hint: "Diisi dengan jenis program (Magister/Magister Terapan/Doktor/Doktor Terapan) dan nama Program Studi pada pendidikan pasca sarjana yang pernah diikuti."
+                hint: "Diisi dengan jenis program (Magister/ Magister Terapan/ Doktor/ Doktor Terapan) dan nama Program Studi pada pendidikan pasca sarjana yang pernah diikuti."
                 fields:
                   - name: "s2"
-                    label: "Magister/Magister Terapan"
+                    label: "Magister/ Magister Terapan"
                     widget: "string"
 
                   - name: "s3"
-                    label: "Doktor/Doktor Terapan"
+                    label: "Doktor/ Doktor Terapan"
                     widget: "string"
 
               - name: "bidangKeahlian"
@@ -442,19 +449,22 @@ collections:
               - name: "jabatan"
                 label: "Jabatan Akademik"
                 widget: "select"
-                default: "asisten-ahli"
+                default: "tidakAda"
                 options:
+                  - label: "-"
+                    value: 0
+
                   - label: "Asisten Ahli"
-                    value: "asisten-ahli"
+                    value: 1
 
                   - label: "Lektor"
-                    value: "lektor"
+                    value: 2
 
                   - label: "Lektor Kepala"
-                    value: "lektor-kepala"
+                    value: 3
 
                   - label: "Guru Besar"
-                    value: "guru-besar"
+                    value: 4
 
               - name: "noSertifikatPendidik"
                 label: "Nomor Sertifikat Pendidik Profesional"
@@ -462,7 +472,7 @@ collections:
                 hint: "Diisi dengan nomor sertifikat pendidik profesional."
 
               - name: "sertifikat"
-                label: "Sertifikat Profesi/Kompetensi/Industri"
+                label: "Sertifikat Profesi/ Kompetensi/ Industri"
                 widget: "object"
                 hint: "Diisi dengan bidang sertifikasi dan lembaga penerbit sertifikat."
                 fields:
@@ -482,10 +492,11 @@ collections:
               - name: "bidangKeahlianSesuaiMatkul"
                 label: "Kesesuaian Bidang Keahlian dengan Mata Kuliah yang Diampu"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika bidang keahlian sesuai dengan mata kuliah yang diampu."
 
       - name: "tabel-3a5"
-        label: "3.a.5 - Dosen Industri/Praktisi"
+        label: "3.a.5 - Dosen Industri/ Praktisi"
         file: "docs/lkps/tabel-3a5.md"
         fields:
           - name: "data"
@@ -503,9 +514,9 @@ collections:
                 hint: "NIDK = Nomor Induk Dosen Khusus, diisi jika ada."
 
               - name: "perusahaan"
-                label: "Perusahaan/Industri"
+                label: "Perusahaan/ Industri"
                 widget: "string"
-                hint: "Diisi dengan nama perusahaan/industri asal dosen industri/praktisi."
+                hint: "Diisi dengan nama perusahaan/ industri asal dosen industri/ praktisi."
 
               - name: "pendidikan"
                 label: "Pendidikan Tertinggi"
@@ -524,7 +535,7 @@ collections:
                 hint: "Bidang keahlian sesuai pendidikan tertinggi."
 
               - name: "sertifikat"
-                label: "Sertifikat Profesi/Kompetensi/Industri"
+                label: "Sertifikat Profesi/ Kompetensi/ Industri"
                 widget: "object"
                 hint: "Diisi dengan bidang sertifikasi dan lembaga penerbit sertifikat."
                 fields:
@@ -539,7 +550,7 @@ collections:
               - name: "matkul"
                 label: "Mata Kuliah yang Diampu"
                 widget: "text"
-                hint: "Diisi dengan nama mata kuliah yang diampu pada saat TS-2 s.d. TS. Dosen industri/praktisi dapat terlibat sebagai pengampu secara penuh atau sebagai bagian dari kelompok dosen atau team teaching."
+                hint: "Diisi dengan nama mata kuliah yang diampu pada saat TS-2 s.d. TS. Dosen industri/ praktisi dapat terlibat sebagai pengampu secara penuh atau sebagai bagian dari kelompok dosen atau team teaching."
 
               - name: "sks"
                 label: "Bobot Kredit (SKS)"
@@ -548,7 +559,7 @@ collections:
                 min: 0
 
       - name: "tabel-3b1"
-        label: "3.b.1 - Pengakuan/Rekognisi DTPS"
+        label: "3.b.1 - Pengakuan/ Rekognisi DTPS"
         file: "docs/lkps/tabel-3b1.md"
         fields:
           - name: "data"
@@ -567,7 +578,7 @@ collections:
               - name: "rekognisiDanBuktiPendukung"
                 label: "Rekognisi dan Bukti Pendukung"
                 widget: "object"
-                hint: "Pengakuan atau rekognisi atas kepakaran/prestasi/kinerja dapat berupa: a) menjadi visiting lecturer atau visiting scholar di Program Studi/Perguruan Tinggi terakreditasi A/Unggul atau Program Studi/Perguruan Tinggi Internasional bereputasi. b) menjadi keynote speaker/invited speaker pada pertemuan ilmiah tingkat nasional/ internasional. c) menjadi editor atau mitra bestari pada jurnal nasional terakreditasi/jurnal internasional bereputasi di bidang yang sesuai dengan bidang Program Studi. d) menjadi tenaga ahli/konsultan di lembaga/industri tingkat wilayah/nasional/ internasional pada bidang yang sesuai dengan bidang Program Studi. e) mendapat penghargaan atas prestasi dan kinerja di tingkat wilayah/nasional/internasional."
+                hint: "Pengakuan atau rekognisi atas kepakaran/ prestasi/ kinerja dapat berupa: a) menjadi visiting lecturer atau visiting scholar di Program Studi/ Perguruan Tinggi terakreditasi A/ Unggul atau Program Studi/ Perguruan Tinggi Internasional bereputasi. b) menjadi keynote speaker/ invited speaker pada pertemuan ilmiah tingkat nasional/  internasional. c) menjadi editor atau mitra bestari pada jurnal nasional terakreditasi/ jurnal internasional bereputasi di bidang yang sesuai dengan bidang Program Studi. d) menjadi tenaga ahli/ konsultan di lembaga/ industri tingkat wilayah/ nasional/  internasional pada bidang yang sesuai dengan bidang Program Studi. e) mendapat penghargaan atas prestasi dan kinerja di tingkat wilayah/ nasional/ internasional."
                 fields:
                   - name: "rekognisi"
                     label: "Rekognisi"
@@ -604,19 +615,21 @@ collections:
           - name: "data"
             label: "Penelitian DTPS"
             widget: "list"
+            max: 3
+            min: 3
             fields:
               - name: "pembiayaan"
                 label: "Sumber Pembiayaan"
                 widget: "select"
                 default: 1
                 options:
-                  - label: "Perguruan Tinggi/Mandiri"
+                  - label: "1. Perguruan Tinggi/ Mandiri"
                     value: 1
 
-                  - label: "Lembaga Dalam Negeri (di luar PT)"
+                  - label: "2. Lembaga Dalam Negeri (di luar PT)"
                     value: 2
 
-                  - label: "Lembaga Luar Negeri"
+                  - label: "3. Lembaga Luar Negeri"
                     value: 3
 
               - name: "penelitian"
@@ -654,7 +667,7 @@ collections:
                 widget: "select"
                 default: 1
                 options:
-                  - label: "Perguruan Tinggi/Mandiri"
+                  - label: "Perguruan Tinggi/ Mandiri"
                     value: 1
 
                   - label: "Lembaga Dalam Negeri (di luar PT)"
@@ -686,49 +699,51 @@ collections:
                     min: 0
 
       - name: "tabel-3b5"
-        label: "3.b.5 - Pagelaran/Pameran/Presentasi/Publikasi Ilmiah DTPS"
+        label: "3.b.5 - Pagelaran/ Pameran/ Presentasi/ Publikasi Ilmiah DTPS"
         file: "docs/lkps/tabel-3b5.md"
         fields:
           - name: "data"
             label: "Publikasi Ilmiah DTPS"
             widget: "list"
+            max: 10
+            min: 10
             fields:
               - name: "jenis"
                 label: "Jenis Publikasi"
                 widget: "select"
                 default: 1
                 options:
-                  - label: "Publikasi di jurnal nasional tidak terakreditasi"
+                  - label: "1. Publikasi di jurnal nasional tidak terakreditasi"
                     value: 1
 
-                  - label: "Publikasi di jurnal nasional terakreditasi"
+                  - label: "2. Publikasi di jurnal nasional terakreditasi"
                     value: 2
 
-                  - label: "Publikasi di jurnal internasional"
+                  - label: "3. Publikasi di jurnal internasional"
                     value: 3
 
-                  - label: "Publikasi di jurnal internasional bereputasi"
+                  - label: "4. Publikasi di jurnal internasional bereputasi"
                     value: 4
 
-                  - label: "Publikasi di seminar wilayah/lokal/perguruan tinggi"
+                  - label: "5. Publikasi di seminar wilayah/ lokal/ perguruan tinggi"
                     value: 5
 
-                  - label: "Publikasi di seminar nasional"
+                  - label: "6. Publikasi di seminar nasional"
                     value: 6
 
-                  - label: "Publikasi di seminar internasional"
+                  - label: "7. Publikasi di seminar internasional"
                     value: 7
 
-                  - label: "Pagelaran/pameran/presentasi dalam forum di tingkat wilayah"
+                  - label: "8. Pagelaran/ pameran/ presentasi dalam forum di tingkat wilayah"
                     value: 8
 
-                  - label: "Pagelaran/pameran/presentasi dalam forum di tingkat nasional"
+                  - label: "9. Pagelaran/ pameran/ presentasi dalam forum di tingkat nasional"
                     value: 9
 
-                  - label: "Pagelaran/pameran/presentasi dalam forum di tingkat internasional"
+                  - label: "10. Pagelaran/ pameran/ presentasi dalam forum di tingkat internasional"
                     value: 10
 
-              - name: "jml"
+              - name: "jumlah"
                 label: "Jumlah Judul"
                 widget: "object"
                 fields:
@@ -751,24 +766,24 @@ collections:
                     min: 0
 
       - name: "tabel-3b7"
-        label: "3.b.7 - Produk/Jasa DTPS yang Diadopsi oleh Industri/Masyarakat"
+        label: "3.b.7 - Produk/ Jasa DTPS yang Diadopsi oleh Industri/ Masyarakat"
         file: "docs/lkps/tabel-3b7.md"
         fields:
           - name: "data"
             label: "Produk DTPS"
             widget: "list"
-            summary: "{{fields.nama-produk}}"
+            summary: "{{fields.namaProduk}}"
             fields:
               - name: "nama"
                 label: "Nama Dosen"
                 widget: "string"
 
               - name: "namaProduk"
-                label: "Nama Produk/Jasa"
+                label: "Nama Produk/ Jasa"
                 widget: "string"
 
-              - name: "deskripsi"
-                label: "Deskripsi Produk/Jasa"
+              - name: "deskripsiProduk"
+                label: "Deskripsi Produk/ Jasa"
                 widget: "text"
 
               - name: "bukti"
@@ -776,7 +791,7 @@ collections:
                 widget: "string"
 
       - name: "tabel-3b8"
-        label: "3.b.8 - Luaran Penelitian/PkM Lainnya oleh DTPS"
+        label: "3.b.8 - Luaran Penelitian/ PkM Lainnya oleh DTPS"
         file: "docs/lkps/tabel-3b8.md"
         fields:
           - name: "data"
@@ -813,12 +828,12 @@ collections:
               - name: "noPaten"
                 label: "Nomor Paten"
                 widget: "string"
-                hint: "Luaran penelitian/PkM yang mendapat pengakuan Hak Kekayaan Intelektual (HKI) dibuktikan dengan penerbitan paten oleh Kemenkumham."
+                hint: "Luaran penelitian/ PkM yang mendapat pengakuan Hak Kekayaan Intelektual (HKI) dibuktikan dengan penerbitan paten oleh Kemenkumham."
 
               - name: "noSertifikat"
                 label: "Nomor Sertifikat"
                 widget: "string"
-                hint: "Luaran penelitian/PkM yang mendapat pengakuan Hak Kekayaan Intelektual (HKI) dibuktikan dengan penerbitan sertifikat oleh Kemenkumham atau kementerian lain yang berwenang."
+                hint: "Luaran penelitian/ PkM yang mendapat pengakuan Hak Kekayaan Intelektual (HKI) dibuktikan dengan penerbitan sertifikat oleh Kemenkumham atau kementerian lain yang berwenang."
 
               - name: "tkt"
                 label: "TKT"
@@ -827,7 +842,7 @@ collections:
               - name: "noSertifikatTkt"
                 label: "Nomor Sertifikat TKT"
                 widget: "string"
-                hint: "Luaran penelitian/PkM yang mendapat sertifikat TKT dari Kemendikbudristek atau kementerian/lembaga lain yang berwenang."
+                hint: "Luaran penelitian/ PkM yang mendapat sertifikat TKT dari Kemendikbudristek atau kementerian/ lembaga lain yang berwenang."
 
               - name: "noIsbn"
                 label: "Nomor ISBN"
@@ -841,6 +856,7 @@ collections:
             label: "Tenaga Kependidikan"
             widget: "list"
             max: 4
+            min: 4
             fields:
               - name: "jenis"
                 label: "Jenis Tenaga Kependidikan"
@@ -850,7 +866,7 @@ collections:
                   - label: "1. Pustakawan"
                     value: 1
 
-                  - label: "2. Laboran/Teknisi/Analis/Operator/Programmer"
+                  - label: "2. Laboran/ Teknisi/ Analis/ Operator/ Programmer"
                     value: 2
 
                   - label: "3. Administrasi"
@@ -905,8 +921,8 @@ collections:
                     value_type: "int"
                     min: 0
 
-                  - name: "smaSmk"
-                    label: "SMA/SMK"
+                  - name: "sma"
+                    label: "SMA/ SMK"
                     widget: "number"
                     value_type: "int"
                     min: 0
@@ -923,6 +939,7 @@ collections:
             label: "Penggunaan Dana"
             widget: "list"
             max: 10
+            min: 10
             fields:
               - name: "jenis"
                 label: "Jenis Penggunaan"
@@ -1010,67 +1027,75 @@ collections:
           - name: "data"
             label: "Prasarana Laboratorium"
             widget: "list"
-            summary: "{{fields.nama-lab}} - {{fields.nama-alat}}"
+            summary: "{{fields.namaLab}}"
             fields:
               - name: "namaLab"
                 label: "Nama Laboratorium"
                 widget: "string"
 
-              - name: "jmlLab"
+              - name: "jumlahLab"
                 label: "Jumlah Laboratorium"
-                widget: "string"
-
-              - name: "namaAlat"
-                label: "Nama Alat/Peraga"
-                widget: "string"
-
-              - name: "jmlAlat"
-                label: "Jumlah Alat"
-                widget: "object"
-                fields:
-                  - name: "std"
-                    label: "Standar Minimal"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
-
-                  - name: "yangDimiliki"
-                    label: "Yang Dimiliki UPPS"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
-
-              - name: "kepemilikan"
-                label: "Kepemilikan"
-                widget: "select"
-                default: "sendiri"
-                options:
-                  - label: "Sendiri"
-                    value: "sendiri"
-
-                  - label: "Sewa"
-                    value: "sewa"
-
-              - name: "kondisi"
-                label: "Kondisi"
-                widget: "select"
-                default: "terawat"
-                options:
-                  - label: "Terawat"
-                    value: "terawat"
-
-                  - label: "Tidak Terawat"
-                    value: "tidak-terawat"
-
-              - name: "logbook"
-                label: "Logbook"
-                widget: "boolean"
-
-              - name: "waktu"
-                label: "Rata Rata Waktu Penggunaan (Jam/Minggu)"
                 widget: "number"
-                value_type: "float"
+                value_type: "int"
                 min: 0
+
+              - name: "alat"
+                label: "Alat"
+                widget: "list"
+                summary: "{{fields.namaAlat}}"
+                fields:
+                  - name: "namaAlat"
+                    label: "Nama"
+                    widget: "string"
+
+                  - name: "jumlahAlat"
+                    label: "Jumlah"
+                    widget: "object"
+                    fields:
+                      - name: "min"
+                        label: "Standar Minimal"
+                        widget: "number"
+                        value_type: "int"
+                        min: 0
+
+                      - name: "yangDimiliki"
+                        label: "Yang Dimiliki UPPS"
+                        widget: "number"
+                        value_type: "int"
+                        min: 0
+
+                  - name: "kepemilikan"
+                    label: "Kepemilikan"
+                    widget: "select"
+                    default: "sendiri"
+                    options:
+                      - label: "Sendiri"
+                        value: "sendiri"
+
+                      - label: "Sewa"
+                        value: "sewa"
+
+                  - name: "kondisi"
+                    label: "Kondisi"
+                    widget: "select"
+                    default: "terawat"
+                    options:
+                      - label: "Terawat"
+                        value: "terawat"
+
+                      - label: "Tidak Terawat"
+                        value: "tidak-terawat"
+
+                  - name: "logbook"
+                    label: "Logbook"
+                    widget: "boolean"
+                    required: false
+
+                  - name: "waktu"
+                    label: "Rata Rata Waktu Penggunaan (Jam/ Minggu)"
+                    widget: "number"
+                    value_type: "float"
+                    min: 0
 
       - name: "tabel-4c"
         label: "4.c - Data Prasarana di UPPS"
@@ -1099,7 +1124,7 @@ collections:
                 widget: "string"
 
               - name: "kepemilikan"
-                label: "Milik Sendiri/Sewa"
+                label: "Milik Sendiri/ Sewa"
                 widget: "select"
                 default: "sendiri"
                 options:
@@ -1125,21 +1150,29 @@ collections:
         file: "docs/lkps/tabel-5a1.md"
         fields:
           - name: "data"
-            label: "Kurikulum"
+            label: "Mata Kuliah"
             widget: "list"
-            summary: "{{fields.kode-matkul}}"
+            summary: "{{fields.semester}} - {{fields.nama}}"
             fields:
-              - name: "smt"
+              - name: "semester"
                 label: "Semester"
+                widget: "number"
+                value_type: "int"
+                max: 6
+                min: 1
+
+              - name: "kode"
+                label: "Kode Mata Kuliah"
                 widget: "string"
 
-              - name: "kode-matkul"
-                label: "Kode Mata Kuliah"
+              - name: "nama"
+                label: "Nama Mata Kuliah"
                 widget: "string"
 
               - name: "matkulKompetensi"
                 label: "Mata Kuliah Kompetensi"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika mata kuliah termasuk dalam mata kuliah kompetensi program studi."
 
               - name: "sks"
@@ -1147,7 +1180,7 @@ collections:
                 widget: "object"
                 fields:
                   - name: "kuliah"
-                    label: "Kuliah/Responsi/Tutorial"
+                    label: "Kuliah/ Responsi/ Tutorial"
                     widget: "number"
                     value_type: "int"
                     min: 0
@@ -1159,7 +1192,7 @@ collections:
                     min: 0
 
                   - name: "praktik"
-                    label: "Praktikum/Praktik/Praktik Lapangan"
+                    label: "Praktikum/ Praktik/ Praktik Lapangan"
                     widget: "number"
                     value_type: "int"
                     min: 0
@@ -1171,7 +1204,7 @@ collections:
                 value_type: "int"
                 min: 0
 
-              - name: "cp"
+              - name: "cpl"
                 label: "Capaian Pembelajaran"
                 widget: "object"
                 hint: "Toggle pada unsur pembentuk Capaian Pembelajaran Lulusan (CPL) sesuai dengan rencana pembelajaran."
@@ -1179,18 +1212,22 @@ collections:
                   - name: "sikap"
                     label: "Sikap"
                     widget: "boolean"
+                    required: false
 
                   - name: "pengetahuan"
                     label: "Pengetahuan"
                     widget: "boolean"
+                    required: false
 
                   - name: "keterampilanUmum"
                     label: "Keterampilan Umum"
                     widget: "boolean"
+                    required: false
 
                   - name: "keterampilanKhusus"
                     label: "Keterampilan Khusus"
                     widget: "boolean"
+                    required: false
 
               - name: "dokumen"
                 label: "Dokumen Rencana Pembelajaran"
@@ -1232,19 +1269,22 @@ collections:
                   - name: "jabatan"
                     label: "Jabatan Akademik"
                     widget: "select"
-                    default: "asisten-ahli"
+                    default: "tidakAda"
                     options:
+                      - label: "-"
+                        value: "tidakAda"
+
                       - label: "Asisten Ahli"
-                        value: "asisten-ahli"
+                        value: "asistenAhli"
 
                       - label: "Lektor"
-                        value: "lektor"
+                        value: "lektorX"
 
                       - label: "Lektor Kepala"
-                        value: "lektor-kepala"
+                        value: "lektorKepala"
 
                       - label: "Guru Besar"
-                        value: "guru-besar"
+                        value: "guruBesar"
 
               - name: "mhs"
                 label: "Jumlah Mahasiswa"
@@ -1268,7 +1308,7 @@ collections:
                     value_type: "int"
                     min: 0
 
-              - name: "pertemuanDenganMahasiswa"
+              - name: "pertemuan"
                 label: "Jumlah Pertemuan dengan Mahasiswa"
                 widget: "object"
                 fields:
@@ -1290,7 +1330,7 @@ collections:
                     value_type: "int"
                     min: 0
 
-              - name: "lama-ta"
+              - name: "lamaTa"
                 label: "Lama Penyelesaian Tugas Akhir (Bulan)"
                 widget: "object"
                 fields:
@@ -1313,11 +1353,11 @@ collections:
                     min: 0
 
       - name: "tabel-5c"
-        label: "5.c - Integrasi Kegiatan Penelitian/PkM dalam Pembelajaran"
+        label: "5.c - Integrasi Kegiatan Penelitian/ PkM dalam Pembelajaran"
         file: "docs/lkps/tabel-5c.md"
         fields:
           - name: "data"
-            label: "Integrasi Penelitian/PkM"
+            label: "Integrasi Penelitian/ PkM"
             widget: "list"
             summary: "{{fields.nama}}"
             fields:
@@ -1326,9 +1366,9 @@ collections:
                 widget: "string"
 
               - name: "judul"
-                label: "Judul Penelitian/PkM"
+                label: "Judul Penelitian/ PkM"
                 widget: "string"
-                hint: "Judul Penelitian dan PkM tercatat di unit/lembaga yang mengelola kegiatan Penelitian/PkM di tingkat Perguruan Tinggi/UPPS."
+                hint: "Judul Penelitian dan PkM tercatat di unit/ lembaga yang mengelola kegiatan Penelitian/ PkM di tingkat Perguruan Tinggi/ UPPS."
 
               - name: "matkul"
                 label: "Mata Kuliah"
@@ -1337,32 +1377,24 @@ collections:
               - name: "bentuk"
                 label: "Bentuk Integrasi"
                 widget: "string"
-                hint: "Bentuk integrasi dapat berupa tambahan materi perkuliahan, studi kasus, Bab/Subbab dalam buku ajar, bahan ajar, atau bentuk lain yang relevan."
+                hint: "Bentuk integrasi dapat berupa tambahan materi perkuliahan, studi kasus, Bab/ Subbab dalam buku ajar, bahan ajar, atau bentuk lain yang relevan."
 
               - name: "tahun"
-                label: "Tahun Penelitian/PkM"
-                widget: "object"
-                fields:
-                  - name: "ts-2"
-                    label: "2021/2022"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+                label: "Tahun Penelitian/ PkM"
+                widget: "select"
+                default: "ts-2"
+                options:
+                  - label: "2021/2022"
+                    value: "ts-2"
 
-                  - name: "ts-1"
-                    label: "2022/2023"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+                  - label: "2022/2023"
+                    value: "ts-1"
 
-                  - name: "ts"
-                    label: "2023/2024"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+                  - label: "2023/2024"
+                    value: "ts"
 
               - name: "tingkat"
-                label: "Tingkat Penelitian/PkM"
+                label: "Tingkat Penelitian/ PkM"
                 widget: "select"
                 default: "wilayah"
                 options:
@@ -1372,10 +1404,10 @@ collections:
                   - label: "Nasional"
                     value: "nasional"
 
-                  - label: "Lokal/Wilayah"
+                  - label: "Lokal/ Wilayah"
                     value: "wilayah"
 
-              - name: "kesesuaianPenelitianDenganRoadmap"
+              - name: "kesesuaian"
                 label: "Kesesuaian Penelitian dengan Roadmap"
                 widget: "select"
                 default: "sesuai"
@@ -1384,10 +1416,10 @@ collections:
                     value: "sesuai"
 
                   - label: "Kurang Sesuai"
-                    value: "kurang-sesuai"
+                    value: "kurang"
 
                   - label: "Tidak Sesuai"
-                    value: "tidak-sesuai"
+                    value: "tidak"
 
       - name: "tabel-5d"
         label: "5.d - Kepuasan Mahasiswa"
@@ -1397,6 +1429,7 @@ collections:
             label: "Kepuasan Mahasiswa"
             widget: "list"
             max: 5
+            min: 5
             fields:
               - name: "aspek"
                 label: "Aspek yang Diukur"
@@ -1418,11 +1451,11 @@ collections:
                   - label: "5. Tangible"
                     value: 5
 
-              - name: "kepuasanMahasiswa"
+              - name: "kepuasan"
                 label: "Tingkat Kepuasan Mahasiswa"
                 widget: "object"
                 fields:
-                  - name: "sangat-baik"
+                  - name: "sangatBaik"
                     label: "Sangat baik"
                     widget: "number"
                     value_type: "float"
@@ -1447,7 +1480,7 @@ collections:
                     min: 0
 
               - name: "rencanaTindakLanjut"
-                label: "Rencana Tindak Lanjut oleh UPPS/PS"
+                label: "Rencana Tindak Lanjut oleh UPPS/ PS"
                 widget: "text"
 
       - name: "tabel-7"
@@ -1491,6 +1524,7 @@ collections:
             widget: "list"
             summary: "{{fields.tahun}}"
             max: 3
+            min: 3
             fields:
               - name: "tahun"
                 label: "Tahun Lulus"
@@ -1522,13 +1556,13 @@ collections:
                     value_type: "float"
                     min: 0
 
-                  - name: "rata-rata"
+                  - name: "avg"
                     label: "Rata-Rata"
                     widget: "number"
                     value_type: "float"
                     min: 0
 
-                  - name: "maks"
+                  - name: "max"
                     label: "Maks"
                     widget: "number"
                     value_type: "float"
@@ -1558,7 +1592,7 @@ collections:
                 widget: "select"
                 default: "wilayah"
                 options:
-                  - label: "Lokal/Wilayah"
+                  - label: "Lokal/ Wilayah"
                     value: "wilayah"
 
                   - label: "Nasional"
@@ -1595,7 +1629,7 @@ collections:
                 widget: "select"
                 default: "wilayah"
                 options:
-                  - label: "Lokal/Wilayah"
+                  - label: "Lokal/ Wilayah"
                     value: "wilayah"
 
                   - label: "Nasional"
@@ -1609,128 +1643,123 @@ collections:
                 widget: "string"
 
       - name: "tabel-8c"
-        label: "8.c - Masa studi lulusan Program Studi"
+        label: "8.c - Masa Studi Lulusan Program Studi"
         file: "docs/lkps/tabel-8c.md"
         fields:
-          - name: "data"
-            label: "Masa Studi"
-            widget: "list"
-            max: 5
+          - name: "ts-4"
+            label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2019/2020"
+            widget: "object"
+            hint: "Tidak memasukkan mahasiswa transfer."
             fields:
-              - name: "ts-4"
-                label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2019/2020"
-                widget: "object"
-                hint: "Tidak memasukkan mahasiswa transfer."
-                fields:
-                  - name: "masukTs4"
-                    label: "Tahun masuk 2019/2020"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs4"
+                label: "Tahun masuk 2019/2020"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-              - name: "ts-3"
-                label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2020/2021"
-                widget: "object"
-                hint: "Tidak memasukkan mahasiswa transfer."
-                fields:
-                  - name: "masukTs4"
-                    label: "Tahun masuk 2019/2020"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+          - name: "ts-3"
+            label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2020/2021"
+            widget: "object"
+            hint: "Tidak memasukkan mahasiswa transfer."
+            fields:
+              - name: "masukTs4"
+                label: "Tahun masuk 2019/2020"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs3"
-                    label: "2020/2021"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs3"
+                label: "Tahun masuk 2020/2021"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-              - name: "ts-2"
-                label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2021/2022"
-                widget: "object"
-                hint: "Tidak memasukkan mahasiswa transfer."
-                fields:
-                  - name: "masukTs4"
-                    label: "Tahun masuk 2019/2020"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+          - name: "ts-2"
+            label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2021/2022"
+            widget: "object"
+            hint: "Tidak memasukkan mahasiswa transfer."
+            fields:
+              - name: "masukTs4"
+                label: "Tahun masuk 2019/2020"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs3"
-                    label: "2020/2021"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs3"
+                label: "Tahun masuk 2020/2021"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs2"
-                    label: "2021/2022"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs2"
+                label: "Tahun masuk 2021/2022"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-              - name: "ts-1"
-                label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2022/2023"
-                widget: "object"
-                hint: "Tidak memasukkan mahasiswa transfer."
-                fields:
-                  - name: "masukTs4"
-                    label: "Tahun masuk 2019/2020"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+          - name: "ts-1"
+            label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2022/2023"
+            widget: "object"
+            hint: "Tidak memasukkan mahasiswa transfer."
+            fields:
+              - name: "masukTs4"
+                label: "Tahun masuk 2019/2020"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs3"
-                    label: "2020/2021"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs3"
+                label: "Tahun masuk 2020/2021"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs2"
-                    label: "2021/2022"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs2"
+                label: "Tahun masuk 2021/2022"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs1"
-                    label: "2022/2023"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs1"
+                label: "Tahun masuk 2022/2023"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-              - name: "ts"
-                label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2023/2024"
-                widget: "object"
-                hint: "Tidak memasukkan mahasiswa transfer."
-                fields:
-                  - name: "masukTs4"
-                    label: "Tahun masuk 2019/2020"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+          - name: "ts"
+            label: "Jumlah Mahasiswa Reguler per Angkatan pada Tahun 2023/2024"
+            widget: "object"
+            hint: "Tidak memasukkan mahasiswa transfer."
+            fields:
+              - name: "masukTs4"
+                label: "Tahun masuk 2019/2020"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs3"
-                    label: "2020/2021"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs3"
+                label: "Tahun masuk 2020/2021"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs2"
-                    label: "2021/2022"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs2"
+                label: "Tahun masuk 2021/2022"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masukTs1"
-                    label: "2022/2023"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs1"
+                label: "Tahun masuk 2022/2023"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
-                  - name: "masuk-ts"
-                    label: "2023/2024"
-                    widget: "number"
-                    value_type: "int"
-                    min: 0
+              - name: "masukTs"
+                label: "Tahun masuk 2023/2024"
+                widget: "number"
+                value_type: "int"
+                min: 0
 
       - name: "tabel-8d1"
         label: "8.d.1 - Waktu Tunggu Lulusan"
@@ -1741,6 +1770,7 @@ collections:
             widget: "list"
             summary: "{{fields.tahun}}"
             max: 3
+            min: 3
             fields:
               - name: "tahun"
                 label: "Tahun Lulus"
@@ -1774,23 +1804,23 @@ collections:
                 value_type: "int"
                 min: 0
 
-              - name: "lulusanTerlacakDenganWt"
+              - name: "lulusanTerlacakWt"
                 label: "Jumlah Lulusan Terlacak dengan Waktu Tunggu Mendapatkan Pekerjaan"
                 widget: "object"
                 fields:
-                  - name: "wtKurangDari_3Bulan"
+                  - name: "pendek"
                     label: "WT < 3 Bulan"
                     widget: "number"
                     value_type: "int"
                     min: 0
 
-                  - name: "wt_3Sampai_6Bulan"
+                  - name: "sedang"
                     label: "3 <= WT <= 6 Bulan"
                     widget: "number"
                     value_type: "int"
                     min: 0
 
-                  - name: "wtLebihDari_6Bulan"
+                  - name: "panjang"
                     label: "WT > 6 Bulan"
                     widget: "number"
                     value_type: "int"
@@ -1805,6 +1835,7 @@ collections:
             widget: "list"
             summary: "{{fields.tahun}}"
             max: 3
+            min: 3
             fields:
               - name: "tahun"
                 label: "Tahun Lulus"
@@ -1832,7 +1863,7 @@ collections:
                 value_type: "int"
                 min: 0
 
-              - name: "lulusanTerlacakDenganTingkatKesesuaianBidangKerja"
+              - name: "lulusanTerlacakKesesuaianBidangKerja"
                 label: "Jumlah Lulusan Terlacak dengan Tingkat Kesesuaian Bidang Kerja"
                 widget: "object"
                 fields:
@@ -1863,6 +1894,7 @@ collections:
             widget: "list"
             summary: "{{fields.tahun}}"
             max: 3
+            min: 3
             fields:
               - name: "tahun"
                 label: "Tahun Lulus"
@@ -1884,7 +1916,7 @@ collections:
                 value_type: "int"
                 min: 0
 
-              - name: "lulusanMemberiTanggapan"
+              - name: "lulusanPenanggap"
                 label: "Jumlah Lulusan yang Memberi Tanggapan"
                 widget: "number"
                 value_type: "int"
@@ -1896,24 +1928,24 @@ collections:
                 value_type: "int"
                 min: 0
 
-              - name: "lulusanTerlacakYangBekerjaBerdasarkanTingkatTempatKerja"
-                label: "Jumlah Lulusan Terlacak yang Bekerja berdasarkan Tingkat/Ukuran Tempat Kerja/Berwirausaha"
+              - name: "lulusanTerlacakTingkatTempatKerja"
+                label: "Jumlah Lulusan Terlacak yang Bekerja berdasarkan Tingkat/ Ukuran Tempat Kerja/ Berwirausaha"
                 widget: "object"
                 fields:
-                  - name: "lokal"
-                    label: "Lokal/Wilayah/Berwirausaha tidak Berizin"
+                  - name: "wilayah"
+                    label: "Lokal/ Wilayah/ Berwirausaha tidak Berizin"
                     widget: "number"
                     value_type: "int"
                     min: 0
 
                   - name: "nasional"
-                    label: "Nasional/Berwirausaha Berizin"
+                    label: "Nasional/ Berwirausaha Berizin"
                     widget: "number"
                     value_type: "int"
                     min: 0
 
                   - name: "internasional"
-                    label: "Multinasional/Internasional"
+                    label: "Multinasional/ Internasional"
                     widget: "number"
                     value_type: "int"
                     min: 0
@@ -1926,6 +1958,7 @@ collections:
             label: "Kepuasan Pengguna"
             widget: "list"
             max: 7
+            min: 7
             fields:
               - name: "jenis"
                 label: "Jenis Kemampuan"
@@ -1953,11 +1986,11 @@ collections:
                   - label: "7. Pengembangan diri"
                     value: 7
 
-              - name: "kepuasanPengguna"
+              - name: "kepuasan"
                 label: "Tingkat Kepuasan Pengguna"
                 widget: "object"
                 fields:
-                  - name: "sangat-baik"
+                  - name: "sangatBaik"
                     label: "Sangat baik"
                     widget: "number"
                     value_type: "float"
@@ -1981,12 +2014,12 @@ collections:
                     value_type: "float"
                     min: 0
 
-              - name: "rencana-tindak-lanjut"
-                label: "Rencana Tindak Lanjut oleh UPPS/PS"
+              - name: "rencanaTindakLanjut"
+                label: "Rencana Tindak Lanjut oleh UPPS/ PS"
                 widget: "text"
 
       - name: "tabel-8f4"
-        label: "8.f.4 - Produk/jasa yang dihasilkan mahasiswa yang diadopsi oleh industri/masyarakat"
+        label: "8.f.4 - Produk/ Jasa yang Dihasilkan Mahasiswa yang Diadopsi oleh Industri/ Masyarakat"
         file: "docs/lkps/tabel-8f4.md"
         fields:
           - name: "data"
@@ -1999,11 +2032,11 @@ collections:
                 widget: "string"
 
               - name: "namaProduk"
-                label: "Nama Produk/Jasa"
+                label: "Nama Produk/ Jasa"
                 widget: "string"
 
               - name: "deskripsiProduk"
-                label: "Deskripsi Produk/Jasa"
+                label: "Deskripsi Produk/ Jasa"
                 widget: "text"
 
               - name: "bukti"
@@ -2018,6 +2051,7 @@ collections:
             label: "Evaluasi SPMI"
             widget: "list"
             max: 24
+            min: 24
             fields:
               - name: "nama"
                 label: "Nama Standar"
@@ -2099,26 +2133,31 @@ collections:
               - name: "ketersediaan"
                 label: "Ketersediaan Standar"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika ada"
 
               - name: "pelaksanaan"
                 label: "Pelaksanaan Standar"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika ada"
 
               - name: "monev"
                 label: "Monitoring Evaluasi dan Audit Mutu Internal"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika ada"
 
               - name: "umpanBalik"
                 label: "Umpan Balik Audit Mutu Internal"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika ada"
 
               - name: "tindakLanjut"
                 label: "Tindak Lanjut Audit Mutu Internal"
                 widget: "boolean"
+                required: false
                 hint: "Toggle jika ada"
 
               - name: "tanggal"
@@ -2128,29 +2167,30 @@ collections:
                 time_format: false
 
       - name: "tabel-9b"
-        label: "9.b Ketersediaan Dokumen/Buku Sistem Penjaminan Mutu Internal"
+        label: "9.b Ketersediaan Dokumen/ Buku Sistem Penjaminan Mutu Internal"
         file: "docs/lkps/tabel-9b.md"
         fields:
           - name: "data"
             label: "Dokumen SPMI"
             widget: "list"
             max: 4
+            min: 4
             fields:
               - name: "jenis"
                 label: "Jenis Dokumen Penjaminan Mutu"
                 widget: "select"
                 default: 1
                 options:
-                  - label: "1. Dokumen/Buku Kebijakan SPMI"
+                  - label: "1. Dokumen/ Buku Kebijakan SPMI"
                     value: 1
 
-                  - label: "2. Dokumen/Buku Manual SPMI"
+                  - label: "2. Dokumen/ Buku Manual SPMI"
                     value: 2
 
-                  - label: "3. Dokumen/Buku Standar SPMI"
+                  - label: "3. Dokumen/ Buku Standar SPMI"
                     value: 3
 
-                  - label: "4. Dokumen/Buku Formulir SPMI"
+                  - label: "4. Dokumen/ Buku Formulir SPMI"
                     value: 4
 
               - name: "keterangan"
