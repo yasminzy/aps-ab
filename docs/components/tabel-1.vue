@@ -1,7 +1,8 @@
 <script setup>
 import { ref } from "vue"
 import { useDateFormat } from "@vueuse/core"
-import Table1Tr from "./tabel-1-tr.vue"
+import lodash from "lodash"
+import Tabel1Tr from "./tabel-1-tr.vue"
 
 const props = defineProps({
   data: Array
@@ -9,22 +10,19 @@ const props = defineProps({
 
 const data = ref(props.data)
 
-const normalizedData = data.value
-  .map((item) => ({ ...item }))
-  .sort(
-    (objA, objB) => new Date(objB.tanggalAkhir) - new Date(objA.tanggalAkhir)
-  )
+const normalizedData = lodash
+  .orderBy(data.value, ["tanggalAkhir", "mitra"], ["desc", "asc"])
   .map((item) => {
     return {
       ...item,
-      tanggalAwal: useDateFormat(item.tanggalAwal, "DD-MM-YYYY").value,
-      tanggalAkhir: useDateFormat(item.tanggalAkhir, "DD-MM-YYYY").value
+      tanggalAwal: useDateFormat(item.tanggalAwal, "DD/MM/YYYY").value,
+      tanggalAkhir: useDateFormat(item.tanggalAkhir, "DD/MM/YYYY").value
     }
   })
 
-const pendidikan = normalizedData.filter((item) => item.jenis === "pendidikan")
-const penelitian = normalizedData.filter((item) => item.jenis === "penelitian")
-const pkm = normalizedData.filter((item) => item.jenis === "pkm")
+const groupedData = lodash.groupBy(normalizedData, "jenis")
+
+const row = ["Internasional", "Nasional", "Lokal/ Wilayah"]
 </script>
 
 <template>
@@ -42,34 +40,27 @@ const pkm = normalizedData.filter((item) => item.jenis === "pkm")
       </tr>
 
       <tr>
-        <th>Internasional</th>
-        <th>Nasional</th>
-        <th>Lokal/Wilayah</th>
+        <th v-for="(item, index) in row">{{ item }}</th>
       </tr>
 
-      <tr>
-        <th v-for="(item, index) in 10" :key="index">{{ item }}</th>
-      </tr>
+      <ColNum :n="10" />
     </thead>
 
     <tbody>
       <tr>
         <td colspan="10">Pendidikan</td>
       </tr>
-
-      <Table1Tr :data="pendidikan" />
+      <Tabel1Tr :data="groupedData.pendidikan" />
 
       <tr>
         <td colspan="10">Penelitian</td>
       </tr>
-
-      <Table1Tr :data="penelitian" />
+      <Tabel1Tr :data="groupedData.penelitian" />
 
       <tr>
         <td colspan="10">Pengabdian kepada Masyarakat</td>
       </tr>
-
-      <Table1Tr :data="pkm" />
+      <Tabel1Tr :data="groupedData.pkm" />
     </tbody>
   </table>
 </template>
