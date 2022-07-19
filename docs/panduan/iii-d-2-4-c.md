@@ -6,6 +6,6 @@
    - memberikan manfaat dan kepuasan kepada mitra, dan
    - menjamin keberlanjutan kerja sama dan hasilnya.
 
-1. Hasil analisis data terhadap: jumlah, jenis, lingkup kerja sama tridharma (pendidikan, penelitian dan PkM terutama yang terkait dengan ilmu keteknikan) yang relevan dan bermanfaat bagi program studi yang diakreditasi (Tabel 1 LKPS).
+1. Hasil analisis data terhadap: jumlah, jenis, lingkup kerja sama tridharma (pendidikan, penelitian dan PkM terutama yang terkait dengan ilmu keteknikan) yang relevan dan bermanfaat bagi program studi yang diakreditasi ([Tabel 1 LKPS](../lkps/tabel-1)).
 
 :::

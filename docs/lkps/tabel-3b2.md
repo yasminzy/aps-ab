@@ -1,22 +1,40 @@
 ---
+data:
+  - pembiayaan: 2
+    penelitian:
+      ts-2: 3
+      ts-1: 1
+      ts: 1
+  - pembiayaan: 1
+    penelitian:
+      ts-2: 4
+      ts-1: 5
+      ts: 6
+  - pembiayaan: 3
+    penelitian:
+      ts-2: 0
+      ts-1: 0
+      ts: 0
 ---
 
 <script setup>
-import { useData } from 'vitepress'
-// import Table from '../components/tabel-3b2.vue'
+import { useData } from "vitepress"
+import Tabel from '../components/tabel-3b2.vue'
 
-const { page } = useData()
+const { frontmatter } = useData()
 </script>
 
-# 3.b.2 - Penelitian DTPS
+# Penelitian DTPS
 
 Tuliskan jumlah judul penelitian1) yang dilaksanakan oleh DTPS berdasarkan sumber pembiayaan, yang relevan dengan bidang Program Studi pada TS-2 sampai dengan TS.
 
-## Tabel
+## Tabel 3.b.2
 
-<!-- <Table :data="page.frontmatter.data" /> -->
+<Tabel :data="frontmatter.data" />
 
-## Keterangan
+::: info KETERANGAN
 
 1. Kegiatan penelitian tercatat di unit/lembaga yang mengelola kegiatan penelitian di tingkat Perguruan Tinggi/UPPS.
 1. Penelitian dengan sumber pembiayaan dari DTPS.
+
+:::

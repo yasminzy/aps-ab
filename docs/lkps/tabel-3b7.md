@@ -1,17 +1,30 @@
 ---
+data:
+  - nama: Nama Dosen B
+    namaProduk: Nama produk B
+    deskripsiProduk: Deskripsi produk B
+    bukti: Bukti B
+  - nama: Nama Dosen A
+    namaProduk: Nama produk A
+    deskripsiProduk: Deskripsi produk A
+    bukti: Bukti A
+  - nama: Nama Dosen C
+    namaProduk: Nama produk C
+    deskripsiProduk: Deskripsi produk C
+    bukti: Bukti C
 ---
 
 <script setup>
-import { useData } from 'vitepress'
-// import Table from '../components/tabel-3b7.vue'
+import { useData } from "vitepress"
+import Tabel from '../components/tabel-3b7.vue'
 
-const { page } = useData()
+const { frontmatter } = useData()
 </script>
 
-# 3.b.7 - Produk/Jasa DTPS yang Diadopsi oleh Industri/Masyarakat
+# Produk/ Jasa DTPS yang Diadopsi oleh Industri/ Masyarakat
 
 Tuliskan nama produk/jasa karya DTPS yang diadopsi oleh industri/masyarakat dalam 3 tahun terakhir. Jenis produk/jasa harus relevan dengan bidang Program Studi.
 
-## Tabel
+## Tabel 3.b.7
 
-<!-- <Table :data="page.frontmatter.data" /> -->
+<Tabel :data="frontmatter.data" />

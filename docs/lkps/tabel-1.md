@@ -75,22 +75,24 @@ data:
 ---
 
 <script setup>
-import { useData } from 'vitepress'
-import Table from '../components/tabel-1.vue'
+import { useData } from "vitepress"
+import Tabel from '../components/tabel-1.vue'
 
-const { page } = useData()
+const { frontmatter } = useData()
 </script>
 
-# 1 - Kerja Sama Tridharma Perguruan Tinggi
+# Kerja Sama Tridharma Perguruan Tinggi
 
 Tuliskan kerjasama tridharma perguruan tinggi di Unit Pengelola Program Studi (UPPS) dalam 3 tahun terakhir.
 
-## Tabel
+## Tabel 1
 
-<Table :data="page.frontmatter.data" />
+<Tabel :data="frontmatter.data" />
 
-## Keterangan
+::: info KETERANGAN
 
 1. Beri tanda V pada kolom yang sesuai.
 1. Diisi dengan judul kegiatan kerjasama yang sudah terimplementasikan, melibatkan sumber daya dan memberikan manfaat bagi Program Studi yang diakreditasi.
 1. Bukti kerjasama dapat berupa Surat Penugasan, Surat Perjanjian Kerjasama (SPK), bukti-bukti pelaksanaan (laporan, hasil kerjasama, luaran kerjasama), atau bukti lain yang relevan. Dokumen Memorandum of Understanding (MoU), Memorandum of Agreement (MoA), atau dokumen sejenis yang memayungi pelaksanaan kerjasama, tidak dapat dijadikan bukti realisasi kerjasama.
+
+:::

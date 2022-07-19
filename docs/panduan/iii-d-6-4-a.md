@@ -14,9 +14,9 @@
 
    Data dan analisis yang disampaikan meliputi:
 
-   - Struktur program dan beban belajar mahasiswa untuk mencapai capaian pembelajaran yang direncanakan (Tabel 5.a.1 LKPS).
+   - Struktur program dan beban belajar mahasiswa untuk mencapai capaian pembelajaran yang direncanakan ([Tabel 5.a.1 LKPS](../lkps/tabel-5a1)).
    - Menjelaskan peta jalan pembelajaran setiap kompetensi lulusan.
-   - Konversi bobot kredit mata kuliah ke jam praktikum/ praktik/praktik lapangan (Tabel 5.a.1 LKPS).
-   - Pembimbingan Tugas Akhir pada Program Studi yang diakreditasi (Tabel 5.a.2 LKPS).
+   - Konversi bobot kredit mata kuliah ke jam praktikum/ praktik/praktik lapangan ([Tabel 5.a.1 LKPS](../lkps/tabel-5a1)).
+   - Pembimbingan Tugas Akhir pada Program Studi yang diakreditasi ([Tabel 5.a.2 LKPS](../lkps/tabel-5a2)).
 
 :::

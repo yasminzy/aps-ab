@@ -1,22 +1,36 @@
 ---
+data:
+  - matkul: Praktik Bengkel
+    sertifikat:
+      bidangSertifikasi: "-"
+      lembagaPenerbit: "-"
+    bidangKeahlianSesuaiMatkul: true
+    nomorInduk: "-"
+    nama: Drs. Sulistya Jaka Hartana, M.T
+    bidangKeahlian: Teknik Mesin
+    jabatan: 0
+    noSertifikatPendidik: "190842601908"
+    pendidikan:
+      s2: Teknik
+      s3: "-"
 ---
 
 <script setup>
-import { useData } from 'vitepress'
-// import Table from '../components/tabel-3a4.vue'
+import { useData } from "vitepress"
+import Tabel from '../components/tabel-3a4.vue'
 
-const { page } = useData()
+const { frontmatter } = useData()
 </script>
 
-# 3.a.4 - Dosen Tidak Tetap yang Ditugaskan sebagai Pengampu Mata Kuliah di Program Studi yang Diakreditasi
+# Dosen Tidak Tetap yang Ditugaskan sebagai Pengampu Mata Kuliah di Program Studi yang Diakreditasi
 
 Tuliskan data Dosen Tidak Tetap yang ditugaskan sebagai pengampu mata kuliah di Program Studi yang diakreditasi (DTT) pada saat TS.
 
-## Tabel
+## Tabel 3.a.4
 
-<!-- <Table :data="page.frontmatter.data" /> -->
+<Tabel :data="frontmatter.data" />
 
-## Keterangan
+::: info KETERANGAN
 
 NDTT = Jumlah Dosen Tidak Tetap yang ditugaskan sebagai pengampu mata kuliah di Program Studi yang diakreditasi.
 
@@ -29,3 +43,5 @@ NDTT = Jumlah Dosen Tidak Tetap yang ditugaskan sebagai pengampu mata kuliah di 
 1. Diisi dengan tanda centang V jika bidang keahlian sesuai dengan mata kuliah yang diampu.
 
 Catatan: Data dosen industri/praktisi ([Tabel 3.a.5](./tabel-3a5)) tidak termasuk ke dalam data Dosen Tidak Tetap.
+
+:::

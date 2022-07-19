@@ -1,15 +1,24 @@
 ---
+data:
+  - jenis: 2
+    keterangan: Nomor dan Tanggal Dokumen SPMI 2.
+  - jenis: 1
+    keterangan: Nomor dan Tanggal Dokumen SPMI 1.
+  - jenis: 4
+    keterangan: Nomor dan Tanggal Dokumen SPMI 4.
+  - jenis: 3
+    keterangan: Nomor dan Tanggal Dokumen SPMI 3.
 ---
 
 <script setup>
-import { useData } from 'vitepress'
-// import Table from '../components/tabel-9b.vue'
+import { useData } from "vitepress"
+import Tabel from '../components/tabel-9b.vue'
 
-const { page } = useData()
+const { frontmatter } = useData()
 </script>
 
-# 9.b Ketersediaan Dokumen/Buku Sistem Penjaminan Mutu Internal
+# Ketersediaan Dokumen/Buku Sistem Penjaminan Mutu Internal
 
-## Tabel
+## Tabel 9.b
 
-<!-- <Table :data="page.frontmatter.data" /> -->
+<Tabel :data="frontmatter.data" />

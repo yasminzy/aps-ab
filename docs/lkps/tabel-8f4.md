@@ -1,19 +1,30 @@
 ---
+data:
+  - nama: Nama Mahasiswa B
+    namaProduk: Nama Produk B
+    deskripsiProduk: Deskripsi Produk B.
+    bukti: Bukti B
+  - nama: Nama Mahasiswa A
+    namaProduk: Nama Produk A
+    deskripsiProduk: Deskripsi Produk A.
+    bukti: Bukti A
+  - nama: Nama Mahasiswa C
+    namaProduk: Nama Produk C
+    deskripsiProduk: Deskripsi Produk C.
+    bukti: Bukti C
 ---
 
 <script setup>
-import { useData } from 'vitepress'
-// import Table from '../components/tabel-f4.vue'
+import { useData } from "vitepress"
+import Tabel from '../components/tabel-8f4.vue'
 
-const { page } = useData()
+const { frontmatter } = useData()
 </script>
 
-# 8.f.4 - Produk/Jasa yang Dihasilkan Mahasiswa yang Diadopsi oleh Industri/Masyarakat
+# Produk/Jasa yang Dihasilkan Mahasiswa yang Diadopsi oleh Industri/Masyarakat
 
 Tuliskan produk/jasa karya mahasiswa, yang dihasilkan secara mandiri atau bersama DTPS, yang diadopsi oleh industri/masyarakat dalam 3 tahun terakhir. Jenis produk/jasa yang diadopsi oleh industri/masyarakat harus relevan dengan bidang program studi.
 
-## Tabel
+## Tabel 8.f.4
 
-<!-- <Table :data="page.frontmatter.data" /> -->
-
-## Keterangan
+<Tabel :data="frontmatter.data" />

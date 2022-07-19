@@ -9,6 +9,6 @@
 
 1. Data PkM dosen yang melibatkan mahasiswa disajikan dengan teknik representasi yang relevan (misalnya: kurva tren, rasio, dan proporsi) dan komprehensif, serta disimpulkan kecenderungannya.
 
-   Data dan analisis yang disampaikan meliputi keterlibatan mahasiswa pada kegiatan PkM DTPS dalam 3 tahun terakhir (Tabel 7 LKPS).
+   Data dan analisis yang disampaikan meliputi keterlibatan mahasiswa pada kegiatan PkM DTPS dalam 3 tahun terakhir ([Tabel 7 LKPS](../lkps/tabel-7)).
 
 :::

@@ -3,7 +3,7 @@
 Pada bagian ini, berisi deskripsi implementasi Sistem Penjaminan Mutu yang sesuai dengan kebijakan, organisasi, instrumen yang dikembangkan, serta monitoring dan evaluasi, pelaporan, dan tindak lanjut. Unsur-unsur yang perlu dijelaskan pada penjaminan mutu mencakup:
 
 1.  Keberadaan organ/fungsi pelaksana penjaminan mutu internal yang berlaku pada UPPS yang didukung dokumen formal pembentukannya.
-1.  Dokumen yang dimiliki yaitu kebijakan SPMI, manual SPMI, Standar SPMI dan Formulir (Tabel 9.b LKPS).
+1.  Dokumen yang dimiliki yaitu kebijakan SPMI, manual SPMI, Standar SPMI dan Formulir ([Tabel 9.b LKPS](../lkps/tabel-9b)).
 1.  Keterlaksanaan penjaminan mutu UPPS dan PS sesuai dengan standar nasional pendidikan tinggi.
 
     Standar yang ditetapkan perguruan tinggi mencakup IKU dan IKT yang terdiri dari:
@@ -17,7 +17,7 @@ Pada bagian ini, berisi deskripsi implementasi Sistem Penjaminan Mutu yang sesua
     - Pengabdian kepada Masyarakat;
     - Luaran dan Capaian Tridharma Perguruan Tinggi.
 
-1.  Pelaksanaan Audit Mutu Internal (AMI) dan ketersediaan bukti sahih efektivitas pelaksanaan penjaminan mutu sesuai dengan siklus penetapan, pelaksanaan, evaluasi, pengendalian, dan perbaikan berkelanjutan (PPEPP) oleh UPPS dan PS (Tabel 9.a LKPS).
+1.  Pelaksanaan Audit Mutu Internal (AMI) dan ketersediaan bukti sahih efektivitas pelaksanaan penjaminan mutu sesuai dengan siklus penetapan, pelaksanaan, evaluasi, pengendalian, dan perbaikan berkelanjutan (PPEPP) oleh UPPS dan PS ([Tabel 9.a LKPS](../lkps/tabel-9a)).
 1.  Pengakuan mutu dari lembaga audit eksternal, lembaga akreditasi, dan lembaga sertifikasi.
 1.  Mendeskripsikan pengukuran kepuasan pengguna terhadap layanan manajemen terhadap para pemangku kepentingan (mahasiswa, dosen, tenaga kependidikan, lulusan, pengguna dan mitra terhadap layanan manajemen), layanan pengelolaan dan pengembangan SDM, layanan pengelolaan keuangan dan fasilitas, layanan dan pelaksanaan proses pendidikan, layanan dan pelaksanaan proses penelitian, layanan dan pelaksanaan PkM dan Kepuasan pengguna lulusan dan mitra kerja terhadap kinerja lulusan.
 
