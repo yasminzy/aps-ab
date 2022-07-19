@@ -1,11 +1,12 @@
 module.exports = {
-  description: "Kinerja dan evaluasi diri prodi D-III Alat Berat Poltekba",
+  description:
+    "Sistem Informasi Akreditasi Program Studi D-III Alat Berat Poltekba",
   lang: "id",
   lastUpdated: true,
   markdown: {
     theme: "nord"
   },
-  title: "APS Alat Berat Poltekba",
+  title: "SI APS Alat Berat",
   titleTemplate: false,
 
   themeConfig: {
@@ -181,12 +182,6 @@ module.exports = {
     editLink: {
       pattern: "https://apsab.netlify.app/admin",
       text: "Edit data"
-    },
-
-    algolia: {
-      appId: "",
-      apiKey: "",
-      indexName: "apsab"
     }
   }
 }
