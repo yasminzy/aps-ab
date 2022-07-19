@@ -6,7 +6,7 @@ const props = defineProps({
 </script>
 
 <template>
-  <tr v-for="(item, index) in props.data" :key="index">
+  <tr v-for="(item, index) in data" :key="index">
     <td></td>
 
     <td>{{ index + 1 }}. {{ item.judul }}</td>

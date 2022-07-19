@@ -11,7 +11,7 @@ const sum = (name) => lodash.sumBy(props.data, name)
 </script>
 
 <template>
-  <tr v-for="(item, index) in props.data" :key="index">
+  <tr v-for="(item, index) in data" :key="index">
     <td>{{ item.no }}</td>
     <td class="text-left">{{ item.jenisPenggunaan }}</td>
 
