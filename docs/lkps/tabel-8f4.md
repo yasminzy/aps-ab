@@ -1,13 +1,13 @@
 ---
 data:
-  - nama: Nama Mahasiswa B
-    namaProduk: Nama Produk B
-    deskripsiProduk: Deskripsi Produk B.
-    bukti: Bukti B
   - nama: Nama Mahasiswa A
     namaProduk: Nama Produk A
     deskripsiProduk: Deskripsi Produk A.
     bukti: Bukti A
+  - nama: Nama Mahasiswa B
+    namaProduk: Nama Produk B
+    deskripsiProduk: Deskripsi Produk B.
+    bukti: Bukti B
   - nama: Nama Mahasiswa C
     namaProduk: Nama Produk C
     deskripsiProduk: Deskripsi Produk C.
