@@ -1,15 +1,15 @@
 ---
 data:
-  - pembiayaan: 2
-    penelitian:
-      ts-2: 3
-      ts-1: 1
-      ts: 1
   - pembiayaan: 1
     penelitian:
       ts-2: 4
       ts-1: 5
       ts: 6
+  - pembiayaan: 2
+    penelitian:
+      ts-2: 3
+      ts-1: 1
+      ts: 1
   - pembiayaan: 3
     penelitian:
       ts-2: 0
