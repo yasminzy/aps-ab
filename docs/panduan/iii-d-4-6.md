@@ -4,6 +4,6 @@ Berisi deskripsi dan analisis keberhasilan dan/atau ketidakberhasilan atas keter
 
 Capaian kinerja harus diukur dengan metoda yang tepat, dan hasilnya dianalisis serta dievaluasi.
 
-Analisis terhadap capaian kinerja harus mencakup identifikasi akar masalah, faktor pendukung keberhasilan dan faktor penghambat ketercapaiannya, serta deskripsi singkat rencana tindaklanjut yang akan dilakukan.
+Analisis terhadap capaian kinerja harus mencakup identifikasi akar masalah, faktor pendukung keberhasilan dan faktor penghambat ketercapaiannya, serta deskripsi singkat rencana tindak lanjut yang akan dilakukan.
 
 :::
