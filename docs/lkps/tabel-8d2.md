@@ -1,12 +1,5 @@
 ---
 data:
-  - tahun: ts-3
-    lulusan: 66
-    lulusanTerlacak: 60
-    lulusanTerlacakKesesuaianBidangKerja:
-      rendah: 2
-      sedang: 23
-      tinggi: 35
   - tahun: ts-4
     lulusan: 64
     lulusanTerlacak: 48
@@ -14,6 +7,13 @@ data:
       rendah: 6
       sedang: 19
       tinggi: 23
+  - tahun: ts-3
+    lulusan: 66
+    lulusanTerlacak: 60
+    lulusanTerlacakKesesuaianBidangKerja:
+      rendah: 2
+      sedang: 23
+      tinggi: 35
   - tahun: ts-2
     lulusan: 55
     lulusanTerlacak: 45
