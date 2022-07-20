@@ -53,7 +53,7 @@ import Tabel from '../components/tabel-2a2.vue'
 const { frontmatter } = useData()
 </script>
 
-# Seleksi Mahasiswa untuk Program Studi Diploma Tiga
+# Seleksi Mahasiswa
 
 Tuliskan data daya tampung, jumlah calon mahasiswa (pendaftar dan peserta yang lulus seleksi), jumlah mahasiswa baru (reguler dan transfer) dan jumlah mahasiswa aktif (reguler dan transfer) dalam 5 tahun terakhir di Program Studi yang diakreditasi.
 

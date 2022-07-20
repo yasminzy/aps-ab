@@ -2,17 +2,16 @@
 data:
   - matkul: Praktik Bengkel
     sertifikat:
-      bidangSertifikasi: "-"
-      lembagaPenerbit: "-"
+      bidangSertifikasi: ""
+      lembagaPenerbit: ""
     bidangKeahlianSesuaiMatkul: true
-    nomorInduk: "-"
+    nomorInduk: ""
     nama: Drs. Sulistya Jaka Hartana, M.T
     bidangKeahlian: Teknik Mesin
     jabatan: 0
     noSertifikatPendidik: "190842601908"
     pendidikan:
       s2: Teknik
-      s3: "-"
 ---
 
 <script setup>

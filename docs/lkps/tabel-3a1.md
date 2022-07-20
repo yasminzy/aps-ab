@@ -3,7 +3,7 @@ data:
   - matkul:
       1. Mekanika Teknik, 2. Motor Bakar II, 3. Hand and Measurement Tools, 4.
       Ilmu Bahan II
-    matkulDiPsLain: "-"
+    matkulDiPsLain: ""
     sertifikat:
       bidangSertifikasi: Bidang Sertifikasi
       lembagaPenerbit: Lembaga Penerbit
@@ -14,12 +14,11 @@ data:
     jabatan: 2
     namaProdi:
       s2: Teknik
-      s3: "-"
     noSertifikatPendidik: "17100503202665"
     sesuaiKompetensi: true
   - matkul: Konversi Energi, Manajemen Bengkel, K3L, Pesawat Angkat, Fisika dan
       Kimia Dasar
-    matkulDiPsLain: "-"
+    matkulDiPsLain: ""
     sertifikat:
       bidangSertifikasi: Bidang Sertifikasi
       lembagaPenerbit: Lembaga Penerbit
@@ -30,11 +29,10 @@ data:
     jabatan: 2
     namaProdi:
       s2: Teknik
-      s3: "-"
     noSertifikatPendidik: "14100503203746"
   - matkul: Sistem Hidrolik dan Pneumatik, Manajemen Mutu, Gambar Teknik Mesin,
       Dasar-Dasar Hidrolik dan Pneumatik
-    matkulDiPsLain: "-"
+    matkulDiPsLain: ""
     sertifikat:
       bidangSertifikasi: Bidang Sertifikasi
       lembagaPenerbit: Lembaga Penerbit
@@ -53,7 +51,7 @@ data:
       Tenaga, Dasar-Dasar
 
       Hidrolik dan Pneumatik
-    matkulDiPsLain: "-"
+    matkulDiPsLain: ""
     sertifikat:
       bidangSertifikasi: Bidang Sertifikasi
       lembagaPenerbit: Lembaga Penerbit
@@ -64,8 +62,7 @@ data:
     jabatan: 2
     namaProdi:
       s2: Teknik
-      s3: "-"
-    noSertifikatPendidik: 141005032034 11
+    noSertifikatPendidik: "14100503203411"
     sesuaiKompetensi: true
   - matkul: Agama
     matkulDiPsLain:
@@ -73,8 +70,8 @@ data:
       Listrik, Teknik Elektronika, Teknik Sipil, Teknik Konstru ksi Jalan dan
       Jembatan) "
     sertifikat:
-      bidangSertifikasi: "-"
-      lembagaPenerbit: "-"
+      bidangSertifikasi: ""
+      lembagaPenerbit: ""
     bidangKeahlianSesuaiMatkul: true
     nomorInduk: "1171087101"
     nama: Basri Dahlan, S.Ag., M.Pd.I
@@ -82,7 +79,6 @@ data:
     jabatan: 2
     namaProdi:
       s2: Agama Islam
-      s3: "-"
     noSertifikatPendidik: "15100503200709"
 ---
 
@@ -110,7 +106,7 @@ NDTPS = Jumlah Dosen Tetap Perguruan Tinggi yang ditugaskan sebagai pengampu mat
 1. Diisi dengan nama Program Studi pada pendidikan pasca sarjana (Magister/Magister Terapan dan/atau Doktor/Doktor Terapan) yang pernah diikuti.
 1. Diisi dengan bidang keahlian sesuai pendidikan pasca sarjana yang relevan dengan mata kuliah yang diampu.
 1. Diisi dengan tanda centang V jika bidang keahlian sesuai dengan kompetensi inti Program Studi yang diakreditasi.
-1. Diisi dengan nomor Sertifikat Pendidik Profesional.\
+1. Diisi dengan nomor Sertifikat Pendidik Profesional.
 1. Diisi dengan bidang sertifikasi dan lembaga penerbit sertifikat.
 1. Diisi dengan nama mata kuliah yang diampu pada Program Studi yang diakreditasi pada saat TS-2 s.d. TS.
 1. Diisi dengan tanda centang V jika bidang keahlian sesuai dengan mata kuliah yang diampu.
