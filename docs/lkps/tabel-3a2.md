@@ -13,7 +13,7 @@ data:
       ts-2: No SK 1
       ts-1: No SK 2
       ts: No SK 3
-  - nama: Syahruddin, S.Pd., M.T
+  - nama: Syahruddin, S.Pd., M.T.
     mhsBimbingan:
       ts-2: 10
       ts-1: 9
@@ -26,7 +26,7 @@ data:
       ts-2: No SK 1
       ts-1: No SK 2
       ts: No SK 3
-  - nama: Ida Bagus Dharmawan, S.T., M.Si
+  - nama: Ir. Ida Bagus Dharmawan, S.T., M.Si.
     mhsBimbingan:
       ts-2: 9
       ts-1: 9
