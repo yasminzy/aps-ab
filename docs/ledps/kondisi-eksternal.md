@@ -17,7 +17,7 @@ Kondisi saat ini Program Studi D3 Alat Berat Politeknik Negeri Balikpapan merupa
 **Misi Jurusan Teknik Mesin**
 
 1. Menyelenggarakan pendidikan berdasarkan kebutuhan industri.
-1.Mengembangkan sarana pendidikan yang berbasis kepada kebutuhan industri.
+1. Mengembangkan sarana pendidikan yang berbasis kepada kebutuhan industri.
 1. Mengembangkan penelitian terapan yang berkaitan dengan permasalahan pada Teknik Mesin.
 1. Menciptakan suasana akademik yang diarahkan agar tanggap terhadap perubahan dan perkembangan IPTEK.
 1. Menyelenggarakan proses pendidikan secara efisien, produktif dan terorganisir dalam sistem managemen mutu yang baik. Visi Misi diatas didapatkan dari indentifikasi eksternal yang dapat dilihat baik lingkungan makro dan lingkungan mikro yang dapat dijabarkan sebagai berikut:
