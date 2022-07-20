@@ -9,7 +9,7 @@ data:
       penelitian: 0
       pkm: 4
       tugasTambahan: 0
-  - nama: Ida Bagus D, S.T., M.Si.
+  - nama: Ir. Ida Bagus Dharmawan, S.T., M.Si.
     dtps: true
     ewmp:
       pendidikan: 40.4
