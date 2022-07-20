@@ -1,5 +1,10 @@
 ---
 data:
+  - tahun: 2022-07-16T11:36:15.587Z
+    namaDosen: Nama dosen 1
+    temaPkm: Tema PkM sesuai roadmap 1
+    namaMhs: Nama mahasiswa 1
+    judulPkm: Judul kegiatan PkM 1
   - tahun: 2023-07-16T11:35:59.771Z
     namaDosen: Nama dosen 2
     temaPkm: Tema PkM sesuai roadmap 2
@@ -10,11 +15,6 @@ data:
     temaPkm: Tema PkM sesuai roadmap 3
     namaMhs: Nama mahasiswa 3
     judulPkm: Judul kegiatan PkM 3
-  - tahun: 2023-07-16T11:36:15.587Z
-    namaDosen: Nama dosen 1
-    temaPkm: Tema PkM sesuai roadmap 1
-    namaMhs: Nama mahasiswa 1
-    judulPkm: Judul kegiatan PkM 1
 ---
 
 <script setup>
