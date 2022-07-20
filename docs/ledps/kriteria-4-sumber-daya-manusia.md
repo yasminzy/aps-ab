@@ -23,6 +23,10 @@ import Chart3b8 from "../components/chart-3b8.vue"
 
 <!--@include: ../panduan/iii-d-4-1.md-->
 
+Program Studi D3 Teknik Mesin dalam mengatur pengelolaan dan pengembangan SDM mengacu pada program-program yang telah dibuat Politeknik Negeri Balikpapan. Program-program kebijakan dan standar SDM yang telah di sosialisasikan kepada seluruh Program Studi D3 yang ada untuk dapat dilaksanakan oleh para dosen Program Studi masing-masing. Dalam siklus AMI yang rutin dilakukan oleh Politeknik Negeri Balikpapan, Program Studi Alat Berat melakukan evaluasi internal dengan tujuan untuk memantau kinerja dosen dan tenaga kependidikan pada Program Studi D3 Alat Berat.
+
+Dalam merumuskan tujuan, Program Studi D3 Alat Berat menetapkan profil kompetensi lulusan sesuai dengan kebutuhan dan standar yang diperlukan stakeholder baik internal, eksternal serta tuntutan pasar kerja. Program Studi Alat Berat membuat program strategi rancangan pencapaian standart yang dibutuhkan lulusan.Untuk itu, Program Studi D3 Alat Berat melakukan pembentukan SDM yang dapat mengembangkan kurikulum sesuai dunia kerja dan melakukan evaluasi terhadap kelulusan yang diterima industri.
+
 ## Kebijakan
 
 <!--@include: ../panduan/iii-d-4-2.md-->
