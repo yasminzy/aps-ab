@@ -1,13 +1,5 @@
 ---
 data:
-  - tahun: ts-3
-    lulusan: 66
-    lulusanTerlacak: 60
-    lulusanDipesanSebelumLulus: 6
-    lulusanTerlacakWt:
-      pendek: 10
-      sedang: 42
-      panjang: 2
   - tahun: ts-4
     lulusan: 64
     lulusanTerlacak: 48
@@ -16,6 +8,14 @@ data:
       pendek: 17
       sedang: 25
       panjang: 1
+  - tahun: ts-3
+    lulusan: 66
+    lulusanTerlacak: 60
+    lulusanDipesanSebelumLulus: 6
+    lulusanTerlacakWt:
+      pendek: 10
+      sedang: 42
+      panjang: 2
   - tahun: ts-2
     lulusan: 55
     lulusanTerlacak: 45
@@ -23,7 +23,7 @@ data:
     lulusanTerlacakWt:
       pendek: 7
       sedang: 33
-      panjang: 5
+      panjang: 1
 ---
 
 <script setup>
