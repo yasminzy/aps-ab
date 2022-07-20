@@ -43,7 +43,9 @@ const sumberPembiayaan = [
         <td v-if="index" class="text-left">
           {{ sumberPembiayaan[item.pembiayaan - 1] }}
         </td>
-        <td v-else>a) Perguruan Tinggi<br />b) Mandiri <sup>2)</sup></td>
+        <td v-else class="text-left">
+          a) Perguruan Tinggi<br />b) Mandiri <sup>2)</sup>
+        </td>
 
         <td>{{ item.penelitian["ts-2"] }}</td>
         <td>{{ item.penelitian["ts-1"] }}</td>

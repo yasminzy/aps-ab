@@ -72,7 +72,7 @@ const jabatan = ["-", "Asisten Ahli", "Lektor", "Lektor Kepala", "Guru Besar"]
           {{ item.sesuaiKompetensi ? "✅" : "" }}
         </td>
 
-        <td>{{ jabatan[item.jabatan] }}</td>
+        <td class="text-center">{{ jabatan[item.jabatan] }}</td>
 
         <td>{{ item.noSertifikatPendidik }}</td>
 

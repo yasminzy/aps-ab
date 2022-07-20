@@ -12,7 +12,7 @@ const normalizedData = lodash.orderBy(data.value, ["tahun"], ["desc"])
 
 const sum = (name) => lodash.sumBy(normalizedData, name)
 
-const row = ["WT < 3 bulan", "3 ≤ WT ≤ 6 bulan", "WT > 6 bulan"]
+const row = ["WT < 3 Bulan", "3 ≤ WT ≤ 6 Bulan", "WT > 6 Bulan"]
 </script>
 
 <template>

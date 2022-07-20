@@ -55,7 +55,7 @@ const jabatan = ["-", "Asisten Ahli", "Lektor", "Lektor Kepala", "Guru Besar"]
       <tr v-for="(item, index) in normalizedData" :key="index">
         <td>{{ index + 1 }}</td>
 
-        <td>{{ item.nama }}</td>
+        <td class="text-left">{{ item.nama }}</td>
 
         <td class="uppercase">{{ item.status.pendidikan }}</td>
 
