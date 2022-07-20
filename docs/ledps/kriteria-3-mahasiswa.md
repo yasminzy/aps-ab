@@ -2,6 +2,10 @@
 title: Kriteria 3 - Mahasiswa
 ---
 
+<script setup>
+import Chart2a2 from "../components/chart-2a2.vue"
+</script>
+
 # Mahasiswa
 
 <!--@include: ../penilaian/13-14.md-->
@@ -23,6 +27,10 @@ title: Kriteria 3 - Mahasiswa
 ### Kualitas Input Mahasiswa
 
 <!-- @include: ../panduan/iii-d-3-4-a.md -->
+
+<ChartFigure caption="Seleksi mahasiswa">
+  <Chart2a2 />
+</ChartFigure>
 
 ### Daya Tarik Program Studi
 

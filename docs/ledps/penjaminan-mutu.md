@@ -3,7 +3,8 @@ title: Penjaminan Mutu
 ---
 
 <script setup>
-import Chart5d from "../components/chart-5d.vue"
+import Chart5dBar from "../components/chart-5d-bar.vue"
+import Chart5dPie from "../components/chart-5d-pie.vue"
 </script>
 
 # Penjaminan Mutu
@@ -12,6 +13,10 @@ import Chart5d from "../components/chart-5d.vue"
 
 <!--@include: ../panduan/iv.md-->
 
-::: info GRAFIK KEPUASAN MAHASISWA
-<Chart5d />
-:::
+<ChartFigure caption="Kepuasan mahasiswa">
+  <Chart5dBar />
+
+---
+
+  <Chart5dPie />
+</ChartFigure>

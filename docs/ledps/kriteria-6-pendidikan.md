@@ -2,6 +2,10 @@
 title: Kriteria 6 - Pendidikan
 ---
 
+<script setup>
+import Chart5a2 from "../components/chart-5a2.vue"
+</script>
+
 # Pendidikan
 
 <!--@include: ../penilaian/38-47.md-->
@@ -23,6 +27,10 @@ title: Kriteria 6 - Pendidikan
 ### Kurikulum
 
 <!--@include: ../panduan/iii-d-6-4-a.md-->
+
+<ChartFigure caption="Pembimbingan tugas akhir">
+  <Chart5a2 />
+</ChartFigure>
 
 ### Penelitian/PkM dalam Pembelajaran
 
