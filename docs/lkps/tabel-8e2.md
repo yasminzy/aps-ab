@@ -1,15 +1,5 @@
 ---
 data:
-  - jenis: 2
-    kepuasan:
-      sangatBaik: 47.75
-      baik: 52.25
-      cukup: 0
-      kurang: 0
-    rencanaTindakLanjut:
-      Mengikuti pelatihan dari industri serta kuliah tamu dari
-      industri untuk menambah keahlian bidang ilmu (kompetensi utama) diluar jam
-      perkuliahan mata kuliah kompetesi utama.
   - jenis: 1
     kepuasan:
       sangatBaik: 49.55
@@ -19,6 +9,15 @@ data:
     rencanaTindakLanjut: Meningkatkan Etika Mahasiswa melalui Pembelajaran Etika
       Profesi serta kegiatan pembelajaran lainnya baik didalam maupun diluar
       kelas.
+  - jenis: 2
+    kepuasan:
+      sangatBaik: 47.75
+      baik: 52.25
+      cukup: 0
+      kurang: 0
+    rencanaTindakLanjut: Mengikuti pelatihan dari industri serta kuliah tamu dari
+      industri untuk menambah keahlian bidang ilmu (kompetensi utama) diluar jam
+      perkuliahan mata kuliah kompetesi utama.
   - jenis: 3
     kepuasan:
       sangatBaik: 40.54
@@ -28,32 +27,22 @@ data:
     rencanaTindakLanjut: Meningkatkan kemampuan berbahasa asing mahasiswa selain
       pada saat pembelajaran bahasa inggris dengan membuat English Club jurusan
       dan mengerjakan beberapa projek sesuai bidangnya ESP for Mechanical.
-  - jenis: 5
-    kepuasan:
-      sangatBaik: 42.34
-      baik: 55.86
-      cukup: 1.8
-      kurang: 0
-    rencanaTindakLanjut: Meningkatkan kegiatan baik dalam proses pembelajaran
-      maupun kegitan diluar untuk memperbanyak public speaking.
   - jenis: 4
     kepuasan:
       sangatBaik: 44.14
       baik: 54.05
       cukup: 1.8
       kurang: 0
-    rencanaTindakLanjut:
-      Melakukan evaluasi terhadap mata kuliah yang berhubungan
+    rencanaTindakLanjut: Melakukan evaluasi terhadap mata kuliah yang berhubungan
       dengan teknologi informasi.
-  - jenis: 7
+  - jenis: 5
     kepuasan:
-      sangatBaik: 46.85
-      baik: 51.35
+      sangatBaik: 42.34
+      baik: 55.86
       cukup: 1.8
       kurang: 0
-    rencanaTindakLanjut: Memberikan pelatihan dan seminar serta tantangan guna
-      menumbuhkan sikap pengembangan diri mahasiswa agar tangguh dalam setiap
-      pengembangan diri.
+    rencanaTindakLanjut: Meningkatkan kegiatan baik dalam proses pembelajaran maupun
+      kegitan diluar untuk memperbanyak public speaking.
   - jenis: 6
     rencanaTindakLanjut: Menganjurkan kepada setiap mahasiswa untuk mengikuti
       kegitan UKM serta kegiatan lainnya dimana dapat meningkatkan soft skill
@@ -63,6 +52,15 @@ data:
       baik: 54.95
       cukup: 0
       kurang: 0
+  - jenis: 7
+    kepuasan:
+      sangatBaik: 46.85
+      baik: 51.35
+      cukup: 1.8
+      kurang: 0
+    rencanaTindakLanjut: Memberikan pelatihan dan seminar serta tantangan guna
+      menumbuhkan sikap pengembangan diri mahasiswa agar tangguh dalam setiap
+      pengembangan diri.
 ---
 
 <script setup>
