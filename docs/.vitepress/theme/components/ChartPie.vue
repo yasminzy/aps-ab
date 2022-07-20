@@ -1,5 +1,10 @@
 <script setup>
-import { ref, computed, onMounted } from "vue"
+import { ref, computed } from "vue"
+import { useStore } from "../../stores/charts.js"
+
+import lodash from "lodash"
+import pattern from "patternomaly"
+
 import { Pie } from "vue-chartjs"
 import { Chart, PieController, ArcElement } from "chart.js"
 
@@ -11,16 +16,8 @@ const props = defineProps({
 
 const data = ref(props.data)
 
-const backgroundColors = [
-  "#6868ac",
-  "#85a1ac",
-  "#b3906c",
-  "#d65079",
-  "#d67d70",
-  "#e187b8",
-  "#e9435e",
-  "#ecc371"
-]
+const store = useStore()
+const backgroundColors = computed(() => store.backgroundColors)
 
 const chartData = computed(() => ({
   labels: data.value.labels,
@@ -28,12 +25,22 @@ const chartData = computed(() => ({
   datasets: [
     {
       data: data.value.datasets,
-      backgroundColor: backgroundColors.slice(0, data.value.datasets.length)
+      backgroundColor: pattern.generate(
+        lodash.sampleSize(backgroundColors.value, data.value.datasets.length)
+      )
     }
   ]
 }))
 
 const chartOptions = ref({
+  elements: {
+    arc: {
+      borderColor: "rgba(160, 157, 157, 0.25)",
+      borderWidth: 1.5,
+      spacing: 1.5
+    }
+  },
+
   plugins: {
     title: {
       text: data.value.title
@@ -47,6 +54,5 @@ const chartOptions = ref({
     v-if="chartData.datasets.length"
     :chart-data="chartData"
     :chart-options="chartOptions"
-    css-classes="chart-container"
   />
 </template>
