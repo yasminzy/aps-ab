@@ -1,19 +1,19 @@
 ---
 data:
   - tingkat: wilayah
-    tahun: 2022-01-16T12:46:19.481Z
-    nama: Nama Dosen B
-    bidangKeahlian: Bidang Keahlian B
-    rekognisiDanBuktiPendukung:
-      rekognisi: Rekognisi B
-      buktiPendukung: Bukti pendukung B
-  - tingkat: nasional
     tahun: 2022-02-16T12:46:19.481Z
     nama: Nama Dosen A
     bidangKeahlian: Bidang Keahlian A
     rekognisiDanBuktiPendukung:
       rekognisi: Rekognisi A
       buktiPendukung: Bukti pendukung A
+  - tingkat: nasional
+    tahun: 2022-01-16T12:46:19.481Z
+    nama: Nama Dosen B
+    bidangKeahlian: Bidang Keahlian B
+    rekognisiDanBuktiPendukung:
+      rekognisi: Rekognisi B
+      buktiPendukung: Bukti pendukung B
   - tingkat: internasional
     tahun: 2022-03-16T12:46:19.481Z
     nama: Nama Dosen C
