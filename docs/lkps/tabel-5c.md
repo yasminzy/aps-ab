@@ -1,46 +1,25 @@
 ---
 data:
-  - tahun: ts
-    tingkat: wilayah
-    kesesuaian: sesuai
-    nama: Nama Dosen B
-    judul: Judul Penelitian B
-    matkul: Mata Kuliah B
-    bentuk: Materi perkuliahan
   - tahun: ts-1
-    tingkat: nasional
+    tingkat: internasional
     kesesuaian: sesuai
     nama: Nama Dosen A
     judul: Judul Penelitian A
     matkul: Mata Kuliah A
     bentuk: Materi perkuliahan
-  - tahun: ts-2
-    tingkat: internasional
+  - tahun: ts
+    tingkat: nasional
     kesesuaian: sesuai
-    nama: Nama Dosen C
-    judul: Judul Penelitian C
-    matkul: Mata Kuliah C
+    nama: Nama Dosen B
+    judul: Judul Penelitian B
+    matkul: Mata Kuliah B
     bentuk: Materi perkuliahan
   - tahun: ts-2
     tingkat: wilayah
-    kesesuaian: sesuai
-    nama: Nama Dosen D
-    judul: Judul Penelitian D
-    matkul: Mata Kuliah D
-    bentuk: Materi perkuliahan
-  - tahun: ts-1
-    tingkat: nasional
-    kesesuaian: sesuai
-    nama: Nama Dosen E
-    judul: Judul Penelitian E
-    matkul: Mata Kuliah E
-    bentuk: Materi perkuliahan
-  - tahun: ts
-    tingkat: internasional
-    kesesuaian: sesuai
-    nama: Nama Dosen F
-    judul: Judul Penelitian F
-    matkul: Mata Kuliah F
+    kesesuaian: tidak
+    nama: Nama Dosen C
+    judul: Judul Penelitian C
+    matkul: Mata Kuliah C
     bentuk: Materi perkuliahan
 ---
 
