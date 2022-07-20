@@ -1,12 +1,12 @@
 ---
 data:
-  - tingkat: nasional
-    waktu: 2022-01-18T06:40:38.824Z
-    nama: Nama Kegiatan B
-    prestasi: Finalis
   - tingkat: wilayah
     waktu: 2022-02-18T06:39:23.408Z
     nama: Nama Kegiatan A
+    prestasi: Finalis
+  - tingkat: nasional
+    waktu: 2022-01-18T06:40:38.824Z
+    nama: Nama Kegiatan B
     prestasi: Finalis
   - tingkat: internasional
     waktu: 2022-03-18T06:41:29.165Z
