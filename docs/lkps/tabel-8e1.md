@@ -1,13 +1,5 @@
 ---
 data:
-  - tahun: ts-3
-    lulusan: 66
-    lulusanPenanggap: 60
-    lulusanTerlacak: 60
-    lulusanTerlacakTingkatTempatKerja:
-      wilayah: 31
-      nasional: 20
-      internasional: 9
   - tahun: ts-4
     lulusan: 64
     lulusanPenanggap: 48
@@ -16,6 +8,14 @@ data:
       wilayah: 20
       nasional: 20
       internasional: 8
+  - tahun: ts-3
+    lulusan: 66
+    lulusanPenanggap: 60
+    lulusanTerlacak: 60
+    lulusanTerlacakTingkatTempatKerja:
+      wilayah: 31
+      nasional: 20
+      internasional: 9
   - tahun: ts-2
     lulusan: 55
     lulusanPenanggap: 45
