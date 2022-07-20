@@ -9,7 +9,7 @@ Selanjutnya data keluaran dharma pendidikan disajikan dengan teknik representasi
 Data dan analisis yang disampaikan meliputi aspek:
 
 1. Capaian pembelajaran lulusan yang diukur berdasarkan rata-rata IPK lulusan ([Tabel 8.a LKPS](../lkps/tabel-8a)).
-1. Capaian prestasi mahasiswa bidang akademik ([Tabel 8.b.1 LKPS](../lkps/tabel-8b1)) dan bidang nonakademik ([Tabel 8.b.2 LKPS](../lkps/tabel-8b2)).
+1. Capaian prestasi mahasiswa bidang akademik ([Tabel 8.b.1 LKPS](../lkps/tabel-8b1)) dan bidang non-akademik ([Tabel 8.b.2 LKPS](../lkps/tabel-8b2)).
 1. Efektivitas dan produktivitas pendidikan: Persentase keberhasilan studi dan persentase kelulusan tepat waktu ([Tabel 8.c LKPS](../lkps/tabel-8c)).
 1. Daya saing lulusan:
 
