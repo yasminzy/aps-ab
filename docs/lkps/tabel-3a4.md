@@ -5,13 +5,13 @@ data:
       bidangSertifikasi: ""
       lembagaPenerbit: ""
     bidangKeahlianSesuaiMatkul: true
-    nomorInduk: ""
-    nama: Drs. Sulistya Jaka Hartana, M.T
+    nomorInduk: "1101076201"
+    nama: Drs. Sulistya Jaka Hartana, M.T.
     bidangKeahlian: Teknik Mesin
     jabatan: 0
     noSertifikatPendidik: "190842601908"
     pendidikan:
-      s2: Teknik
+      s2: Teknik Mesin
 ---
 
 <script setup>
