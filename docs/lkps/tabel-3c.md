@@ -1,16 +1,5 @@
 ---
 data:
-  - jenis: 2
-    pendidikan:
-      s3: 0
-      s2: 0
-      s1: 2
-      d4: 0
-      d3: 0
-      d2: 0
-      d1: 0
-      sma: 0
-    unit: Unit kerja B
   - jenis: 1
     pendidikan:
       s1: 1
@@ -22,28 +11,39 @@ data:
       d1: 0
       sma: 0
     unit: Unit kerja A
-  - jenis: 4
+  - jenis: 2
     pendidikan:
       s3: 0
       s2: 0
-      s1: 5
+      s1: 2
       d4: 0
       d3: 0
       d2: 0
       d1: 0
       sma: 0
-    unit: Unit kerja D
+    unit: Unit kerja B
   - jenis: 3
     pendidikan:
       s3: 0
       s2: 0
-      s1: 4
+      s1: 1
       d4: 0
       d3: 0
       d2: 0
       d1: 0
       sma: 0
     unit: Unit kerja C
+  - jenis: 4
+    pendidikan:
+      s3: 0
+      s2: 0
+      s1: 1
+      d4: 0
+      d3: 0
+      d2: 0
+      d1: 0
+      sma: 0
+    unit: Unit kerja D
 ---
 
 <script setup>
