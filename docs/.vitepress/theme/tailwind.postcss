@@ -100,7 +100,7 @@
   body {
     background-image: radial-gradient(#c2c2dd 0.5px, transparent 0.5px),
       radial-gradient(#c2c2dd 0.5px, transparent 0.5px);
-    background-size: calc(20 * 0.5px) calc(20 * 0.5px);
+    background-size: calc(20 * 1px) calc(20 * 1px);
     background-position: 0 0, calc(10 * 2px) calc(10 * 2px);
   }
 
@@ -115,5 +115,18 @@
   h4,
   h5 h6 {
     @apply font-serif;
+  }
+
+  figure {
+    @apply flex flex-col m-auto p-1.5 rounded-lg;
+
+    border: thin var(--vp-custom-block-info-border) solid;
+  }
+
+  figcaption {
+    @apply italic p-1.5 rounded-b-lg text-center text-sm;
+
+    background-color: var(--vp-custom-block-info-bg);
+    color: var(--vp-custom-block-info-text);
   }
 }
