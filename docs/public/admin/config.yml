@@ -1,9 +1,6 @@
-# backend:
-#   name: "github"
-#   repo: "yasminzy/apsab"
 backend:
-  name: "git-gateway"
-local_backend: true
+  name: "github"
+  repo: "yasminzy/apsab"
 media_folder: "public/media"
 public_folder: "/media"
 site_url: "https://apsab.netlify.app"
@@ -99,7 +96,7 @@ collections:
                 hint: "Bukti kerjasama dapat berupa Surat Penugasan, Surat Perjanjian Kerjasama (SPK), bukti-bukti pelaksanaan (laporan, hasil kerjasama, luaran kerjasama), atau bukti lain yang relevan. Dokumen Memorandum of Understanding (MoU), Memorandum of Agreement (MoA), atau dokumen sejenis yang memayungi pelaksanaan kerjasama, tidak dapat dijadikan bukti realisasi kerjasama."
 
       - name: "tabel-2a2"
-        label: "2.a.2 - Seleksi Mahasiswa untuk Program Studi Diploma Tiga"
+        label: "2.a.2 - Seleksi Mahasiswa"
         file: "docs/lkps/tabel-2a2.md"
         fields:
           - name: "data"
@@ -163,6 +160,7 @@ collections:
                     widget: "number"
                     value_type: "int"
                     min: 0
+                    default: 0
 
               - name: "mhsAktif"
                 label: "Jumlah Mahasiswa Aktif"
@@ -179,6 +177,7 @@ collections:
                     widget: "number"
                     value_type: "int"
                     min: 0
+                    default: 0
 
       - name: "tabel-3a1"
         label: "3.a.1 - Dosen Tetap Perguruan Tinggi yang Ditugaskan sebagai Pengampu Mata Kuliah di Program Studi yang Diakreditasi"
@@ -209,6 +208,8 @@ collections:
                   - name: "s3"
                     label: "Doktor/ Doktor Terapan"
                     widget: "string"
+                    required: false
+                    default: ""
 
               - name: "bidangKeahlian"
                 label: "Bidang Keahlian"
@@ -220,13 +221,14 @@ collections:
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika bidang keahlian sesuai dengan kompetensi inti Program Studi yang diakreditasi."
+                default: true
 
               - name: "jabatan"
                 label: "Jabatan Akademik"
                 widget: "select"
-                default: "tidakAda"
+                default: 1
                 options:
-                  - label: "-"
+                  - label: ""
                     value: 0
 
                   - label: "Asisten Ahli"
@@ -244,7 +246,8 @@ collections:
               - name: "noSertifikatPendidik"
                 label: "Nomor Sertifikat Pendidik Profesional"
                 widget: "string"
-                hint: "Diisi dengan nomor Sertifikat Pendidik Profesional."
+                required: false
+                default: ""
 
               - name: "sertifikat"
                 label: "Sertifikat Profesi/ Kompetensi/ Industri"
@@ -254,10 +257,14 @@ collections:
                   - name: "bidangSertifikasi"
                     label: "Bidang Sertifikasi"
                     widget: "string"
+                    required: false
+                    default: ""
 
                   - name: "lembagaPenerbit"
                     label: "Lembaga Penerbit"
                     widget: "string"
+                    required: false
+                    default: ""
 
               - name: "matkul"
                 label: "Mata Kuliah yang Diampu yang Diakreditasi"
@@ -269,11 +276,14 @@ collections:
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika bidang keahlian sesuai dengan mata kuliah yang diampu."
+                default: true
 
               - name: "matkulDiPsLain"
                 label: "Mata Kuliah yang Diampu pada PS Lain"
                 widget: "text"
+                required: false
                 hint: "Diisi dengan nama mata kuliah yang diampu pada Program Studi lain pada saat TS-2 s.d. TS."
+                default: ""
 
       - name: "tabel-3a2"
         label: "3.a.2 - Dosen Pembimbing Utama Tugas Akhir"
@@ -369,6 +379,7 @@ collections:
                 widget: "boolean"
                 required: false
                 hint: "Toggle untuk Dosen Tetap Perguruan Tinggi yang ditugaskan sebagai pengampu mata kuliah dengan bidang keahlian yang sesuai dengan kompetensi inti Program Studi yang diakreditasi."
+                default: true
 
               - name: "ewmp"
                 label: "EWMP pada 2023/2024 dalam Satuan Kredit Semester (SKS)"
@@ -397,18 +408,21 @@ collections:
                     widget: "number"
                     value_type: "float"
                     min: 0
+                    default: 0
 
                   - name: "pkm"
                     label: "PkM"
                     widget: "number"
                     value_type: "float"
                     min: 0
+                    default: 0
 
                   - name: "tugasTambahan"
                     label: "Tugas Tambahan dan/ atau Penunjang"
                     widget: "number"
                     value_type: "float"
                     min: 0
+                    default: 0
 
       - name: "tabel-3a4"
         label: "3.a.4 - Dosen Tidak Tetap yang Ditugaskan sebagai Pengampu Mata Kuliah di Program Studi yang Diakreditasi"
@@ -440,6 +454,8 @@ collections:
                   - name: "s3"
                     label: "Doktor/ Doktor Terapan"
                     widget: "string"
+                    required: false
+                    default: ""
 
               - name: "bidangKeahlian"
                 label: "Bidang Keahlian"
@@ -449,9 +465,9 @@ collections:
               - name: "jabatan"
                 label: "Jabatan Akademik"
                 widget: "select"
-                default: "tidakAda"
+                default: 1
                 options:
-                  - label: "-"
+                  - label: ""
                     value: 0
 
                   - label: "Asisten Ahli"
@@ -469,7 +485,8 @@ collections:
               - name: "noSertifikatPendidik"
                 label: "Nomor Sertifikat Pendidik Profesional"
                 widget: "string"
-                hint: "Diisi dengan nomor sertifikat pendidik profesional."
+                required: false
+                default: ""
 
               - name: "sertifikat"
                 label: "Sertifikat Profesi/ Kompetensi/ Industri"
@@ -479,10 +496,14 @@ collections:
                   - name: "bidangSertifikasi"
                     label: "Bidang Sertifikasi"
                     widget: "string"
+                    required: false
+                    default: ""
 
                   - name: "lembagaPenerbit"
                     label: "Lembaga Penerbit"
                     widget: "string"
+                    required: false
+                    default: ""
 
               - name: "matkul"
                 label: "Mata Kuliah yang Diampu pada PS yang Diakreditasi"
@@ -494,6 +515,7 @@ collections:
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika bidang keahlian sesuai dengan mata kuliah yang diampu."
+                default: true
 
       - name: "tabel-3a5"
         label: "3.a.5 - Dosen Industri/ Praktisi"
@@ -542,10 +564,14 @@ collections:
                   - name: "bidangSertifikasi"
                     label: "Bidang Sertifikasi"
                     widget: "string"
+                    required: false
+                    default: ""
 
                   - name: "lembagaPenerbit"
                     label: "Lembaga Penerbit"
                     widget: "string"
+                    required: false
+                    default: ""
 
               - name: "matkul"
                 label: "Mata Kuliah yang Diampu"
@@ -828,25 +854,38 @@ collections:
               - name: "noPaten"
                 label: "Nomor Paten"
                 widget: "string"
+                required: false
                 hint: "Luaran penelitian/ PkM yang mendapat pengakuan Hak Kekayaan Intelektual (HKI) dibuktikan dengan penerbitan paten oleh Kemenkumham."
+                default: ""
 
               - name: "noSertifikat"
                 label: "Nomor Sertifikat"
                 widget: "string"
+                required: false
                 hint: "Luaran penelitian/ PkM yang mendapat pengakuan Hak Kekayaan Intelektual (HKI) dibuktikan dengan penerbitan sertifikat oleh Kemenkumham atau kementerian lain yang berwenang."
+                default: ""
 
               - name: "tkt"
                 label: "TKT"
-                widget: "string"
+                widget: "number"
+                required: false
+                default: 0
+                value_type: "int"
+                min: 0
+                max: 9
 
               - name: "noSertifikatTkt"
                 label: "Nomor Sertifikat TKT"
                 widget: "string"
+                required: false
                 hint: "Luaran penelitian/ PkM yang mendapat sertifikat TKT dari Kemendikbudristek atau kementerian/ lembaga lain yang berwenang."
+                default: ""
 
               - name: "noIsbn"
                 label: "Nomor ISBN"
                 widget: "string"
+                required: false
+                default: ""
 
       - name: "tabel-3c"
         label: "3.c - Data Tenaga Kependidikan"
@@ -1090,6 +1129,7 @@ collections:
                     label: "Logbook"
                     widget: "boolean"
                     required: false
+                    default: false
 
                   - name: "waktu"
                     label: "Rata Rata Waktu Penggunaan (Jam/ Minggu)"
@@ -1174,6 +1214,7 @@ collections:
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika mata kuliah termasuk dalam mata kuliah kompetensi program studi."
+                default: true
 
               - name: "sks"
                 label: "Bobot Kredit (SKS)"
@@ -1213,21 +1254,25 @@ collections:
                     label: "Sikap"
                     widget: "boolean"
                     required: false
+                    default: false
 
                   - name: "pengetahuan"
                     label: "Pengetahuan"
                     widget: "boolean"
                     required: false
+                    default: false
 
                   - name: "keterampilanUmum"
                     label: "Keterampilan Umum"
                     widget: "boolean"
                     required: false
+                    default: false
 
                   - name: "keterampilanKhusus"
                     label: "Keterampilan Khusus"
                     widget: "boolean"
                     required: false
+                    default: false
 
               - name: "dokumen"
                 label: "Dokumen Rencana Pembelajaran"
@@ -1269,22 +1314,22 @@ collections:
                   - name: "jabatan"
                     label: "Jabatan Akademik"
                     widget: "select"
-                    default: "tidakAda"
+                    default: 1
                     options:
-                      - label: "-"
-                        value: "tidakAda"
+                      - label: ""
+                        value: 0
 
                       - label: "Asisten Ahli"
-                        value: "asistenAhli"
+                        value: 1
 
                       - label: "Lektor"
-                        value: "lektorX"
+                        value: 2
 
                       - label: "Lektor Kepala"
-                        value: "lektorKepala"
+                        value: 3
 
                       - label: "Guru Besar"
-                        value: "guruBesar"
+                        value: 4
 
               - name: "mhs"
                 label: "Jumlah Mahasiswa"
@@ -1606,11 +1651,11 @@ collections:
                 widget: "string"
 
       - name: "tabel-8b2"
-        label: "8.b.2 - Prestasi Nonakademik Mahasiswa"
+        label: "8.b.2 - Prestasi Non-Akademik Mahasiswa"
         file: "docs/lkps/tabel-8b2.md"
         fields:
           - name: "data"
-            label: "Prestasi Nonakademik"
+            label: "Prestasi Non-Akademik"
             widget: "list"
             summary: "{{fields.nama}}"
             fields:
@@ -2135,30 +2180,35 @@ collections:
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika ada"
+                default: false
 
               - name: "pelaksanaan"
                 label: "Pelaksanaan Standar"
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika ada"
+                default: false
 
               - name: "monev"
                 label: "Monitoring Evaluasi dan Audit Mutu Internal"
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika ada"
+                default: false
 
               - name: "umpanBalik"
                 label: "Umpan Balik Audit Mutu Internal"
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika ada"
+                default: false
 
               - name: "tindakLanjut"
                 label: "Tindak Lanjut Audit Mutu Internal"
                 widget: "boolean"
                 required: false
                 hint: "Toggle jika ada"
+                default: false
 
               - name: "tanggal"
                 label: "Tanggal Audit Mutu Internal"
