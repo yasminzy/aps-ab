@@ -1,23 +1,28 @@
 ---
 data:
-  - jenis: 2
-    jumlah:
-      ts-2: 10
-      ts-1: 17
-      ts: 11
   - jenis: 1
     jumlah:
       ts-2: 0
       ts-1: 0
       ts: 4
+  - jenis: 2
+    jumlah:
+      ts-2: 10
+      ts-1: 17
+      ts: 11
+  - jenis: 3
+    jumlah:
+      ts-2: 1
+      ts-1: 0
+      ts: 0
   - jenis: 4
     jumlah:
       ts-2: 0
       ts-1: 1
       ts: 1
-  - jenis: 3
+  - jenis: 5
     jumlah:
-      ts-2: 1
+      ts-2: 0
       ts-1: 0
       ts: 0
   - jenis: 6
@@ -25,22 +30,17 @@ data:
       ts-2: 2
       ts-1: 6
       ts: 1
-  - jenis: 5
-    jumlah:
-      ts-2: 0
-      ts-1: 0
-      ts: 0
   - jenis: 7
     jumlah:
       ts-2: 0
       ts-1: 1
       ts: 1
-  - jenis: 9
+  - jenis: 8
     jumlah:
       ts-2: 0
       ts-1: 0
       ts: 0
-  - jenis: 8
+  - jenis: 9
     jumlah:
       ts-2: 0
       ts-1: 0
