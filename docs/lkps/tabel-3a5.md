@@ -1,18 +1,8 @@
 ---
 data:
   - pendidikan: s2
-    nama: Nama Dosen B
-    nomorInduk: ""
-    perusahaan: Perusahaan B
-    bidangKeahlian: Bidang Keahlian B
-    sertifikat:
-      bidangSertifikasi: Bidang Sertifikasi B
-      lembagaPenerbit: Lembaga Penerbit B
-    matkul: Matkul B
-    sks: 3
-  - pendidikan: s2
     nama: Nama Dosen A
-    nomorInduk: ""
+    nomorInduk: "0"
     perusahaan: Perusahaan A
     bidangKeahlian: Bidang Keahlian A
     sertifikat:
@@ -21,8 +11,18 @@ data:
     matkul: Matkul A
     sks: 3
   - pendidikan: s2
+    nama: Nama Dosen B
+    nomorInduk: "0"
+    perusahaan: Perusahaan B
+    bidangKeahlian: Bidang Keahlian B
+    sertifikat:
+      bidangSertifikasi: Bidang Sertifikasi B
+      lembagaPenerbit: Lembaga Penerbit B
+    matkul: Matkul B
+    sks: 3
+  - pendidikan: s2
     nama: Nama Dosen C
-    nomorInduk: ""
+    nomorInduk: "0"
     perusahaan: Perusahaan C
     bidangKeahlian: Bidang Keahlian C
     sertifikat:
