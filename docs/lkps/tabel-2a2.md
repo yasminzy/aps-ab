@@ -3,28 +3,6 @@ data:
   - tahun: ts-3
     dayaTampung: 64
     calonMhs:
-      pendaftar: 437
-      lulus: 65
-    mhsBaru:
-      reguler: 64
-      transfer: 0
-    mhsAktif:
-      reguler: 251
-      transfer: 0
-  - tahun: ts
-    dayaTampung: 72
-    calonMhs:
-      pendaftar: 360
-      lulus: 76
-    mhsBaru:
-      reguler: 72
-      transfer: 0
-    mhsAktif:
-      reguler: 190
-      transfer: 0
-  - tahun: ts-2
-    dayaTampung: 64
-    calonMhs:
       pendaftar: 339
       lulus: 84
     mhsBaru:
@@ -33,7 +11,7 @@ data:
     mhsAktif:
       reguler: 178
       transfer: 0
-  - tahun: ts-1
+  - tahun: ts-2
     dayaTampung: 65
     calonMhs:
       pendaftar: 531
@@ -43,6 +21,28 @@ data:
       transfer: 0
     mhsAktif:
       reguler: 184
+      transfer: 0
+  - tahun: ts-1
+    dayaTampung: 72
+    calonMhs:
+      pendaftar: 360
+      lulus: 84
+    mhsBaru:
+      reguler: 72
+      transfer: 0
+    mhsAktif:
+      reguler: 190
+      transfer: 0
+  - tahun: ts
+    dayaTampung: 75
+    calonMhs:
+      pendaftar: 289
+      lulus: 149
+    mhsBaru:
+      reguler: 74
+      transfer: 0
+    mhsAktif:
+      reguler: 193
       transfer: 0
 ---
 

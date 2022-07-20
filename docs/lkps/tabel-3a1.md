@@ -13,7 +13,7 @@ data:
     bidangKeahlian: Teknik Mesin
     jabatan: 2
     namaProdi:
-      s2: Teknik
+      s2: Teknik Mesin
     noSertifikatPendidik: "17100503202665"
     sesuaiKompetensi: true
   - matkul: Konversi Energi, Manajemen Bengkel, K3L, Pesawat Angkat, Fisika dan
