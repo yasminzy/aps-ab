@@ -1,9 +1,6 @@
-# backend:
-#   name: "github"
-#   repo: "yasminzy/apsab"
 backend:
-  name: "git-gateway"
-local_backend: true
+  name: "github"
+  repo: "yasminzy/apsab"
 media_folder: "public/media"
 public_folder: "/media"
 site_url: "https://apsab.netlify.app"
