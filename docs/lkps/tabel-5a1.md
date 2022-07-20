@@ -2,35 +2,6 @@
 data:
   - penyelenggara: Jurusan Teknik Mesin
     dokumen: D3 Alat Berat
-    kode: KU1102
-    nama: Etika Profesi
-    matkulKompetensi: true
-    semester: 2
-    sks:
-      kuliah: 2
-      seminar: 0
-      praktik: 0
-    konversiKreditKeJam: 2
-    cpl:
-      pengetahuan: false
-      keterampilanUmum: false
-      sikap: true
-  - penyelenggara: Jurusan Teknik Mesin
-    dokumen: D3 Alat Berat
-    kode: MA1202
-    nama: Matematika Teknik II
-    matkulKompetensi: false
-    semester: 2
-    sks:
-      kuliah: 2
-      seminar: 0
-      praktik: 0
-    konversiKreditKeJam: 2
-    cpl:
-      pengetahuan: true
-      keterampilanUmum: true
-  - penyelenggara: Jurusan Teknik Mesin
-    dokumen: D3 Alat Berat
     kode: KU1101
     nama: Agama
     matkulKompetensi: false
@@ -61,6 +32,35 @@ data:
       pengetahuan: true
       keterampilanUmum: true
       keterampilanKhusus: false
+  - penyelenggara: Jurusan Teknik Mesin
+    dokumen: D3 Alat Berat
+    kode: KU1102
+    nama: Etika Profesi
+    matkulKompetensi: true
+    semester: 2
+    sks:
+      kuliah: 2
+      seminar: 0
+      praktik: 0
+    konversiKreditKeJam: 2
+    cpl:
+      pengetahuan: false
+      keterampilanUmum: false
+      sikap: true
+  - penyelenggara: Jurusan Teknik Mesin
+    dokumen: D3 Alat Berat
+    kode: MA1202
+    nama: Matematika Teknik II
+    matkulKompetensi: false
+    semester: 2
+    sks:
+      kuliah: 2
+      seminar: 0
+      praktik: 0
+    konversiKreditKeJam: 2
+    cpl:
+      pengetahuan: true
+      keterampilanUmum: true
   - penyelenggara: Jurusan Teknik Mesin
     dokumen: D3 Alat Berat
     kode: IN2302
@@ -106,7 +106,7 @@ data:
   - penyelenggara: Jurusan Teknik Mesin
     dokumen: D3 Alat Berat
     kode: PAB2423
-    nama: Chasis dan Under Cariage / Lower Machine
+    nama: Chasis dan Under Carriage/ Lower Machine
     matkulKompetensi: true
     semester: 4
     sks:
@@ -117,33 +117,6 @@ data:
     cpl:
       pengetahuan: true
       keterampilanKhusus: true
-  - penyelenggara: Jurusan Teknik Mesin
-    dokumen: D3 Alat Berat
-    kode: KU3605
-    nama: Kewarganegaraan
-    matkulKompetensi: false
-    semester: 6
-    sks:
-      kuliah: 2
-      seminar: 0
-      praktik: 0
-    konversiKreditKeJam: 2
-    cpl:
-      sikap: true
-  - penyelenggara: Jurusan Teknik Mesin
-    dokumen: D3 Alat Berat
-    kode: KU3606
-    nama: Kewirausahaan
-    matkulKompetensi: false
-    semester: 6
-    sks:
-      kuliah: 1
-      seminar: 0
-      praktik: 1
-    konversiKreditKeJam: 3
-    cpl:
-      sikap: true
-      keterampilanUmum: true
   - penyelenggara: Jurusan Teknik Mesin
     dokumen: D3 Alat Berat
     kode: KU3503
@@ -171,6 +144,34 @@ data:
     cpl:
       pengetahuan: true
       keterampilanUmum: true
+  - penyelenggara: Jurusan Teknik Mesin
+    dokumen: D3 Alat Berat
+    kode: KU3605
+    nama: Kewarganegaraan
+    matkulKompetensi: false
+    semester: 6
+    sks:
+      kuliah: 2
+      seminar: 0
+      praktik: 0
+    konversiKreditKeJam: 2
+    cpl:
+      sikap: true
+  - penyelenggara: Jurusan Teknik Mesin
+    dokumen: D3 Alat Berat
+    kode: KU3606
+    nama: Kewirausahaan
+    matkulKompetensi: false
+    semester: 6
+    sks:
+      kuliah: 1
+      seminar: 0
+      praktik: 1
+    konversiKreditKeJam: 3
+    cpl:
+      sikap: true
+      keterampilanUmum: true
+      pengetahuan: false
 ---
 
 <script setup>
