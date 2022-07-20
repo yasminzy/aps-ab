@@ -1,13 +1,13 @@
 ---
 data:
-  - jenis: 2
-    keterangan: Nomor dan Tanggal Dokumen SPMI 2.
   - jenis: 1
     keterangan: Nomor dan Tanggal Dokumen SPMI 1.
-  - jenis: 4
-    keterangan: Nomor dan Tanggal Dokumen SPMI 4.
+  - jenis: 2
+    keterangan: Nomor dan Tanggal Dokumen SPMI 2.
   - jenis: 3
     keterangan: Nomor dan Tanggal Dokumen SPMI 3.
+  - jenis: 4
+    keterangan: Nomor dan Tanggal Dokumen SPMI 4.
 ---
 
 <script setup>
