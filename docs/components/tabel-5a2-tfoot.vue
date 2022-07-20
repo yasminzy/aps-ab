@@ -7,7 +7,8 @@ const props = defineProps({
 
 const sum = (array) => lodash.sum(array)
 
-const average = (array) => array.reduce((a, b) => a + b) / array.length
+const average = (array) =>
+  lodash.round(array.reduce((a, b) => a + b) / array.length, 1)
 
 const mhsTs2 = props.data.map((item) => item.mhs["ts-2"])
 const mhsTs1 = props.data.map((item) => item.mhs["ts-1"])
