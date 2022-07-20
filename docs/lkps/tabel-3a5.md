@@ -2,7 +2,7 @@
 data:
   - pendidikan: s2
     nama: Nama Dosen A
-    nomorInduk: "0"
+    nomorInduk: ""
     perusahaan: Perusahaan A
     bidangKeahlian: Bidang Keahlian A
     sertifikat:
@@ -12,7 +12,7 @@ data:
     sks: 3
   - pendidikan: s2
     nama: Nama Dosen B
-    nomorInduk: "0"
+    nomorInduk: ""
     perusahaan: Perusahaan B
     bidangKeahlian: Bidang Keahlian B
     sertifikat:
@@ -22,7 +22,7 @@ data:
     sks: 3
   - pendidikan: s2
     nama: Nama Dosen C
-    nomorInduk: "0"
+    nomorInduk: ""
     perusahaan: Perusahaan C
     bidangKeahlian: Bidang Keahlian C
     sertifikat:

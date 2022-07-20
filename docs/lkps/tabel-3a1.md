@@ -180,7 +180,7 @@ data:
     nomorInduk: "-"
     nama: Arwin, S.Pd., M.T,
     bidangKeahlian: Teknik Mesin
-    jabatan: 1
+    jabatan: 0
     namaProdi:
       s3: ""
       s2: Teknik Mesin
@@ -195,7 +195,7 @@ data:
     nomorInduk: "-"
     nama: Aryati Muhaymin Marali, S.Pd., M.T.
     bidangKeahlian: Teknik Mesin
-    jabatan: 1
+    jabatan: 0
     namaProdi:
       s3: ""
       s2: Teknik Mesin
@@ -210,7 +210,7 @@ data:
     nomorInduk: "1105099501"
     nama: Herdian Dwimas, S.T., M.T.
     bidangKeahlian: Teknik Mesin
-    jabatan: 1
+    jabatan: 0
     namaProdi:
       s3: ""
       s2: Teknik Mesin
@@ -225,7 +225,7 @@ data:
     nomorInduk: "0019099502"
     nama: Yasmin Zulfati Yusrina, S.T., M.T.
     bidangKeahlian: Teknik Mesin
-    jabatan: 1
+    jabatan: 0
     namaProdi:
       s3: ""
       s2: Teknik Mesin

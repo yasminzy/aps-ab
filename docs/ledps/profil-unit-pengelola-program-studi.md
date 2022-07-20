@@ -179,12 +179,6 @@ Dosen mempunyai tugas utama yaitu mentransformasikan, mengembangkan, dan menyeba
 
 <!--@include: ../panduan/iii-c-5.md-->
 
-### Jumlah dan Kualifikasi Dosen dan Tenaga Kependidikan
-
-### Jumlah Tenaga Kependidikan
-
-### Kinerja Dosen
-
 ## Keuangan, Sarana, dan Prasarana
 
 <!--@include: ../panduan/iii-c-6.md-->
