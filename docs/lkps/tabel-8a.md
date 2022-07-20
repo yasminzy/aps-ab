@@ -1,17 +1,17 @@
 ---
 data:
-  - tahun: ts-1
-    lulusan: 56
-    ipk:
-      min: 2.55
-      avg: 3.11
-      max: 3.67
   - tahun: ts-2
     lulusan: 55
     ipk:
       min: 2.56
       avg: 3.08
       max: 3.6
+  - tahun: ts-1
+    lulusan: 56
+    ipk:
+      min: 2.55
+      avg: 3.11
+      max: 3.67
   - tahun: ts
     lulusan: 51
     ipk:
