@@ -4,7 +4,7 @@ data:
     tanggal: 2022-03-16T13:11:11.457Z
     judul: Judul luaran penelitian dan PkM A
     noPaten: ""
-    tkt: 6
+    tkt: ""
     noSertifikat: ""
     noSertifikatTkt: ""
     noIsbn: ""
@@ -13,17 +13,25 @@ data:
     judul: Judul luaran penelitian dan PkM B
     noSertifikat: ""
     noPaten: ""
-    tkt: 7
+    tkt: 1
     noSertifikatTkt: ""
     noIsbn: ""
   - jenis: 3
     noPaten: ""
     noSertifikat: ""
-    tkt: 0
+    tkt: 2
     noSertifikatTkt: ""
     noIsbn: ""
     tanggal: 2022-07-20T15:02:02.688Z
     judul: Judul luaran penelitian dan PkM C
+  - jenis: 4
+    noPaten: ""
+    noSertifikat: ""
+    tkt: ""
+    noSertifikatTkt: ""
+    noIsbn: ""
+    tanggal: 2022-07-20T15:03:01.725Z
+    judul: Judul luaran penelitian dan PkM D
 ---
 
 <script setup>
