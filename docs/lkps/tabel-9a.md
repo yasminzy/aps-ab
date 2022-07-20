@@ -1,12 +1,12 @@
 ---
 data:
-  - nama: 3
-    tanggal: 2022-07-16T11:02:01.428Z
+  - nama: 1
+    tanggal: 2022-07-16T11:02:20.080Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
     umpanBalik: true
-    tindakLanjut: true
+    tindakLanjut: false
   - nama: 2
     tanggal: 2022-07-16T11:02:18.936Z
     ketersediaan: true
@@ -14,43 +14,29 @@ data:
     monev: true
     umpanBalik: false
     tindakLanjut: false
-  - nama: 1
-    tanggal: 2022-07-16T11:02:20.080Z
+  - nama: 3
+    tanggal: 2022-07-16T11:02:01.428Z
     ketersediaan: true
     pelaksanaan: true
-    monev: true
-    umpanBalik: true
-    tindakLanjut: true
+    monev: false
+    umpanBalik: false
+    tindakLanjut: false
   - nama: 4
     tanggal: 2022-07-16T11:02:01.428Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
-    umpanBalik: false
-    tindakLanjut: false
+    umpanBalik: true
+    tindakLanjut: true
   - nama: 5
     tanggal: 2022-07-16T11:02:18.936Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
     umpanBalik: true
-    tindakLanjut: false
+    tindakLanjut: true
   - nama: 6
     tanggal: 2022-07-16T11:02:20.080Z
-    ketersediaan: true
-    pelaksanaan: true
-    monev: true
-    umpanBalik: true
-    tindakLanjut: true
-  - nama: 9
-    tanggal: 2022-07-16T11:02:01.428Z
-    ketersediaan: true
-    pelaksanaan: true
-    monev: true
-    umpanBalik: true
-    tindakLanjut: false
-  - nama: 8
-    tanggal: 2022-07-16T11:02:18.936Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
@@ -58,6 +44,20 @@ data:
     tindakLanjut: false
   - nama: 7
     tanggal: 2022-07-16T11:02:20.080Z
+    ketersediaan: true
+    pelaksanaan: true
+    monev: true
+    umpanBalik: false
+    tindakLanjut: false
+  - nama: 8
+    tanggal: 2022-07-16T11:02:18.936Z
+    ketersediaan: true
+    pelaksanaan: true
+    monev: false
+    umpanBalik: false
+    tindakLanjut: false
+  - nama: 9
+    tanggal: 2022-07-16T11:02:01.428Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
@@ -76,20 +76,20 @@ data:
     pelaksanaan: true
     monev: true
     umpanBalik: true
-    tindakLanjut: true
+    tindakLanjut: false
   - nama: 12
     tanggal: 2022-07-16T11:02:20.080Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
-    umpanBalik: true
+    umpanBalik: false
     tindakLanjut: false
   - nama: 13
     tanggal: 2022-07-16T11:02:01.428Z
     ketersediaan: true
     pelaksanaan: true
-    monev: true
-    umpanBalik: true
+    monev: false
+    umpanBalik: false
     tindakLanjut: false
   - nama: 14
     tanggal: 2022-07-16T11:02:18.936Z
@@ -97,27 +97,55 @@ data:
     pelaksanaan: true
     monev: true
     umpanBalik: true
-    tindakLanjut: false
+    tindakLanjut: true
   - nama: 15
     tanggal: 2022-07-16T11:02:20.080Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
-    umpanBalik: false
-    tindakLanjut: false
-  - nama: 24
-    tanggal: 2022-07-16T11:02:01.428Z
+    umpanBalik: true
+    tindakLanjut: true
+  - nama: 16
+    tanggal: 2022-07-16T11:02:20.080Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
     umpanBalik: true
     tindakLanjut: false
-  - nama: 23
+  - nama: 17
     tanggal: 2022-07-16T11:02:18.936Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
     umpanBalik: false
+    tindakLanjut: false
+  - nama: 18
+    tanggal: 2022-07-16T11:02:01.428Z
+    ketersediaan: true
+    pelaksanaan: true
+    monev: false
+    umpanBalik: false
+    tindakLanjut: false
+  - nama: 19
+    tanggal: 2022-07-16T11:02:20.080Z
+    ketersediaan: true
+    pelaksanaan: true
+    monev: true
+    umpanBalik: true
+    tindakLanjut: true
+  - nama: 20
+    tanggal: 2022-07-16T11:02:18.936Z
+    ketersediaan: true
+    pelaksanaan: true
+    monev: true
+    umpanBalik: true
+    tindakLanjut: true
+  - nama: 21
+    tanggal: 2022-07-16T11:02:01.428Z
+    ketersediaan: true
+    pelaksanaan: true
+    monev: true
+    umpanBalik: true
     tindakLanjut: false
   - nama: 22
     tanggal: 2022-07-16T11:02:20.080Z
@@ -126,48 +154,20 @@ data:
     monev: true
     umpanBalik: false
     tindakLanjut: false
-  - nama: 21
-    tanggal: 2022-07-16T11:02:01.428Z
-    ketersediaan: true
-    pelaksanaan: true
-    monev: true
-    umpanBalik: true
-    tindakLanjut: false
-  - nama: 20
+  - nama: 23
     tanggal: 2022-07-16T11:02:18.936Z
     ketersediaan: true
-    pelaksanaan: false
-    monev: false
-    umpanBalik: false
-    tindakLanjut: false
-  - nama: 19
-    tanggal: 2022-07-16T11:02:20.080Z
-    ketersediaan: true
     pelaksanaan: true
     monev: false
     umpanBalik: false
     tindakLanjut: false
-  - nama: 18
+  - nama: 24
     tanggal: 2022-07-16T11:02:01.428Z
     ketersediaan: true
     pelaksanaan: true
     monev: true
     umpanBalik: true
     tindakLanjut: true
-  - nama: 17
-    tanggal: 2022-07-16T11:02:18.936Z
-    ketersediaan: true
-    pelaksanaan: true
-    monev: true
-    umpanBalik: false
-    tindakLanjut: false
-  - nama: 16
-    tanggal: 2022-07-16T11:02:20.080Z
-    ketersediaan: true
-    pelaksanaan: true
-    monev: true
-    umpanBalik: true
-    tindakLanjut: false
 ---
 
 <script setup>
