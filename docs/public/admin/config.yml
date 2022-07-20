@@ -533,7 +533,9 @@ collections:
               - name: "nomorInduk"
                 label: "NIDK"
                 widget: "string"
+                required: false
                 hint: "NIDK = Nomor Induk Dosen Khusus, diisi jika ada."
+                default: ""
 
               - name: "perusahaan"
                 label: "Perusahaan/ Industri"
@@ -681,7 +683,7 @@ collections:
                     min: 0
 
       - name: "tabel-3b3"
-        label: "3.b.3 Pengabdian kepada Masyarakat (PkM) DTPS"
+        label: "3.b.3 - Pengabdian kepada Masyarakat (PkM) DTPS"
         file: "docs/lkps/tabel-3b3.md"
         fields:
           - name: "data"
@@ -823,6 +825,7 @@ collections:
           - name: "data"
             label: "Luaran Lainnya"
             widget: "list"
+            summary: "{{fields.judul}}"
             fields:
               - name: "jenis"
                 label: "Jenis Luaran Penelitian dan PkM"
@@ -1348,7 +1351,7 @@ collections:
                     min: 0
 
                   - name: "ts"
-                    label: 2023/2024"
+                    label: "2023/2024"
                     widget: "number"
                     value_type: "int"
                     min: 0
