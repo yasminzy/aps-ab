@@ -23,6 +23,11 @@ module.exports = {
       }
     ],
 
+    socialLinks: [
+      { icon: "github", link: "https://github.com/yasminzy/apsab" },
+      { icon: "youtube", link: "https://youtu.be/h7zG4Iqsh-A" }
+    ],
+
     sidebar: {
       "/ledps/": [
         {
