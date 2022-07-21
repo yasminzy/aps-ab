@@ -1,7 +1,6 @@
 ---
 title: Kriteria 2 - Tata Pamong, Tata Kelola dan Kerja Sama
 ---
-
 # Tata Pamong, Tata Kelola dan Kerja Sama
 
 <!--@include: ../penilaian/7-12.md-->
@@ -17,6 +16,8 @@ Seiring berjalannya waktu Politeknik Balikpapan berubah status dari swasta ke ne
 Berdasarkan Surat Keputusan Direktur Poltekba No.04/SK/DIR/II/2012 tentang Re-Organisasi, Tugas Pokok dan Fungsi Politeknik Negeri Balikpapan, dalam struktur organisasi Poltekba tersebut memperlihatkan secara jelas bahwa Jurusan Teknik Mesin adalah unit pengelolah Program Studi D3 Alat Berat.
 
 Berdasarkan surat keputusan tersebut di atas, direktur Poltekba mengeluarkan Surat Keputusan Direktur Poltekba Nomor 538.01/PL32/SK/2016 tentang struktur organisasi Jurusan Teknik Mesin untuk menjami efektifitas operasional dan pelayanan pada jurusan. Jurusan teknik Mesin dipimpin oleh Ketua Jurusan dan dibantu oleh Seketaris Jurusan, Ketua Program Studi D3 Alat Berat dan Kepala Workshop yang bertanggungjawab kepada ketua jurusan.
+
+![Struktur organisasi Jurusan Teknik Mesin](/media/struktur-organisasi-jurusan-teknik-mesin.png "Struktur organisasi Jurusan Teknik Mesin")
 
 ## Kebijakan
 
