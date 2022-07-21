@@ -1,4 +1,5 @@
 module.exports = {
+  appearance: false,
   description:
     "Sistem Informasi Akreditasi Program Studi D-III Alat Berat Poltekba",
   lang: "id",
