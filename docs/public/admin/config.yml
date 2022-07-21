@@ -1,7 +1,7 @@
 backend:
   name: "github"
   repo: "yasminzy/apsab"
-media_folder: "public/media"
+media_folder: "docs/public/media"
 public_folder: "/media"
 site_url: "https://apsab.netlify.app"
 editor:
