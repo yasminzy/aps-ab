@@ -1,14 +1,13 @@
 ---
 title: Kondisi Eksternal
 ---
-
 # Kondisi Eksternal
 
 <!--@include: ../penilaian/1.md-->
 
 <!--@include: ../panduan/b.md-->
 
-Kondisi saat ini Program Studi D3 Alat Berat Politeknik Negeri Balikpapan merupakan Program Studi yang melaksanakan pendidikan vokasi yang berkembang terus dimana terus menerus melakukan perbaikan secara berkesinambungan. Yang secara keseluruhan bersifat dinamis yang sesuai dengan tuntutan stakeholder sesuai dengan konsep pendidikan vokasi.
+Kondisi saat ini Program Studi D3 Alat Berat Politeknik Negeri Balikpapan merupakan Program Studi yang melaksanakan pendidikan vokasi yang berkembang terus dimana terus-menerus melakukan perbaikan secara berkesinambungan. Yang secara keseluruhan bersifat dinamis yang sesuai dengan tuntutan *stakeholder* sesuai dengan konsep pendidikan vokasi.
 
 Uraian tersebut diatas dapat dijabarkan dalam visi dan misi Program Studi D3 Alat Berat visi dan misi Politeknik negeri Balikpapan sebagai berikut:
 
@@ -19,10 +18,10 @@ Uraian tersebut diatas dapat dijabarkan dalam visi dan misi Program Studi D3 Ala
 **Misi Jurusan Teknik Mesin**
 
 1. Menyelenggarakan pendidikan berdasarkan kebutuhan industri.
-1. Mengembangkan sarana pendidikan yang berbasis kepada kebutuhan industri.
-1. Mengembangkan penelitian terapan yang berkaitan dengan permasalahan pada Teknik Mesin.
-1. Menciptakan suasana akademik yang diarahkan agar tanggap terhadap perubahan dan perkembangan IPTEK.
-1. Menyelenggarakan proses pendidikan secara efisien, produktif dan terorganisir dalam sistem manajemen mutu yang baik.
+2. Mengembangkan sarana pendidikan yang berbasis kepada kebutuhan industri.
+3. Mengembangkan penelitian terapan yang berkaitan dengan permasalahan pada Teknik Mesin.
+4. Menciptakan suasana akademik yang diarahkan agar tanggap terhadap perubahan dan perkembangan IPTEK.
+5. Menyelenggarakan proses pendidikan secara efisien, produktif dan terorganisir dalam sistem manajemen mutu yang baik.
 
 Visi Misi diatas didapatkan dari indentifikasi eksternal yang dapat dilihat baik lingkungan makro dan lingkungan mikro yang dapat dijabarkan sebagai berikut:
 
@@ -81,8 +80,8 @@ Untuk menjamin lulusan tetap dengan kompetensi yang sesuai permintaan oleh pasar
 Dari uraian tersebut diatas maka Program Studi D3 alat berat Polteknik negeri Balikpapan harus secara cepat melakukan perubahan perubahan secara berkesinambungan untuk mencapai Visi Misi yang telah ditetapkan sesuai dengan Renstra program studi. Tentu saja untuk mewujudkan hal tersebut dibutuhkan strategi/ program yang dapat diuraikan sebagai berikut:
 
 1. Melakukan penguatan kerja sama dengan semua stakeholder dunia usaha/ industri dan masyarakat.
-1. Melakukan upaya meningkatkan penjaminan mutu Prodi melalui penjaminan mutu internal dan eksternal.
-1. Meningkatkan kerjasama kerjasama lembaga sertifikasi untuk menjamin penguatan SDM baik tenaga pendidik dan lulusan dalam menjamin kesesuaikan kompetensi yang dimiliki lulusan di Program Studi D3 alat berat.
-1. Melakukan perencanaan pengembangan secara keseluruhan untuk pengembangan SDM dan sarana presarana prodi alat berat.
-1. Melakukan penguatan kepercayaan dari pemerintah pusat tentang pengembangan Poltekba kedepannya dalam menjawab tantangan dalam meningkatkan SDM anak bangsa.
-1. Penguatan organ yang mengontrol dalam upaya capaian capaian kerja sama baik lokal, nasional dan internasional.
+2. Melakukan upaya meningkatkan penjaminan mutu Prodi melalui penjaminan mutu internal dan eksternal.
+3. Meningkatkan kerjasama kerjasama lembaga sertifikasi untuk menjamin penguatan SDM baik tenaga pendidik dan lulusan dalam menjamin kesesuaikan kompetensi yang dimiliki lulusan di Program Studi D3 alat berat.
+4. Melakukan perencanaan pengembangan secara keseluruhan untuk pengembangan SDM dan sarana presarana prodi alat berat.
+5. Melakukan penguatan kepercayaan dari pemerintah pusat tentang pengembangan Poltekba kedepannya dalam menjawab tantangan dalam meningkatkan SDM anak bangsa.
+6. Penguatan organ yang mengontrol dalam upaya capaian capaian kerja sama baik lokal, nasional dan internasional.
