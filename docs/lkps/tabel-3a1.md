@@ -239,7 +239,7 @@ data:
       lembagaPenerbit: Lembaga Penerbit
     bidangKeahlianSesuaiMatkul: true
     nomorInduk: "1174117401"
-    nama: Dr. Syahruddin, S.Pd., M.T.
+    nama: Dr. H.Syahruddin, S.Pd., M.T.
     bidangKeahlian: Manajemen Industri
     jabatan: 2
     namaProdi:
