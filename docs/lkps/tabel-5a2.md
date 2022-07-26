@@ -2,10 +2,10 @@
 data:
   - status:
       pendidikan: s2
-      jabatan: 0
-    nama: Nama Dosen A
+      jabatan: 1
+    nama: Yudi Kurniawan, S.T., M.T.
     mhs:
-      ts-2: 1
+      ts-2: 10
       ts-1: 2
       ts: 3
     pertemuan:
