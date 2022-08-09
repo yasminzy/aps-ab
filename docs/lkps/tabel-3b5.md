@@ -61,6 +61,8 @@ const { frontmatter } = useData()
 
 # Pagelaran/ Pameran/ Presentasi/ Publikasi Ilmiah DTPS
 
+➡️ P3M, SINTA, Google Scholar
+
 Tuliskan jumlah pagelaran/pameran/presentasi/publikasi ilmiah dengan tema yang relevan dengan bidang Program Studi, yang dihasilkan oleh DTPS dalam 3 tahun terakhir.
 
 ## Tabel 3.b.5

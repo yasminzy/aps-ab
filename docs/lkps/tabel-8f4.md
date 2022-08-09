@@ -23,6 +23,8 @@ const { frontmatter } = useData()
 
 # Produk/Jasa yang Dihasilkan Mahasiswa yang Diadopsi oleh Industri/Masyarakat
 
+➡️ Industri
+
 Tuliskan produk/jasa karya mahasiswa, yang dihasilkan secara mandiri atau bersama DTPS, yang diadopsi oleh industri/masyarakat dalam 3 tahun terakhir. Jenis produk/jasa yang diadopsi oleh industri/masyarakat harus relevan dengan bidang program studi.
 
 ## Tabel 8.f.4

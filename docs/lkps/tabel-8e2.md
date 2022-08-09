@@ -72,6 +72,8 @@ const { frontmatter } = useData()
 
 # Kepuasan Pengguna
 
+➡️ CDC
+
 Tuliskan hasil pengukuran kepuasan pengguna lulusan berdasarkan aspek-aspek:
 
 1. etika,

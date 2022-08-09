@@ -35,6 +35,8 @@ const { frontmatter } = useData()
 
 # Waktu Tunggu Lulusan
 
+➡️ CDC
+
 Tuliskan data masa tunggu lulusan untuk mendapatkan pekerjaan pertama dalam 3 tahun. Data diambil dari hasil studi penelusuran lulusan.
 
 ## Tabel 8.d.1

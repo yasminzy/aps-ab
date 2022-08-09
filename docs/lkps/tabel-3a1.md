@@ -290,6 +290,8 @@ const { frontmatter } = useData()
 
 # Dosen Tetap Perguruan Tinggi yang Ditugaskan sebagai Pengampu Mata Kuliah di Program Studi yang Diakreditasi
 
+➡️ Kepegawaian
+
 Tuliskan data Dosen Tetap Perguruan Tinggi yang ditugaskan sebagai pengampu mata kuliah di Program Studi yang diakreditasi (DTPS) pada saat TS.
 
 ## Tabel 3.a.1

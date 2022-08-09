@@ -23,6 +23,8 @@ const { frontmatter } = useData()
 
 # Dosen Tidak Tetap yang Ditugaskan sebagai Pengampu Mata Kuliah di Program Studi yang Diakreditasi
 
+➡️ Kepegawaian
+
 Tuliskan data Dosen Tidak Tetap yang ditugaskan sebagai pengampu mata kuliah di Program Studi yang diakreditasi (DTT) pada saat TS.
 
 ## Tabel 3.a.4

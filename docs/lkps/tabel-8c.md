@@ -30,6 +30,8 @@ const { frontmatter } = useData()
 
 # Masa Studi Lulusan Program Studi
 
+➡️ CDC
+
 Tuliskan masa studi lulusan.
 
 ## Tabel 8.c

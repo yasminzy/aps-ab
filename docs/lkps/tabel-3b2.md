@@ -26,6 +26,8 @@ const { frontmatter } = useData()
 
 # Penelitian DTPS
 
+➡️ P3M, SINTA, Google Scholar
+
 Tuliskan jumlah judul penelitian1) yang dilaksanakan oleh DTPS berdasarkan sumber pembiayaan, yang relevan dengan bidang Program Studi pada TS-2 sampai dengan TS.
 
 ## Tabel 3.b.2

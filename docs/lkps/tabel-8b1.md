@@ -23,6 +23,8 @@ const { frontmatter } = useData()
 
 # Prestasi Akademik
 
+➡️ Kemahasiswaan
+
 Tuliskan prestasi akademik yang dicapai mahasiswa Program Studi dalam 5 tahun terakhir. Data dilengkapi dengan keterangan kegiatan yang diikuti (nama kegiatan, tahun, tingkat, dan prestasi yang dicapai).
 
 ## Tabel 8.b.1

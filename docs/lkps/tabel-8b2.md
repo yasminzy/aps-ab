@@ -23,6 +23,8 @@ const { frontmatter } = useData()
 
 # Prestasi Non-Akademik Mahasiswa
 
+➡️ Kemahasiswaan
+
 Tuliskan prestasi non-akademik yang dicapai mahasiswa Program Studi dalam 5 tahun terakhir. Data dilengkapi dengan keterangan kegiatan yang diikuti (nama kegiatan, tahun, tingkat, dan prestasi yang dicapai).
 
 ## Tabel 8.b.2

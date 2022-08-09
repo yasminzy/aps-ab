@@ -35,6 +35,8 @@ const { frontmatter } = useData()
 
 # Tempat Kerja Lulusan
 
+➡️ CDC
+
 Tuliskan tingkat/ukuran tempat kerja/berwirausaha lulusan dalam 3 tahun, mulai TS-4 sampai dengan TS-2. Data diambil dari hasil studi penelusuran lulusan.
 
 ## Tabel 8.e.1

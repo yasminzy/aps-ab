@@ -101,6 +101,8 @@ const { frontmatter } = useData()
 
 # Penggunaan Dana
 
+➡️ Bendahara, WD II
+
 Tuliskan data penggunaan dana yang dikelola oleh UPPS dan data penggunaan dana yang dialokasikan ke Program Studi yang diakreditasi dalam 3 tahun terakhir.
 
 ## Tabel 4.a

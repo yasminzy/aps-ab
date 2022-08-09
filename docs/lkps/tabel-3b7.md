@@ -23,6 +23,8 @@ const { frontmatter } = useData()
 
 # Produk/ Jasa DTPS yang Diadopsi oleh Industri/ Masyarakat
 
+➡️ P3M
+
 Tuliskan nama produk/jasa karya DTPS yang diadopsi oleh industri/masyarakat dalam 3 tahun terakhir. Jenis produk/jasa harus relevan dengan bidang Program Studi.
 
 ## Tabel 3.b.7

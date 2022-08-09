@@ -29,6 +29,8 @@ const { frontmatter } = useData()
 
 # IPK Lulusan
 
+➡️ BAAK
+
 Tuliskan data Indeks Prestasi Kumulatif (IPK) lulusan dalam 3 tahun terakhir. Data dilengkapi dengan jumlah lulusan pada setiap tahun kelulusan.
 
 ## Tabel 8.a

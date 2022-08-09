@@ -55,6 +55,8 @@ const { frontmatter } = useData()
 
 # Seleksi Mahasiswa
 
+➡️ BAAK
+
 Tuliskan data daya tampung, jumlah calon mahasiswa (pendaftar dan peserta yang lulus seleksi), jumlah mahasiswa baru (reguler dan transfer) dan jumlah mahasiswa aktif (reguler dan transfer) dalam 5 tahun terakhir di Program Studi yang diakreditasi.
 
 ## Tabel 2.a.2

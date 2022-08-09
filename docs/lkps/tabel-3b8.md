@@ -43,6 +43,8 @@ const { frontmatter } = useData()
 
 # Luaran Penelitian/PkM Lainnya oleh DTPS
 
+➡️ P3M, SINTA, Google Scholar
+
 Tuliskan judul luaran penelitian atau judul luaran PkM yang dihasilkan DTPS dalam 3 tahun terakhir. Jenis dan judul luaran harus relevan dengan bidang Program Studi.
 
 ## Tabel 3.b.8

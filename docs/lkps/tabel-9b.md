@@ -19,6 +19,8 @@ const { frontmatter } = useData()
 
 # Ketersediaan Dokumen/Buku Sistem Penjaminan Mutu Internal
 
+➡️ P4MP
+
 ## Tabel 9.b
 
 <Tabel :data="frontmatter.data" />

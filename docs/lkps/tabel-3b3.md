@@ -26,6 +26,8 @@ const { frontmatter } = useData()
 
 # Pengabdian kepada Masyarakat (PkM) DTPS
 
+➡️ P3M, SINTA, Google Scholar
+
 Tuliskan jumlah judul Pengabdian kepada Masyarakat (PkM)1) yang dilaksanakan oleh DTPS berdasarkan sumber pembiayaan, yang relevan dengan bidang Program Studi pada TS-2 sampai dengan TS.
 
 ## Tabel 3.b.3

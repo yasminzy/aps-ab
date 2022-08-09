@@ -179,6 +179,8 @@ const { frontmatter } = useData()
 
 # Evaluasi dan Pengendalian Sistem Penjaminan Mutu Internal
 
+➡️ P4MP
+
 Pelaksanaan Penjaminan Mutu Internal pada Unit Pengelola Program Studi (UPPS) serta kelengkapan dokumennya.
 
 ## Tabel 9.a

@@ -32,6 +32,8 @@ const { frontmatter } = useData()
 
 # Kesesuaian Bidang Kerja Lulusan
 
+➡️ CDC
+
 Tuliskan data kesesuaian bidang kerja lulusan saat mendapatkan pekerjaan pertama dalam 3 tahun, mulai TS-4 sampai dengan TS-2. Data diambil dari hasil studi penelusuran lulusan.
 
 ## Tabel 8.d.2

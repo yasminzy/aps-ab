@@ -83,6 +83,8 @@ const { frontmatter } = useData()
 
 # Kerja Sama Tridharma Perguruan Tinggi
 
+➡️ P3M
+
 Tuliskan kerjasama tridharma perguruan tinggi di Unit Pengelola Program Studi (UPPS) dalam 3 tahun terakhir.
 
 ## Tabel 1

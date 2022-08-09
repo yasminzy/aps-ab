@@ -26,6 +26,8 @@ const { frontmatter } = useData()
 
 # PkM DTPS yang Melibatkan Mahasiswa
 
+➡️ P3M
+
 Tuliskan data Pengabdian kepada Masyarakat (PkM) DTPS yang dalam pelaksanaannya melibatkan mahasiswa Program Studi pada TS-2 sampai dengan TS.
 
 ## Tabel 7
