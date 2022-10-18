@@ -5,9 +5,5 @@ const props = defineProps({
 </script>
 
 <template>
-  <td
-    v-for="(item, index) in n"
-    :key="index"
-    class="bg-mute dark:bg-dark-mute"
-  ></td>
+  <td v-for="(item, index) in n" :key="index" class="bg-mute dark:bg-dark-mute"></td>
 </template>

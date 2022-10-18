@@ -50,9 +50,5 @@ const chartOptions = ref({
 </script>
 
 <template>
-  <Pie
-    v-if="chartData.datasets.length"
-    :chart-data="chartData"
-    :chart-options="chartOptions"
-  />
+  <Pie v-if="chartData.datasets.length" :chart-data="chartData" :chart-options="chartOptions" />
 </template>

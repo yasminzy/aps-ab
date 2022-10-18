@@ -78,9 +78,5 @@ const chartOptions = ref({
 </script>
 
 <template>
-  <Bar
-    v-if="chartData.datasets.length"
-    :chart-data="chartData"
-    :chart-options="chartOptions"
-  />
+  <Bar v-if="chartData.datasets.length" :chart-data="chartData" :chart-options="chartOptions" />
 </template>

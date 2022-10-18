@@ -1,1 +1,2198 @@
-[{"data":[{"jenis":"pendidikan","tingkat":"internasional","tanggalAwal":"2022-01-15T05:54:32.535Z","tanggalAkhir":"2022-01-16T05:54:32.548Z","mitra":"Lembaga Mitra 1","judul":"Judul Kegiatan Kerja Sama 1","manfaat":"Manfaat bagi PS yang diakreditasi 1.","bukti":"Bukti kerja sama 1."},{"jenis":"penelitian","tingkat":"nasional","tanggalAwal":"2022-07-14T05:56:37.125Z","tanggalAkhir":"2022-07-15T05:56:37.143Z","mitra":"Lembaga Mitra 2","judul":"Judul Kegiatan Kerja Sama 2","manfaat":"Manfaat bagi PS yang diakreditasi 2.","bukti":"Bukti kerja sama 2."},{"jenis":"pkm","tingkat":"wilayah","tanggalAwal":"2022-02-13T05:58:12.602Z","tanggalAkhir":"2022-02-14T05:58:12.624Z","mitra":"Lembaga Mitra 3","judul":"Judul Kegiatan Kerja Sama 3","manfaat":"Manfaat bagi PS yang diakreditasi 3.","bukti":"Bukti kerja sama 3."},{"jenis":"pendidikan","tingkat":"nasional","tanggalAwal":"2022-06-12T05:58:35.909Z","tanggalAkhir":"2022-06-13T05:58:35.936Z","mitra":"Lembaga Mitra 4","judul":"Judul Kegiatan Kerja Sama 4","manfaat":"Manfaat bagi PS yang diakreditasi 4.","bukti":"Bukti kerja sama 4."},{"jenis":"penelitian","tingkat":"wilayah","tanggalAwal":"2022-03-11T05:58:36.007Z","tanggalAkhir":"2022-03-12T05:58:36.034Z","mitra":"Lembaga Mitra 5","judul":"Judul Kegiatan Kerja Sama 5","manfaat":"Manfaat bagi PS yang diakreditasi 5.","bukti":"Bukti kerja sama 5."},{"jenis":"pkm","tingkat":"internasional","tanggalAwal":"2022-06-10T05:58:36.139Z","tanggalAkhir":"2022-05-11T05:58:36.171Z","mitra":"Lembaga Mitra 6","judul":"Judul Kegiatan Kerja Sama 6","manfaat":"Manfaat bagi PS yang diakreditasi 6.","bukti":"Bukti kerja sama 6."},{"jenis":"pendidikan","tingkat":"wilayah","tanggalAwal":"2022-04-09T05:58:36.279Z","tanggalAkhir":"2022-04-10T05:58:36.336Z","mitra":"Lembaga Mitra 7","judul":"Judul Kegiatan Kerja Sama 7","manfaat":"Manfaat bagi PS yang diakreditasi 7.","bukti":"Bukti kerja sama 7."},{"jenis":"penelitian","tingkat":"internasional","tanggalAwal":"2022-05-08T05:58:36.494Z","tanggalAkhir":"2022-05-09T05:58:36.531Z","mitra":"Lembaga Mitra 8","judul":"Judul Kegiatan Kerja Sama 8","manfaat":"Manfaat bagi PS yang diakreditasi 8.","bukti":"Bukti kerja sama 8."},{"jenis":"pkm","tingkat":"nasional","tanggalAwal":"2022-05-07T05:58:36.672Z","tanggalAkhir":"2022-05-08T05:58:36.706Z","mitra":"Lembaga Mitra 9","manfaat":"Manfaat bagi PS yang diakreditasi 9.","judul":"Judul Kegiatan Kerja Sama 9.","bukti":"Bukti kerja sama 9."}],"title":"tabel-1"},{"data":[{"tahun":"ts-3","dayaTampung":64,"calonMhs":{"pendaftar":339,"lulus":84},"mhsBaru":{"reguler":64,"transfer":0},"mhsAktif":{"reguler":178,"transfer":0}},{"tahun":"ts-2","dayaTampung":65,"calonMhs":{"pendaftar":531,"lulus":108},"mhsBaru":{"reguler":65,"transfer":0},"mhsAktif":{"reguler":184,"transfer":0}},{"tahun":"ts-1","dayaTampung":72,"calonMhs":{"pendaftar":360,"lulus":84},"mhsBaru":{"reguler":72,"transfer":0},"mhsAktif":{"reguler":190,"transfer":0}},{"tahun":"ts","dayaTampung":75,"calonMhs":{"pendaftar":289,"lulus":149},"mhsBaru":{"reguler":74,"transfer":0},"mhsAktif":{"reguler":193,"transfer":0}}],"title":"tabel-2a2"},{"data":[{"matkul":"Sistem Hidrolik dan Pneumatik, Mekanika Fluida, Fisika dan Kimia Dasar ","matkulDiPsLain":"Fisika dan Kimia Dasar, Jaringan Komputer II (PS T. Elektronika)","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"1103027702","nama":"Ali Abrar, S.Si., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":1,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"18100503200407","sesuaiKompetensi":true},{"matkul":"1. Mekanika Teknik, 2. Motor Bakar II, 3. Hand and Measurement Tools, 4. Ilmu Bahan II","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0028088502","nama":"Zulkifli, S.T., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":2,"namaProdi":{"s2":"Teknik Mesin"},"noSertifikatPendidik":"17100503202665","sesuaiKompetensi":true},{"matkul":"Sistem Penyejuk Udara, Chasis dan Under Carriage, Rangkaian Pemindah Tenaga, Dasar-Dasar\nHidrolik dan Pneumatik","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0001046214","nama":"Drs. Syaeful Akbar, M.T.","bidangKeahlian":"Manajemen Industri","jabatan":2,"namaProdi":{"s2":"Manajemen  Industri"},"noSertifikatPendidik":"14100503203411","sesuaiKompetensi":true},{"matkul":"Konversi Energi, Manajemen Bengkel, K3L, Pesawat Angkat, Fisika dan Kimia Dasar","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0031127417","nama":"Ir. Ida Bagus Dharmawan, S.T., M.Si.","bidangKeahlian":"Ilmu Lingkungan","jabatan":2,"namaProdi":{"s2":"Ilmu Lingkungan "},"noSertifikatPendidik":"14100503203746","sesuaiKompetensi":false},{"matkul":"Thermodinamika, Sistem Bahan Bakar, Pesawat Angkat, Motor Bakar I","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0006028206","nama":"Subur Mulyanto, S.Pd., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":2,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"18100503205980","sesuaiKompetensi":true},{"matkul":"Matematika Teknik II, Statistik, Matematika Teknik I, Aplikasi Komputer ","matkulDiPsLain":"Matematika Teknik (PS Teknologi Listrik dan Teknik Elektronika) ","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"19068304","nama":"Dr. Hadi Hermansyah, S.Si., M.Si","bidangKeahlian":"Ilmu Kelautan","jabatan":2,"namaProdi":{"s3":"Ilmu Kelautan","s2":"Ilmu Kelautan"},"noSertifikatPendidik":"17100503200723","sesuaiKompetensi":false},{"matkul":"Analisa Kerusakan, Ilmu Bahan I, Pengenalan dan Penggunaan Alat Berat, Ilmu Bahan II, Manejemen Perawatan Alat Berat ","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0017058103","nama":"Ir. Wahyu Anhar, S.T., M.Eng.","bidangKeahlian":"Teknik Mesin","jabatan":2,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"17100503205153","sesuaiKompetensi":true},{"matkul":"Bahasa Inggris I, Bahasa Inggris II, Bahasa Inggris III","matkulDiPsLain":"Bahasa Indonesia, Bahasa Inggris Perhotelan dan Bahasa Inggris Profesi ","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0010068901","nama":"Elisabeth Milaningrum, S.Pd., M.Pd.","bidangKeahlian":"Pendidikan Bahasa Inggris","jabatan":2,"namaProdi":{"s3":"","s2":"Pendidikan Bahasa Inggris"},"noSertifikatPendidik":"180010330057","sesuaiKompetensi":false},{"matkul":"Bahasa Indonesia, Pancasila, Etika Profesi, Kewarganegaraan, Kewirausahaan","matkulDiPsLain":"Pancasila, Kewarganegaraan (PS Keuangan Perbankan), Kewarganegaraan (PS Elektronika) ","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0031017601","nama":"Patria Rahmawaty, S.Pd., M.M.Pd.,Psikolog.","bidangKeahlian":"Manajemen Sekolah","jabatan":2,"namaProdi":{"s3":"","s2":"Manajemen Sekolah"},"noSertifikatPendidik":"18100503204779","sesuaiKompetensi":true},{"matkul":"Agama","matkulDiPsLain":"Agama (PS Tata Boga, Divisi Kamar, Keuangan Perbankan, Teknik Listrik, Teknik Elektronika, Teknik Sipil, Teknik Konstru ksi Jalan dan Jembatan) ","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"1171087101","nama":"Basri Dahlan, S.Ag., M.Pd.I","bidangKeahlian":"Pendidikan Islam","jabatan":2,"namaProdi":{"s2":"Pendidikan Islam"},"noSertifikatPendidik":"15100503200709","sesuaiKompetensi":false},{"matkul":"Mata Kuliah","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0013058906","nama":"Yudi Kurniawan, S.T., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":1,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"","sesuaiKompetensi":true},{"matkul":"Mata Kuliah","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"-","nama":"Arwin, S.Pd., M.T,","bidangKeahlian":"Teknik Mesin","jabatan":0,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"","sesuaiKompetensi":true},{"matkul":"Mata Kuliah","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"-","nama":"Aryati Muhaymin Marali, S.Pd., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":0,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"","sesuaiKompetensi":true},{"matkul":"Mata Kuliah","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"1105099501","nama":"Herdian Dwimas, S.T., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":0,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"","sesuaiKompetensi":true},{"matkul":"Mata Kuliah","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"0019099502","nama":"Yasmin Zulfati Yusrina, S.T., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":0,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"","sesuaiKompetensi":true},{"matkul":"Sistem Hidrolik dan Pneumatik, Manajemen Mutu, Gambar Teknik Mesin, Dasar-Dasar Hidrolik dan Pneumatik","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"1174117401","nama":"Dr. H.Syahruddin, S.Pd., M.T.","bidangKeahlian":"Manajemen Industri","jabatan":2,"namaProdi":{"s2":"Manajemen  Industri","s3":"Teknik Mesin"},"noSertifikatPendidik":"15100503209430","sesuaiKompetensi":true},{"matkul":"Praktik Bengkel I, Praktik Bengkel II, Dasar-dasar kelistrikan dan Elektronika, Sistem Kelistrikan Alat Berat","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"9900979713","nama":"Mohamad Amin, S.Pd.T., M.Pfis.","bidangKeahlian":"Pengajaran Fisika","jabatan":1,"namaProdi":{"s3":"","s2":"Pengajaran Fisika"},"noSertifikatPendidik":"","sesuaiKompetensi":false},{"matkul":"Kinematik dan Dinamik, Electric Drive and Electronica Control System, Mekatronika, Elemen Mesin ","matkulDiPsLain":"","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi","lembagaPenerbit":"Lembaga Penerbit"},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"002410860","nama":"Randis, S.T., M.T.","bidangKeahlian":"Teknik Mesin","jabatan":1,"namaProdi":{"s3":"","s2":"Teknik Mesin"},"noSertifikatPendidik":"0024108601","sesuaiKompetensi":true}],"title":"tabel-3a1"},{"data":[{"nama":"Drs. Syaeful Akbar, M.T.","mhsBimbingan":{"ts-2":14,"ts-1":7,"ts":8},"mhsBimbinganDiPsLainDiPt":{"ts-2":0,"ts-1":0,"ts":0},"sk":{"ts-2":"No SK 1","ts-1":"No SK 2","ts":"No SK 3"}},{"nama":"Syahruddin, S.Pd., M.T.","mhsBimbingan":{"ts-2":10,"ts-1":9,"ts":8},"mhsBimbinganDiPsLainDiPt":{"ts-2":0,"ts-1":0,"ts":0},"sk":{"ts-2":"No SK 1","ts-1":"No SK 2","ts":"No SK 3"}},{"nama":"Ir. Ida Bagus Dharmawan, S.T., M.Si.","mhsBimbingan":{"ts-2":9,"ts-1":9,"ts":8},"mhsBimbinganDiPsLainDiPt":{"ts-2":0,"ts-1":0,"ts":0},"sk":{"ts-2":"No SK 1","ts-1":"No SK 2","ts":"No SK 3"}}],"title":"tabel-3a2"},{"data":[{"nama":"Zulkifli, S.T., M.T.","dtps":true,"ewmp":{"pendidikan":46.6,"pendidikanDiPsLainDalamPt":0,"pendidikanDiPsLainLuarPt":0,"penelitian":0,"pkm":4,"tugasTambahan":0}},{"nama":"Ir. Ida Bagus Dharmawan, S.T., M.Si.","dtps":true,"ewmp":{"pendidikan":40.4,"pendidikanDiPsLainDalamPt":0,"pendidikanDiPsLainLuarPt":0,"penelitian":0,"pkm":0,"tugasTambahan":0}},{"nama":"Syahruddin, S.Pd., M.T.","dtps":true,"ewmp":{"pendidikan":19,"pendidikanDiPsLainDalamPt":0,"pendidikanDiPsLainLuarPt":0,"penelitian":6,"pkm":4,"tugasTambahan":0}}],"title":"tabel-3a3"},{"data":[{"matkul":"Praktik Bengkel","sertifikat":{"bidangSertifikasi":"","lembagaPenerbit":""},"bidangKeahlianSesuaiMatkul":true,"nomorInduk":"1101076201","nama":"Drs. Sulistya Jaka Hartana, M.T.","bidangKeahlian":"Teknik Mesin","jabatan":0,"noSertifikatPendidik":"190842601908","pendidikan":{"s2":"Teknik Mesin"}}],"title":"tabel-3a4"},{"data":[{"pendidikan":"s2","nama":"Nama Dosen A","nomorInduk":"","perusahaan":"Perusahaan A","bidangKeahlian":"Bidang Keahlian A","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi A","lembagaPenerbit":"Lembaga Penerbit A"},"matkul":"Matkul A","sks":3},{"pendidikan":"s2","nama":"Nama Dosen B","nomorInduk":"","perusahaan":"Perusahaan B","bidangKeahlian":"Bidang Keahlian B","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi B","lembagaPenerbit":"Lembaga Penerbit B"},"matkul":"Matkul B","sks":3},{"pendidikan":"s2","nama":"Nama Dosen C","nomorInduk":"","perusahaan":"Perusahaan C","bidangKeahlian":"Bidang Keahlian C","sertifikat":{"bidangSertifikasi":"Bidang Sertifikasi C","lembagaPenerbit":"Lembaga Penerbit C"},"matkul":"Matkul C","sks":3}],"title":"tabel-3a5"},{"data":[{"tingkat":"wilayah","tahun":"2022-02-16T12:46:19.481Z","nama":"Nama Dosen A","bidangKeahlian":"Bidang Keahlian A","rekognisiDanBuktiPendukung":{"rekognisi":"Rekognisi A","buktiPendukung":"Bukti pendukung A"}},{"tingkat":"nasional","tahun":"2022-01-16T12:46:19.481Z","nama":"Nama Dosen B","bidangKeahlian":"Bidang Keahlian B","rekognisiDanBuktiPendukung":{"rekognisi":"Rekognisi B","buktiPendukung":"Bukti pendukung B"}},{"tingkat":"internasional","tahun":"2022-03-16T12:46:19.481Z","nama":"Nama Dosen C","bidangKeahlian":"Bidang Keahlian C","rekognisiDanBuktiPendukung":{"rekognisi":"Rekognisi C","buktiPendukung":"Bukti pendukung C"}}],"title":"tabel-3b1"},{"data":[{"pembiayaan":1,"penelitian":{"ts-2":4,"ts-1":5,"ts":6}},{"pembiayaan":2,"penelitian":{"ts-2":3,"ts-1":1,"ts":1}},{"pembiayaan":3,"penelitian":{"ts-2":0,"ts-1":0,"ts":0}}],"title":"tabel-3b2"},{"data":[{"pembiayaan":1,"pkm":{"ts-2":3,"ts-1":3,"ts":3}},{"pembiayaan":2,"pkm":{"ts-2":0,"ts-1":0,"ts":1}},{"pembiayaan":3,"pkm":{"ts-2":0,"ts-1":0,"ts":0}}],"title":"tabel-3b3"},{"data":[{"jenis":1,"jumlah":{"ts-2":0,"ts-1":0,"ts":4}},{"jenis":2,"jumlah":{"ts-2":10,"ts-1":17,"ts":11}},{"jenis":3,"jumlah":{"ts-2":1,"ts-1":0,"ts":0}},{"jenis":4,"jumlah":{"ts-2":0,"ts-1":1,"ts":1}},{"jenis":5,"jumlah":{"ts-2":0,"ts-1":0,"ts":0}},{"jenis":6,"jumlah":{"ts-2":2,"ts-1":6,"ts":1}},{"jenis":7,"jumlah":{"ts-2":0,"ts-1":1,"ts":1}},{"jenis":8,"jumlah":{"ts-2":0,"ts-1":0,"ts":0}},{"jenis":9,"jumlah":{"ts-2":0,"ts-1":0,"ts":0}},{"jenis":10,"jumlah":{"ts-2":0,"ts-1":0,"ts":0}}],"title":"tabel-3b5"},{"data":[{"nama":"Nama Dosen B","namaProduk":"Nama produk B","deskripsiProduk":"Deskripsi produk B","bukti":"Bukti B"},{"nama":"Nama Dosen A","namaProduk":"Nama produk A","deskripsiProduk":"Deskripsi produk A","bukti":"Bukti A"},{"nama":"Nama Dosen C","namaProduk":"Nama produk C","deskripsiProduk":"Deskripsi produk C","bukti":"Bukti C"}],"title":"tabel-3b7"},{"data":[{"jenis":1,"tanggal":"2022-03-16T13:11:11.457Z","judul":"Judul luaran penelitian dan PkM A","noPaten":"","tkt":"","noSertifikat":"","noSertifikatTkt":"","noIsbn":""},{"jenis":2,"tanggal":"2022-06-16T13:05:16.191Z","judul":"Judul luaran penelitian dan PkM B","noSertifikat":"","noPaten":"","tkt":1,"noSertifikatTkt":"","noIsbn":""},{"jenis":3,"noPaten":"","noSertifikat":"","tkt":2,"noSertifikatTkt":"","noIsbn":"","tanggal":"2022-07-20T15:02:02.688Z","judul":"Judul luaran penelitian dan PkM C"},{"jenis":4,"noPaten":"","noSertifikat":"","tkt":"","noSertifikatTkt":"","noIsbn":"","tanggal":"2022-07-20T15:03:01.725Z","judul":"Judul luaran penelitian dan PkM D"}],"title":"tabel-3b8"},{"data":[{"jenis":1,"pendidikan":{"s1":1,"s3":0,"s2":0,"d4":0,"d3":0,"d2":0,"d1":0,"sma":0},"unit":"Unit kerja A"},{"jenis":2,"pendidikan":{"s3":0,"s2":0,"s1":2,"d4":0,"d3":0,"d2":0,"d1":0,"sma":0},"unit":"Unit kerja B"},{"jenis":3,"pendidikan":{"s3":0,"s2":0,"s1":1,"d4":0,"d3":0,"d2":0,"d1":0,"sma":0},"unit":"Unit kerja C"},{"jenis":4,"pendidikan":{"s3":0,"s2":0,"s1":1,"d4":0,"d3":0,"d2":0,"d1":0,"sma":0},"unit":"Unit kerja D"}],"title":"tabel-3c"},{"data":[{"jenis":1,"upps":{"ts-2":729712331,"ts-1":681504788,"ts":574510573},"prodi":{"ts-2":729712331,"ts-1":681504788,"ts":574510579}},{"jenis":2,"upps":{"ts-2":110546026,"ts-1":125964070,"ts":122522880},"prodi":{"ts-2":110546026,"ts-1":125964070,"ts":122522880}},{"jenis":3,"upps":{"ts-2":177400659,"ts-1":141924750,"ts":146380000},"prodi":{"ts-2":177400659,"ts-1":141924750,"ts":146380000}},{"jenis":4,"upps":{"ts-2":175469650,"ts-1":204150473,"ts":278283408},"prodi":{"ts-2":175469654,"ts-1":204150473,"ts":278283408}},{"jenis":5,"upps":{"ts-2":128604996,"ts-1":120218200,"ts":133697800},"prodi":{"ts-2":128605000,"ts-1":120218200,"ts":133697800}},{"jenis":6,"upps":{"ts-2":97500000,"ts-1":56250000,"ts":199199995},"prodi":{"ts-2":97500000,"ts-1":56250000,"ts":199200004}},{"jenis":7,"upps":{"ts-2":30000000,"ts-1":33000000,"ts":72800000},"prodi":{"ts-2":30000000,"ts-1":33000000,"ts":72800000}},{"jenis":8,"upps":{"ts-2":54771670,"ts-1":52440700,"ts":64049915},"prodi":{"ts-2":54771670,"ts-1":52440700,"ts":64049915}},{"jenis":9,"upps":{"ts-2":37000000,"ts-1":27280000,"ts":8579996},"prodi":{"ts":8580000,"ts-1":27280000,"ts-2":37000004}},{"jenis":10,"upps":{"ts-2":52079997,"ts-1":88200000,"ts":81000000},"prodi":{"ts-2":52080000,"ts-1":88200000,"ts":81000000}}],"title":"tabel-4a"},{"data":[{"namaLab":"Nama Lab A","jumlahLab":1,"alat":[{"kepemilikan":"sendiri","kondisi":"terawat","namaAlat":"Nama Alat A1","jumlahAlat":{"min":0,"yangDimiliki":1},"waktu":5,"logbook":true},{"kepemilikan":"sewa","kondisi":"terawat","namaAlat":"Nama Alat A2","jumlahAlat":{"min":1,"yangDimiliki":2},"waktu":5,"logbook":true}]},{"namaLab":"Nama Lab B","jumlahLab":1,"alat":[{"kepemilikan":"sendiri","kondisi":"tidak-terawat","namaAlat":"Nama Alat B1","jumlahAlat":{"min":2,"yangDimiliki":1},"waktu":0},{"kepemilikan":"sewa","kondisi":"terawat","jumlahAlat":{"min":2,"yangDimiliki":0},"namaAlat":"Nama Alat B2","logbook":false,"waktu":5}]},{"namaLab":"Nama Lab C","jumlahLab":1,"alat":[{"kepemilikan":"sendiri","kondisi":"terawat","namaAlat":"Nama Alat C1","jumlahAlat":{"min":1,"yangDimiliki":2},"waktu":5},{"kepemilikan":"sewa","kondisi":"tidak-terawat","jumlahAlat":{"min":1,"yangDimiliki":2},"namaAlat":"Nama Alat C2","logbook":false,"waktu":5}]}],"title":"tabel-4b"},{"data":[{"kepemilikan":"sewa","kondisi":"terawat","nama":"Nama prasarana B","fungsi":"Fungsi B","unit":2,"luas":"200"},{"kepemilikan":"sendiri","kondisi":"terawat","nama":"Nama prasarana A","fungsi":"Fungsi A","unit":1,"luas":"100"},{"kepemilikan":"sewa","kondisi":"tidak-terawat","nama":"Nama prasarana C","fungsi":"Fungsi C","unit":3,"luas":"300"}],"title":"tabel-4c"},{"data":[{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"KU1101","nama":"Agama","matkulKompetensi":false,"semester":1,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"sikap":true,"pengetahuan":false,"keterampilanUmum":false,"keterampilanKhusus":false}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"IN1101","nama":"Bahasa Inggris I","matkulKompetensi":false,"semester":1,"sks":{"kuliah":1,"seminar":0,"praktik":1},"konversiKreditKeJam":3,"cpl":{"sikap":false,"pengetahuan":true,"keterampilanUmum":true,"keterampilanKhusus":false}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"KU1102","nama":"Etika Profesi","matkulKompetensi":true,"semester":2,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"pengetahuan":false,"keterampilanUmum":false,"sikap":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"MA1202","nama":"Matematika Teknik II","matkulKompetensi":false,"semester":2,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"pengetahuan":true,"keterampilanUmum":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"IN2302","nama":"Bahasa Inggris II","matkulKompetensi":false,"semester":3,"sks":{"kuliah":1,"seminar":0,"praktik":1},"konversiKreditKeJam":3,"cpl":{"pengetahuan":true,"keterampilanUmum":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"PAB2315","nama":"Elemen Mesin","matkulKompetensi":true,"semester":3,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"pengetahuan":true,"keterampilanUmum":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"MA2403","nama":"Statistik","matkulKompetensi":false,"semester":4,"sks":{"kuliah":1,"seminar":0,"praktik":1},"konversiKreditKeJam":3,"cpl":{"pengetahuan":true,"keterampilanUmum":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"PAB2423","nama":"Chasis dan Under Carriage/ Lower Machine","matkulKompetensi":true,"semester":4,"sks":{"kuliah":1,"seminar":0,"praktik":2},"konversiKreditKeJam":5,"cpl":{"pengetahuan":true,"keterampilanKhusus":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"KU3503","nama":"Pancasila","matkulKompetensi":false,"semester":5,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"sikap":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"KU3504","nama":"Bahasa Indonesia","matkulKompetensi":false,"semester":5,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"pengetahuan":true,"keterampilanUmum":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"KU3605","nama":"Kewarganegaraan","matkulKompetensi":false,"semester":6,"sks":{"kuliah":2,"seminar":0,"praktik":0},"konversiKreditKeJam":2,"cpl":{"sikap":true}},{"penyelenggara":"Jurusan Teknik Mesin","dokumen":"D3 Alat Berat","kode":"KU3606","nama":"Kewirausahaan","matkulKompetensi":false,"semester":6,"sks":{"kuliah":1,"seminar":0,"praktik":1},"konversiKreditKeJam":3,"cpl":{"sikap":true,"keterampilanUmum":true,"pengetahuan":false}}],"title":"tabel-5a1"},{"data":[{"status":{"pendidikan":"s2","jabatan":1},"nama":"Yudi Kurniawan, S.T., M.T.","mhs":{"ts-2":10,"ts-1":2,"ts":3},"pertemuan":{"ts-2":4,"ts-1":5,"ts":6},"lamaTa":{"ts-2":4,"ts-1":4,"ts":4}},{"status":{"pendidikan":"s2","jabatan":1},"nama":"Nama Dosen B","mhs":{"ts-2":2,"ts-1":3,"ts":3},"pertemuan":{"ts-2":3,"ts-1":4,"ts":5},"lamaTa":{"ts-2":3,"ts-1":3,"ts":3}},{"status":{"pendidikan":"s3","jabatan":2},"nama":"Nama Dosen C","mhs":{"ts-2":1,"ts-1":2,"ts":3},"pertemuan":{"ts-2":4,"ts-1":5,"ts":5},"lamaTa":{"ts-2":5,"ts-1":5,"ts":5}}],"title":"tabel-5a2"},{"data":[{"tahun":"ts-1","tingkat":"internasional","kesesuaian":"sesuai","nama":"Nama Dosen A","judul":"Judul Penelitian A","matkul":"Mata Kuliah A","bentuk":"Materi perkuliahan"},{"tahun":"ts","tingkat":"nasional","kesesuaian":"sesuai","nama":"Nama Dosen B","judul":"Judul Penelitian B","matkul":"Mata Kuliah B","bentuk":"Materi perkuliahan"},{"tahun":"ts-2","tingkat":"wilayah","kesesuaian":"tidak","nama":"Nama Dosen C","judul":"Judul Penelitian C","matkul":"Mata Kuliah C","bentuk":"Materi perkuliahan"}],"title":"tabel-5c"},{"data":[{"aspek":1,"kepuasan":{"sangatBaik":38.7,"baik":53.9,"cukup":6.8,"kurang":0.5},"rencanaTindakLanjut":"Akan terus meningkatkan pelayanan dan mengacu pada standar layanan yang ada."},{"aspek":2,"kepuasan":{"sangatBaik":31.4,"baik":54.5,"cukup":13.6,"kurang":0.5},"rencanaTindakLanjut":"Akan terus ditingkatkan melalui kegiatan mentoring, pembimbingan TA maupun PKM, serta terus melibatkan mahasiswa dalam kegiatan dosen seperti penelitian dan pengabdian kepada masyarakat."},{"aspek":3,"kepuasan":{"sangatBaik":36.6,"baik":53.9,"cukup":9.4,"kurang":0},"rencanaTindakLanjut":"Akan dipertahankan dan terus ditingkatkan dengan memberikan pelatihan-pelatihan kepada dosen dan tenaga keendidikan."},{"aspek":4,"kepuasan":{"sangatBaik":37.7,"baik":49.2,"cukup":11.5,"kurang":1.6},"rencanaTindakLanjut":"Akan terus ditingkatkan melalui pembekalan dari PS, bimbingan dosen wali."},{"aspek":5,"rencanaTindakLanjut":"Akan terus ditingkatkan dengan melakukan inventarisasi dan pengusulan pada top menajemen untuk kelengkapan sarpras pendidikan.","kepuasan":{"sangatBaik":33.5,"baik":43.5,"cukup":20.4,"kurang":2.6}}],"title":"tabel-5d"},{"data":[{"tahun":"2022-07-16T11:36:15.587Z","namaDosen":"Nama dosen 1","temaPkm":"Tema PkM sesuai roadmap 1","namaMhs":"Nama mahasiswa 1","judulPkm":"Judul kegiatan PkM 1"},{"tahun":"2023-07-16T11:35:59.771Z","namaDosen":"Nama dosen 2","temaPkm":"Tema PkM sesuai roadmap 2","namaMhs":"Nama mahasiswa 2","judulPkm":"Judul kegiatan PkM 2"},{"tahun":"2024-07-16T11:36:14.160Z","namaDosen":"Nama dosen 3","temaPkm":"Tema PkM sesuai roadmap 3","namaMhs":"Nama mahasiswa 3","judulPkm":"Judul kegiatan PkM 3"}],"title":"tabel-7"},{"data":[{"tahun":"ts-2","lulusan":55,"ipk":{"min":2.56,"avg":3.08,"max":3.6}},{"tahun":"ts-1","lulusan":56,"ipk":{"min":2.55,"avg":3.11,"max":3.67}},{"tahun":"ts","lulusan":51,"ipk":{"min":2.78,"avg":3.2,"max":3.61}}],"title":"tabel-8a"},{"data":[{"tingkat":"wilayah","waktu":"2022-02-18T06:39:23.408Z","nama":"Nama Kegiatan A","prestasi":"Finalis"},{"tingkat":"nasional","waktu":"2022-01-18T06:40:38.824Z","nama":"Nama Kegiatan B","prestasi":"Finalis"},{"tingkat":"internasional","waktu":"2022-03-18T06:41:29.165Z","nama":"Nama Kegiatan C","prestasi":"Finalis"}],"title":"tabel-8b1"},{"data":[{"tingkat":"wilayah","waktu":"2023-02-18T06:42:37.831Z","nama":"Nama Kegiatan A","prestasi":"Juara I"},{"tingkat":"nasional","waktu":"2022-01-18T06:42:59.285Z","nama":"Nama Kegiatan B","prestasi":"Juara II"},{"tingkat":"internasional","waktu":"2024-01-18T06:42:59.285Z","nama":"Nama Kegiatan C","prestasi":"Juara III"}],"title":"tabel-8b2"},{"ts-4":{"masukTs4":1},"ts-3":{"masukTs3":1,"masukTs4":1},"ts-2":{"masukTs4":1,"masukTs3":1,"masukTs2":1},"ts-1":{"masukTs4":1,"masukTs3":1,"masukTs2":1,"masukTs1":1},"ts":{"masukTs4":1,"masukTs3":1,"masukTs2":1,"masukTs1":1,"masukTs":1},"title":"tabel-8c"},{"data":[{"tahun":"ts-4","lulusan":64,"lulusanTerlacak":48,"lulusanDipesanSebelumLulus":5,"lulusanTerlacakWt":{"pendek":17,"sedang":25,"panjang":1}},{"tahun":"ts-3","lulusan":66,"lulusanTerlacak":60,"lulusanDipesanSebelumLulus":6,"lulusanTerlacakWt":{"pendek":10,"sedang":42,"panjang":2}},{"tahun":"ts-2","lulusan":55,"lulusanTerlacak":45,"lulusanDipesanSebelumLulus":4,"lulusanTerlacakWt":{"pendek":7,"sedang":33,"panjang":1}}],"title":"tabel-8d1"},{"data":[{"tahun":"ts-4","lulusan":64,"lulusanTerlacak":48,"lulusanTerlacakKesesuaianBidangKerja":{"rendah":6,"sedang":19,"tinggi":23}},{"tahun":"ts-3","lulusan":66,"lulusanTerlacak":60,"lulusanTerlacakKesesuaianBidangKerja":{"rendah":2,"sedang":23,"tinggi":35}},{"tahun":"ts-2","lulusan":55,"lulusanTerlacak":45,"lulusanTerlacakKesesuaianBidangKerja":{"rendah":1,"sedang":18,"tinggi":26}}],"title":"tabel-8d2"},{"data":[{"tahun":"ts-4","lulusan":64,"lulusanPenanggap":48,"lulusanTerlacak":48,"lulusanTerlacakTingkatTempatKerja":{"wilayah":20,"nasional":20,"internasional":8}},{"tahun":"ts-3","lulusan":66,"lulusanPenanggap":60,"lulusanTerlacak":60,"lulusanTerlacakTingkatTempatKerja":{"wilayah":31,"nasional":20,"internasional":9}},{"tahun":"ts-2","lulusan":55,"lulusanPenanggap":45,"lulusanTerlacak":45,"lulusanTerlacakTingkatTempatKerja":{"wilayah":10,"nasional":31,"internasional":4}}],"title":"tabel-8e1"},{"data":[{"jenis":1,"kepuasan":{"sangatBaik":49.55,"baik":50.45,"cukup":0,"kurang":0},"rencanaTindakLanjut":"Meningkatkan Etika Mahasiswa melalui Pembelajaran Etika Profesi serta kegiatan pembelajaran lainnya baik didalam maupun diluar kelas."},{"jenis":2,"kepuasan":{"sangatBaik":47.75,"baik":52.25,"cukup":0,"kurang":0},"rencanaTindakLanjut":"Mengikuti pelatihan dari industri serta kuliah tamu dari industri untuk menambah keahlian bidang ilmu (kompetensi utama) diluar jam perkuliahan mata kuliah kompetesi utama."},{"jenis":3,"kepuasan":{"sangatBaik":40.54,"baik":59.46,"cukup":0,"kurang":0},"rencanaTindakLanjut":"Meningkatkan kemampuan berbahasa asing mahasiswa selain pada saat pembelajaran bahasa inggris dengan membuat English Club jurusan dan mengerjakan beberapa projek sesuai bidangnya ESP for Mechanical."},{"jenis":4,"kepuasan":{"sangatBaik":44.14,"baik":54.05,"cukup":1.8,"kurang":0},"rencanaTindakLanjut":"Melakukan evaluasi terhadap mata kuliah yang berhubungan dengan teknologi informasi."},{"jenis":5,"kepuasan":{"sangatBaik":42.34,"baik":55.86,"cukup":1.8,"kurang":0},"rencanaTindakLanjut":"Meningkatkan kegiatan baik dalam proses pembelajaran maupun kegitan diluar untuk memperbanyak public speaking."},{"jenis":6,"rencanaTindakLanjut":"Menganjurkan kepada setiap mahasiswa untuk mengikuti kegitan UKM serta kegiatan lainnya dimana dapat meningkatkan soft skill khususnya kemampuan kerjasama.","kepuasan":{"sangatBaik":45.05,"baik":54.95,"cukup":0,"kurang":0}},{"jenis":7,"kepuasan":{"sangatBaik":46.85,"baik":51.35,"cukup":1.8,"kurang":0},"rencanaTindakLanjut":"Memberikan pelatihan dan seminar serta tantangan guna menumbuhkan sikap pengembangan diri mahasiswa agar tangguh dalam setiap pengembangan diri."}],"title":"tabel-8e2"},{"data":[{"nama":"Nama Mahasiswa A","namaProduk":"Nama Produk A","deskripsiProduk":"Deskripsi Produk A.","bukti":"Bukti A"},{"nama":"Nama Mahasiswa B","namaProduk":"Nama Produk B","deskripsiProduk":"Deskripsi Produk B.","bukti":"Bukti B"},{"nama":"Nama Mahasiswa C","namaProduk":"Nama Produk C","deskripsiProduk":"Deskripsi Produk C.","bukti":"Bukti C"}],"title":"tabel-8f4"},{"data":[{"nama":1,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":false},{"nama":2,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":false,"tindakLanjut":false},{"nama":3,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":false,"umpanBalik":false,"tindakLanjut":false},{"nama":4,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":5,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":6,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":false},{"nama":7,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":false,"tindakLanjut":false},{"nama":8,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":false,"umpanBalik":false,"tindakLanjut":false},{"nama":9,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":10,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":11,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":false},{"nama":12,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":false,"tindakLanjut":false},{"nama":13,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":false,"umpanBalik":false,"tindakLanjut":false},{"nama":14,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":15,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":16,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":false},{"nama":17,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":false,"tindakLanjut":false},{"nama":18,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":false,"umpanBalik":false,"tindakLanjut":false},{"nama":19,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":20,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true},{"nama":21,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":false},{"nama":22,"tanggal":"2022-07-16T11:02:20.080Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":false,"tindakLanjut":false},{"nama":23,"tanggal":"2022-07-16T11:02:18.936Z","ketersediaan":true,"pelaksanaan":true,"monev":false,"umpanBalik":false,"tindakLanjut":false},{"nama":24,"tanggal":"2022-07-16T11:02:01.428Z","ketersediaan":true,"pelaksanaan":true,"monev":true,"umpanBalik":true,"tindakLanjut":true}],"title":"tabel-9a"},{"data":[{"jenis":1,"keterangan":"Nomor dan Tanggal Dokumen SPMI 1."},{"jenis":2,"keterangan":"Nomor dan Tanggal Dokumen SPMI 2."},{"jenis":3,"keterangan":"Nomor dan Tanggal Dokumen SPMI 3."},{"jenis":4,"keterangan":"Nomor dan Tanggal Dokumen SPMI 4."}],"title":"tabel-9b"}]
+[
+  {
+    "data": [
+      {
+        "jenis": "pendidikan",
+        "tingkat": "internasional",
+        "tanggalAwal": "2022-01-15T05:54:32.535Z",
+        "tanggalAkhir": "2022-01-16T05:54:32.548Z",
+        "mitra": "Lembaga Mitra 1",
+        "judul": "Judul Kegiatan Kerja Sama 1",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 1.",
+        "bukti": "Bukti kerja sama 1."
+      },
+      {
+        "jenis": "penelitian",
+        "tingkat": "nasional",
+        "tanggalAwal": "2022-07-14T05:56:37.125Z",
+        "tanggalAkhir": "2022-07-15T05:56:37.143Z",
+        "mitra": "Lembaga Mitra 2",
+        "judul": "Judul Kegiatan Kerja Sama 2",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 2.",
+        "bukti": "Bukti kerja sama 2."
+      },
+      {
+        "jenis": "pkm",
+        "tingkat": "wilayah",
+        "tanggalAwal": "2022-02-13T05:58:12.602Z",
+        "tanggalAkhir": "2022-02-14T05:58:12.624Z",
+        "mitra": "Lembaga Mitra 3",
+        "judul": "Judul Kegiatan Kerja Sama 3",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 3.",
+        "bukti": "Bukti kerja sama 3."
+      },
+      {
+        "jenis": "pendidikan",
+        "tingkat": "nasional",
+        "tanggalAwal": "2022-06-12T05:58:35.909Z",
+        "tanggalAkhir": "2022-06-13T05:58:35.936Z",
+        "mitra": "Lembaga Mitra 4",
+        "judul": "Judul Kegiatan Kerja Sama 4",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 4.",
+        "bukti": "Bukti kerja sama 4."
+      },
+      {
+        "jenis": "penelitian",
+        "tingkat": "wilayah",
+        "tanggalAwal": "2022-03-11T05:58:36.007Z",
+        "tanggalAkhir": "2022-03-12T05:58:36.034Z",
+        "mitra": "Lembaga Mitra 5",
+        "judul": "Judul Kegiatan Kerja Sama 5",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 5.",
+        "bukti": "Bukti kerja sama 5."
+      },
+      {
+        "jenis": "pkm",
+        "tingkat": "internasional",
+        "tanggalAwal": "2022-06-10T05:58:36.139Z",
+        "tanggalAkhir": "2022-05-11T05:58:36.171Z",
+        "mitra": "Lembaga Mitra 6",
+        "judul": "Judul Kegiatan Kerja Sama 6",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 6.",
+        "bukti": "Bukti kerja sama 6."
+      },
+      {
+        "jenis": "pendidikan",
+        "tingkat": "wilayah",
+        "tanggalAwal": "2022-04-09T05:58:36.279Z",
+        "tanggalAkhir": "2022-04-10T05:58:36.336Z",
+        "mitra": "Lembaga Mitra 7",
+        "judul": "Judul Kegiatan Kerja Sama 7",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 7.",
+        "bukti": "Bukti kerja sama 7."
+      },
+      {
+        "jenis": "penelitian",
+        "tingkat": "internasional",
+        "tanggalAwal": "2022-05-08T05:58:36.494Z",
+        "tanggalAkhir": "2022-05-09T05:58:36.531Z",
+        "mitra": "Lembaga Mitra 8",
+        "judul": "Judul Kegiatan Kerja Sama 8",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 8.",
+        "bukti": "Bukti kerja sama 8."
+      },
+      {
+        "jenis": "pkm",
+        "tingkat": "nasional",
+        "tanggalAwal": "2022-05-07T05:58:36.672Z",
+        "tanggalAkhir": "2022-05-08T05:58:36.706Z",
+        "mitra": "Lembaga Mitra 9",
+        "manfaat": "Manfaat bagi PS yang diakreditasi 9.",
+        "judul": "Judul Kegiatan Kerja Sama 9.",
+        "bukti": "Bukti kerja sama 9."
+      }
+    ],
+    "title": "tabel-1"
+  },
+  {
+    "data": [
+      {
+        "tahun": "ts-3",
+        "dayaTampung": 64,
+        "calonMhs": {
+          "pendaftar": 339,
+          "lulus": 84
+        },
+        "mhsBaru": {
+          "reguler": 64,
+          "transfer": 0
+        },
+        "mhsAktif": {
+          "reguler": 178,
+          "transfer": 0
+        }
+      },
+      {
+        "tahun": "ts-2",
+        "dayaTampung": 65,
+        "calonMhs": {
+          "pendaftar": 531,
+          "lulus": 108
+        },
+        "mhsBaru": {
+          "reguler": 65,
+          "transfer": 0
+        },
+        "mhsAktif": {
+          "reguler": 184,
+          "transfer": 0
+        }
+      },
+      {
+        "tahun": "ts-1",
+        "dayaTampung": 72,
+        "calonMhs": {
+          "pendaftar": 360,
+          "lulus": 84
+        },
+        "mhsBaru": {
+          "reguler": 72,
+          "transfer": 0
+        },
+        "mhsAktif": {
+          "reguler": 190,
+          "transfer": 0
+        }
+      },
+      {
+        "tahun": "ts",
+        "dayaTampung": 75,
+        "calonMhs": {
+          "pendaftar": 289,
+          "lulus": 149
+        },
+        "mhsBaru": {
+          "reguler": 74,
+          "transfer": 0
+        },
+        "mhsAktif": {
+          "reguler": 193,
+          "transfer": 0
+        }
+      }
+    ],
+    "title": "tabel-2a2"
+  },
+  {
+    "data": [
+      {
+        "matkul": "Sistem Hidrolik dan Pneumatik, Mekanika Fluida, Fisika dan Kimia Dasar ",
+        "matkulDiPsLain": "Fisika dan Kimia Dasar, Jaringan Komputer II (PS T. Elektronika)",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "1103027702",
+        "nama": "Ali Abrar, S.Si., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 1,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "18100503200407",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "1. Mekanika Teknik, 2. Motor Bakar II, 3. Hand and Measurement Tools, 4. Ilmu Bahan II",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0028088502",
+        "nama": "Zulkifli, S.T., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 2,
+        "namaProdi": {
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "17100503202665",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Sistem Penyejuk Udara, Chasis dan Under Carriage, Rangkaian Pemindah Tenaga, Dasar-Dasar\nHidrolik dan Pneumatik",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0001046214",
+        "nama": "Drs. Syaeful Akbar, M.T.",
+        "bidangKeahlian": "Manajemen Industri",
+        "jabatan": 2,
+        "namaProdi": {
+          "s2": "Manajemen  Industri"
+        },
+        "noSertifikatPendidik": "14100503203411",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Konversi Energi, Manajemen Bengkel, K3L, Pesawat Angkat, Fisika dan Kimia Dasar",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0031127417",
+        "nama": "Ir. Ida Bagus Dharmawan, S.T., M.Si.",
+        "bidangKeahlian": "Ilmu Lingkungan",
+        "jabatan": 2,
+        "namaProdi": {
+          "s2": "Ilmu Lingkungan "
+        },
+        "noSertifikatPendidik": "14100503203746",
+        "sesuaiKompetensi": false
+      },
+      {
+        "matkul": "Thermodinamika, Sistem Bahan Bakar, Pesawat Angkat, Motor Bakar I",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0006028206",
+        "nama": "Subur Mulyanto, S.Pd., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 2,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "18100503205980",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Matematika Teknik II, Statistik, Matematika Teknik I, Aplikasi Komputer ",
+        "matkulDiPsLain": "Matematika Teknik (PS Teknologi Listrik dan Teknik Elektronika) ",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "19068304",
+        "nama": "Dr. Hadi Hermansyah, S.Si., M.Si",
+        "bidangKeahlian": "Ilmu Kelautan",
+        "jabatan": 2,
+        "namaProdi": {
+          "s3": "Ilmu Kelautan",
+          "s2": "Ilmu Kelautan"
+        },
+        "noSertifikatPendidik": "17100503200723",
+        "sesuaiKompetensi": false
+      },
+      {
+        "matkul": "Analisa Kerusakan, Ilmu Bahan I, Pengenalan dan Penggunaan Alat Berat, Ilmu Bahan II, Manejemen Perawatan Alat Berat ",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0017058103",
+        "nama": "Ir. Wahyu Anhar, S.T., M.Eng.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 2,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "17100503205153",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Bahasa Inggris I, Bahasa Inggris II, Bahasa Inggris III",
+        "matkulDiPsLain": "Bahasa Indonesia, Bahasa Inggris Perhotelan dan Bahasa Inggris Profesi ",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0010068901",
+        "nama": "Elisabeth Milaningrum, S.Pd., M.Pd.",
+        "bidangKeahlian": "Pendidikan Bahasa Inggris",
+        "jabatan": 2,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Pendidikan Bahasa Inggris"
+        },
+        "noSertifikatPendidik": "180010330057",
+        "sesuaiKompetensi": false
+      },
+      {
+        "matkul": "Bahasa Indonesia, Pancasila, Etika Profesi, Kewarganegaraan, Kewirausahaan",
+        "matkulDiPsLain": "Pancasila, Kewarganegaraan (PS Keuangan Perbankan), Kewarganegaraan (PS Elektronika) ",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0031017601",
+        "nama": "Patria Rahmawaty, S.Pd., M.M.Pd.,Psikolog.",
+        "bidangKeahlian": "Manajemen Sekolah",
+        "jabatan": 2,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Manajemen Sekolah"
+        },
+        "noSertifikatPendidik": "18100503204779",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Agama",
+        "matkulDiPsLain": "Agama (PS Tata Boga, Divisi Kamar, Keuangan Perbankan, Teknik Listrik, Teknik Elektronika, Teknik Sipil, Teknik Konstru ksi Jalan dan Jembatan) ",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "1171087101",
+        "nama": "Basri Dahlan, S.Ag., M.Pd.I",
+        "bidangKeahlian": "Pendidikan Islam",
+        "jabatan": 2,
+        "namaProdi": {
+          "s2": "Pendidikan Islam"
+        },
+        "noSertifikatPendidik": "15100503200709",
+        "sesuaiKompetensi": false
+      },
+      {
+        "matkul": "Mata Kuliah",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0013058906",
+        "nama": "Yudi Kurniawan, S.T., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 1,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Mata Kuliah",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "-",
+        "nama": "Arwin, S.Pd., M.T,",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 0,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Mata Kuliah",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "-",
+        "nama": "Aryati Muhaymin Marali, S.Pd., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 0,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Mata Kuliah",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "1105099501",
+        "nama": "Herdian Dwimas, S.T., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 0,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Mata Kuliah",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "0019099502",
+        "nama": "Yasmin Zulfati Yusrina, S.T., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 0,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Sistem Hidrolik dan Pneumatik, Manajemen Mutu, Gambar Teknik Mesin, Dasar-Dasar Hidrolik dan Pneumatik",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "1174117401",
+        "nama": "Dr. Syahruddin, S.Pd., M.T.",
+        "bidangKeahlian": "Manajemen Industri",
+        "jabatan": 2,
+        "namaProdi": {
+          "s2": "Manajemen  Industri",
+          "s3": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "15100503209430",
+        "sesuaiKompetensi": true
+      },
+      {
+        "matkul": "Praktik Bengkel I, Praktik Bengkel II, Dasar-dasar kelistrikan dan Elektronika, Sistem Kelistrikan Alat Berat",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "9900979713",
+        "nama": "Mohamad Amin, S.Pd.T., M.Pfis.",
+        "bidangKeahlian": "Pengajaran Fisika",
+        "jabatan": 1,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Pengajaran Fisika"
+        },
+        "noSertifikatPendidik": "",
+        "sesuaiKompetensi": false
+      },
+      {
+        "matkul": "Kinematik dan Dinamik, Electric Drive and Electronica Control System, Mekatronika, Elemen Mesin ",
+        "matkulDiPsLain": "",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi",
+          "lembagaPenerbit": "Lembaga Penerbit"
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "002410860",
+        "nama": "Randis, S.T., M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 1,
+        "namaProdi": {
+          "s3": "",
+          "s2": "Teknik Mesin"
+        },
+        "noSertifikatPendidik": "0024108601",
+        "sesuaiKompetensi": true
+      }
+    ],
+    "title": "tabel-3a1"
+  },
+  {
+    "data": [
+      {
+        "nama": "Drs. Syaeful Akbar, M.T.",
+        "mhsBimbingan": {
+          "ts-2": 14,
+          "ts-1": 7,
+          "ts": 8
+        },
+        "mhsBimbinganDiPsLainDiPt": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        },
+        "sk": {
+          "ts-2": "No SK 1",
+          "ts-1": "No SK 2",
+          "ts": "No SK 3"
+        }
+      },
+      {
+        "nama": "Syahruddin, S.Pd., M.T.",
+        "mhsBimbingan": {
+          "ts-2": 10,
+          "ts-1": 9,
+          "ts": 8
+        },
+        "mhsBimbinganDiPsLainDiPt": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        },
+        "sk": {
+          "ts-2": "No SK 1",
+          "ts-1": "No SK 2",
+          "ts": "No SK 3"
+        }
+      },
+      {
+        "nama": "Ir. Ida Bagus Dharmawan, S.T., M.Si.",
+        "mhsBimbingan": {
+          "ts-2": 9,
+          "ts-1": 9,
+          "ts": 8
+        },
+        "mhsBimbinganDiPsLainDiPt": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        },
+        "sk": {
+          "ts-2": "No SK 1",
+          "ts-1": "No SK 2",
+          "ts": "No SK 3"
+        }
+      }
+    ],
+    "title": "tabel-3a2"
+  },
+  {
+    "data": [
+      {
+        "nama": "Zulkifli, S.T., M.T.",
+        "dtps": true,
+        "ewmp": {
+          "pendidikan": 46.6,
+          "pendidikanDiPsLainDalamPt": 0,
+          "pendidikanDiPsLainLuarPt": 0,
+          "penelitian": 0,
+          "pkm": 4,
+          "tugasTambahan": 0
+        }
+      },
+      {
+        "nama": "Ir. Ida Bagus Dharmawan, S.T., M.Si.",
+        "dtps": true,
+        "ewmp": {
+          "pendidikan": 40.4,
+          "pendidikanDiPsLainDalamPt": 0,
+          "pendidikanDiPsLainLuarPt": 0,
+          "penelitian": 0,
+          "pkm": 0,
+          "tugasTambahan": 0
+        }
+      },
+      {
+        "nama": "Syahruddin, S.Pd., M.T.",
+        "dtps": true,
+        "ewmp": {
+          "pendidikan": 19,
+          "pendidikanDiPsLainDalamPt": 0,
+          "pendidikanDiPsLainLuarPt": 0,
+          "penelitian": 6,
+          "pkm": 4,
+          "tugasTambahan": 0
+        }
+      }
+    ],
+    "title": "tabel-3a3"
+  },
+  {
+    "data": [
+      {
+        "matkul": "Praktik Bengkel",
+        "sertifikat": {
+          "bidangSertifikasi": "",
+          "lembagaPenerbit": ""
+        },
+        "bidangKeahlianSesuaiMatkul": true,
+        "nomorInduk": "1101076201",
+        "nama": "Drs. Sulistya Jaka Hartana, M.T.",
+        "bidangKeahlian": "Teknik Mesin",
+        "jabatan": 0,
+        "noSertifikatPendidik": "190842601908",
+        "pendidikan": {
+          "s2": "Teknik Mesin"
+        }
+      }
+    ],
+    "title": "tabel-3a4"
+  },
+  {
+    "data": [
+      {
+        "pendidikan": "s2",
+        "nama": "Nama Dosen A",
+        "nomorInduk": "",
+        "perusahaan": "Perusahaan A",
+        "bidangKeahlian": "Bidang Keahlian A",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi A",
+          "lembagaPenerbit": "Lembaga Penerbit A"
+        },
+        "matkul": "Matkul A",
+        "sks": 3
+      },
+      {
+        "pendidikan": "s2",
+        "nama": "Nama Dosen B",
+        "nomorInduk": "",
+        "perusahaan": "Perusahaan B",
+        "bidangKeahlian": "Bidang Keahlian B",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi B",
+          "lembagaPenerbit": "Lembaga Penerbit B"
+        },
+        "matkul": "Matkul B",
+        "sks": 3
+      },
+      {
+        "pendidikan": "s2",
+        "nama": "Nama Dosen C",
+        "nomorInduk": "",
+        "perusahaan": "Perusahaan C",
+        "bidangKeahlian": "Bidang Keahlian C",
+        "sertifikat": {
+          "bidangSertifikasi": "Bidang Sertifikasi C",
+          "lembagaPenerbit": "Lembaga Penerbit C"
+        },
+        "matkul": "Matkul C",
+        "sks": 3
+      }
+    ],
+    "title": "tabel-3a5"
+  },
+  {
+    "data": [
+      {
+        "tingkat": "wilayah",
+        "tahun": "2022-02-16T12:46:19.481Z",
+        "nama": "Nama Dosen A",
+        "bidangKeahlian": "Bidang Keahlian A",
+        "rekognisiDanBuktiPendukung": {
+          "rekognisi": "Rekognisi A",
+          "buktiPendukung": "Bukti pendukung A"
+        }
+      },
+      {
+        "tingkat": "nasional",
+        "tahun": "2022-01-16T12:46:19.481Z",
+        "nama": "Nama Dosen B",
+        "bidangKeahlian": "Bidang Keahlian B",
+        "rekognisiDanBuktiPendukung": {
+          "rekognisi": "Rekognisi B",
+          "buktiPendukung": "Bukti pendukung B"
+        }
+      },
+      {
+        "tingkat": "internasional",
+        "tahun": "2022-03-16T12:46:19.481Z",
+        "nama": "Nama Dosen C",
+        "bidangKeahlian": "Bidang Keahlian C",
+        "rekognisiDanBuktiPendukung": {
+          "rekognisi": "Rekognisi C",
+          "buktiPendukung": "Bukti pendukung C"
+        }
+      }
+    ],
+    "title": "tabel-3b1"
+  },
+  {
+    "data": [
+      {
+        "pembiayaan": 1,
+        "penelitian": {
+          "ts-2": 4,
+          "ts-1": 5,
+          "ts": 6
+        }
+      },
+      {
+        "pembiayaan": 2,
+        "penelitian": {
+          "ts-2": 3,
+          "ts-1": 1,
+          "ts": 1
+        }
+      },
+      {
+        "pembiayaan": 3,
+        "penelitian": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        }
+      }
+    ],
+    "title": "tabel-3b2"
+  },
+  {
+    "data": [
+      {
+        "pembiayaan": 1,
+        "pkm": {
+          "ts-2": 3,
+          "ts-1": 3,
+          "ts": 3
+        }
+      },
+      {
+        "pembiayaan": 2,
+        "pkm": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 1
+        }
+      },
+      {
+        "pembiayaan": 3,
+        "pkm": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        }
+      }
+    ],
+    "title": "tabel-3b3"
+  },
+  {
+    "data": [
+      {
+        "jenis": 1,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 4
+        }
+      },
+      {
+        "jenis": 2,
+        "jumlah": {
+          "ts-2": 10,
+          "ts-1": 17,
+          "ts": 11
+        }
+      },
+      {
+        "jenis": 3,
+        "jumlah": {
+          "ts-2": 1,
+          "ts-1": 0,
+          "ts": 0
+        }
+      },
+      {
+        "jenis": 4,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 1,
+          "ts": 1
+        }
+      },
+      {
+        "jenis": 5,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        }
+      },
+      {
+        "jenis": 6,
+        "jumlah": {
+          "ts-2": 2,
+          "ts-1": 6,
+          "ts": 1
+        }
+      },
+      {
+        "jenis": 7,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 1,
+          "ts": 1
+        }
+      },
+      {
+        "jenis": 8,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        }
+      },
+      {
+        "jenis": 9,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        }
+      },
+      {
+        "jenis": 10,
+        "jumlah": {
+          "ts-2": 0,
+          "ts-1": 0,
+          "ts": 0
+        }
+      }
+    ],
+    "title": "tabel-3b5"
+  },
+  {
+    "data": [
+      {
+        "nama": "Nama Dosen B",
+        "namaProduk": "Nama produk B",
+        "deskripsiProduk": "Deskripsi produk B",
+        "bukti": "Bukti B"
+      },
+      {
+        "nama": "Nama Dosen A",
+        "namaProduk": "Nama produk A",
+        "deskripsiProduk": "Deskripsi produk A",
+        "bukti": "Bukti A"
+      },
+      {
+        "nama": "Nama Dosen C",
+        "namaProduk": "Nama produk C",
+        "deskripsiProduk": "Deskripsi produk C",
+        "bukti": "Bukti C"
+      }
+    ],
+    "title": "tabel-3b7"
+  },
+  {
+    "data": [
+      {
+        "jenis": 1,
+        "tanggal": "2022-03-16T13:11:11.457Z",
+        "judul": "Judul luaran penelitian dan PkM A",
+        "noPaten": "",
+        "tkt": "",
+        "noSertifikat": "",
+        "noSertifikatTkt": "",
+        "noIsbn": ""
+      },
+      {
+        "jenis": 2,
+        "tanggal": "2022-06-16T13:05:16.191Z",
+        "judul": "Judul luaran penelitian dan PkM B",
+        "noSertifikat": "",
+        "noPaten": "",
+        "tkt": 1,
+        "noSertifikatTkt": "",
+        "noIsbn": ""
+      },
+      {
+        "jenis": 3,
+        "noPaten": "",
+        "noSertifikat": "",
+        "tkt": 2,
+        "noSertifikatTkt": "",
+        "noIsbn": "",
+        "tanggal": "2022-07-20T15:02:02.688Z",
+        "judul": "Judul luaran penelitian dan PkM C"
+      },
+      {
+        "jenis": 4,
+        "noPaten": "",
+        "noSertifikat": "",
+        "tkt": "",
+        "noSertifikatTkt": "",
+        "noIsbn": "",
+        "tanggal": "2022-07-20T15:03:01.725Z",
+        "judul": "Judul luaran penelitian dan PkM D"
+      }
+    ],
+    "title": "tabel-3b8"
+  },
+  {
+    "data": [
+      {
+        "jenis": 1,
+        "pendidikan": {
+          "s1": 1,
+          "s3": 0,
+          "s2": 0,
+          "d4": 0,
+          "d3": 0,
+          "d2": 0,
+          "d1": 0,
+          "sma": 0
+        },
+        "unit": "Unit kerja A"
+      },
+      {
+        "jenis": 2,
+        "pendidikan": {
+          "s3": 0,
+          "s2": 0,
+          "s1": 2,
+          "d4": 0,
+          "d3": 0,
+          "d2": 0,
+          "d1": 0,
+          "sma": 0
+        },
+        "unit": "Unit kerja B"
+      },
+      {
+        "jenis": 3,
+        "pendidikan": {
+          "s3": 0,
+          "s2": 0,
+          "s1": 1,
+          "d4": 0,
+          "d3": 0,
+          "d2": 0,
+          "d1": 0,
+          "sma": 0
+        },
+        "unit": "Unit kerja C"
+      },
+      {
+        "jenis": 4,
+        "pendidikan": {
+          "s3": 0,
+          "s2": 0,
+          "s1": 1,
+          "d4": 0,
+          "d3": 0,
+          "d2": 0,
+          "d1": 0,
+          "sma": 0
+        },
+        "unit": "Unit kerja D"
+      }
+    ],
+    "title": "tabel-3c"
+  },
+  {
+    "data": [
+      {
+        "jenis": 1,
+        "upps": {
+          "ts-2": 729712331,
+          "ts-1": 681504788,
+          "ts": 574510573
+        },
+        "prodi": {
+          "ts-2": 729712331,
+          "ts-1": 681504788,
+          "ts": 574510579
+        }
+      },
+      {
+        "jenis": 2,
+        "upps": {
+          "ts-2": 110546026,
+          "ts-1": 125964070,
+          "ts": 122522880
+        },
+        "prodi": {
+          "ts-2": 110546026,
+          "ts-1": 125964070,
+          "ts": 122522880
+        }
+      },
+      {
+        "jenis": 3,
+        "upps": {
+          "ts-2": 177400659,
+          "ts-1": 141924750,
+          "ts": 146380000
+        },
+        "prodi": {
+          "ts-2": 177400659,
+          "ts-1": 141924750,
+          "ts": 146380000
+        }
+      },
+      {
+        "jenis": 4,
+        "upps": {
+          "ts-2": 175469650,
+          "ts-1": 204150473,
+          "ts": 278283408
+        },
+        "prodi": {
+          "ts-2": 175469654,
+          "ts-1": 204150473,
+          "ts": 278283408
+        }
+      },
+      {
+        "jenis": 5,
+        "upps": {
+          "ts-2": 128604996,
+          "ts-1": 120218200,
+          "ts": 133697800
+        },
+        "prodi": {
+          "ts-2": 128605000,
+          "ts-1": 120218200,
+          "ts": 133697800
+        }
+      },
+      {
+        "jenis": 6,
+        "upps": {
+          "ts-2": 97500000,
+          "ts-1": 56250000,
+          "ts": 199199995
+        },
+        "prodi": {
+          "ts-2": 97500000,
+          "ts-1": 56250000,
+          "ts": 199200004
+        }
+      },
+      {
+        "jenis": 7,
+        "upps": {
+          "ts-2": 30000000,
+          "ts-1": 33000000,
+          "ts": 72800000
+        },
+        "prodi": {
+          "ts-2": 30000000,
+          "ts-1": 33000000,
+          "ts": 72800000
+        }
+      },
+      {
+        "jenis": 8,
+        "upps": {
+          "ts-2": 54771670,
+          "ts-1": 52440700,
+          "ts": 64049915
+        },
+        "prodi": {
+          "ts-2": 54771670,
+          "ts-1": 52440700,
+          "ts": 64049915
+        }
+      },
+      {
+        "jenis": 9,
+        "upps": {
+          "ts-2": 37000000,
+          "ts-1": 27280000,
+          "ts": 8579996
+        },
+        "prodi": {
+          "ts": 8580000,
+          "ts-1": 27280000,
+          "ts-2": 37000004
+        }
+      },
+      {
+        "jenis": 10,
+        "upps": {
+          "ts-2": 52079997,
+          "ts-1": 88200000,
+          "ts": 81000000
+        },
+        "prodi": {
+          "ts-2": 52080000,
+          "ts-1": 88200000,
+          "ts": 81000000
+        }
+      }
+    ],
+    "title": "tabel-4a"
+  },
+  {
+    "data": [
+      {
+        "namaLab": "Nama Lab A",
+        "jumlahLab": 1,
+        "alat": [
+          {
+            "kepemilikan": "sendiri",
+            "kondisi": "terawat",
+            "namaAlat": "Nama Alat A1",
+            "jumlahAlat": {
+              "min": 0,
+              "yangDimiliki": 1
+            },
+            "waktu": 5,
+            "logbook": true
+          },
+          {
+            "kepemilikan": "sewa",
+            "kondisi": "terawat",
+            "namaAlat": "Nama Alat A2",
+            "jumlahAlat": {
+              "min": 1,
+              "yangDimiliki": 2
+            },
+            "waktu": 5,
+            "logbook": true
+          }
+        ]
+      },
+      {
+        "namaLab": "Nama Lab B",
+        "jumlahLab": 1,
+        "alat": [
+          {
+            "kepemilikan": "sendiri",
+            "kondisi": "tidak-terawat",
+            "namaAlat": "Nama Alat B1",
+            "jumlahAlat": {
+              "min": 2,
+              "yangDimiliki": 1
+            },
+            "waktu": 0
+          },
+          {
+            "kepemilikan": "sewa",
+            "kondisi": "terawat",
+            "jumlahAlat": {
+              "min": 2,
+              "yangDimiliki": 0
+            },
+            "namaAlat": "Nama Alat B2",
+            "logbook": false,
+            "waktu": 5
+          }
+        ]
+      },
+      {
+        "namaLab": "Nama Lab C",
+        "jumlahLab": 1,
+        "alat": [
+          {
+            "kepemilikan": "sendiri",
+            "kondisi": "terawat",
+            "namaAlat": "Nama Alat C1",
+            "jumlahAlat": {
+              "min": 1,
+              "yangDimiliki": 2
+            },
+            "waktu": 5
+          },
+          {
+            "kepemilikan": "sewa",
+            "kondisi": "tidak-terawat",
+            "jumlahAlat": {
+              "min": 1,
+              "yangDimiliki": 2
+            },
+            "namaAlat": "Nama Alat C2",
+            "logbook": false,
+            "waktu": 5
+          }
+        ]
+      }
+    ],
+    "title": "tabel-4b"
+  },
+  {
+    "data": [
+      {
+        "kepemilikan": "sewa",
+        "kondisi": "terawat",
+        "nama": "Nama prasarana B",
+        "fungsi": "Fungsi B",
+        "unit": 2,
+        "luas": "200"
+      },
+      {
+        "kepemilikan": "sendiri",
+        "kondisi": "terawat",
+        "nama": "Nama prasarana A",
+        "fungsi": "Fungsi A",
+        "unit": 1,
+        "luas": "100"
+      },
+      {
+        "kepemilikan": "sewa",
+        "kondisi": "tidak-terawat",
+        "nama": "Nama prasarana C",
+        "fungsi": "Fungsi C",
+        "unit": 3,
+        "luas": "300"
+      }
+    ],
+    "title": "tabel-4c"
+  },
+  {
+    "data": [
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "KU1101",
+        "nama": "Agama",
+        "matkulKompetensi": false,
+        "semester": 1,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "sikap": true,
+          "pengetahuan": false,
+          "keterampilanUmum": false,
+          "keterampilanKhusus": false
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "IN1101",
+        "nama": "Bahasa Inggris I",
+        "matkulKompetensi": false,
+        "semester": 1,
+        "sks": {
+          "kuliah": 1,
+          "seminar": 0,
+          "praktik": 1
+        },
+        "konversiKreditKeJam": 3,
+        "cpl": {
+          "sikap": false,
+          "pengetahuan": true,
+          "keterampilanUmum": true,
+          "keterampilanKhusus": false
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "KU1102",
+        "nama": "Etika Profesi",
+        "matkulKompetensi": true,
+        "semester": 2,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "pengetahuan": false,
+          "keterampilanUmum": false,
+          "sikap": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "MA1202",
+        "nama": "Matematika Teknik II",
+        "matkulKompetensi": false,
+        "semester": 2,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "pengetahuan": true,
+          "keterampilanUmum": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "IN2302",
+        "nama": "Bahasa Inggris II",
+        "matkulKompetensi": false,
+        "semester": 3,
+        "sks": {
+          "kuliah": 1,
+          "seminar": 0,
+          "praktik": 1
+        },
+        "konversiKreditKeJam": 3,
+        "cpl": {
+          "pengetahuan": true,
+          "keterampilanUmum": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "PAB2315",
+        "nama": "Elemen Mesin",
+        "matkulKompetensi": true,
+        "semester": 3,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "pengetahuan": true,
+          "keterampilanUmum": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "MA2403",
+        "nama": "Statistik",
+        "matkulKompetensi": false,
+        "semester": 4,
+        "sks": {
+          "kuliah": 1,
+          "seminar": 0,
+          "praktik": 1
+        },
+        "konversiKreditKeJam": 3,
+        "cpl": {
+          "pengetahuan": true,
+          "keterampilanUmum": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "PAB2423",
+        "nama": "Chasis dan Under Carriage/ Lower Machine",
+        "matkulKompetensi": true,
+        "semester": 4,
+        "sks": {
+          "kuliah": 1,
+          "seminar": 0,
+          "praktik": 2
+        },
+        "konversiKreditKeJam": 5,
+        "cpl": {
+          "pengetahuan": true,
+          "keterampilanKhusus": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "KU3503",
+        "nama": "Pancasila",
+        "matkulKompetensi": false,
+        "semester": 5,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "sikap": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "KU3504",
+        "nama": "Bahasa Indonesia",
+        "matkulKompetensi": false,
+        "semester": 5,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "pengetahuan": true,
+          "keterampilanUmum": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "KU3605",
+        "nama": "Kewarganegaraan",
+        "matkulKompetensi": false,
+        "semester": 6,
+        "sks": {
+          "kuliah": 2,
+          "seminar": 0,
+          "praktik": 0
+        },
+        "konversiKreditKeJam": 2,
+        "cpl": {
+          "sikap": true
+        }
+      },
+      {
+        "penyelenggara": "Jurusan Teknik Mesin",
+        "dokumen": "D3 Alat Berat",
+        "kode": "KU3606",
+        "nama": "Kewirausahaan",
+        "matkulKompetensi": false,
+        "semester": 6,
+        "sks": {
+          "kuliah": 1,
+          "seminar": 0,
+          "praktik": 1
+        },
+        "konversiKreditKeJam": 3,
+        "cpl": {
+          "sikap": true,
+          "keterampilanUmum": true,
+          "pengetahuan": false
+        }
+      }
+    ],
+    "title": "tabel-5a1"
+  },
+  {
+    "data": [
+      {
+        "status": {
+          "pendidikan": "s2",
+          "jabatan": 0
+        },
+        "nama": "Nama Dosen A",
+        "mhs": {
+          "ts-2": 1,
+          "ts-1": 2,
+          "ts": 3
+        },
+        "pertemuan": {
+          "ts-2": 4,
+          "ts-1": 5,
+          "ts": 6
+        },
+        "lamaTa": {
+          "ts-2": 4,
+          "ts-1": 4,
+          "ts": 4
+        }
+      },
+      {
+        "status": {
+          "pendidikan": "s2",
+          "jabatan": 1
+        },
+        "nama": "Nama Dosen B",
+        "mhs": {
+          "ts-2": 2,
+          "ts-1": 3,
+          "ts": 3
+        },
+        "pertemuan": {
+          "ts-2": 3,
+          "ts-1": 4,
+          "ts": 5
+        },
+        "lamaTa": {
+          "ts-2": 3,
+          "ts-1": 3,
+          "ts": 3
+        }
+      },
+      {
+        "status": {
+          "pendidikan": "s3",
+          "jabatan": 2
+        },
+        "nama": "Nama Dosen C",
+        "mhs": {
+          "ts-2": 1,
+          "ts-1": 2,
+          "ts": 3
+        },
+        "pertemuan": {
+          "ts-2": 4,
+          "ts-1": 5,
+          "ts": 5
+        },
+        "lamaTa": {
+          "ts-2": 5,
+          "ts-1": 5,
+          "ts": 5
+        }
+      }
+    ],
+    "title": "tabel-5a2"
+  },
+  {
+    "data": [
+      {
+        "tahun": "ts-1",
+        "tingkat": "internasional",
+        "kesesuaian": "sesuai",
+        "nama": "Nama Dosen A",
+        "judul": "Judul Penelitian A",
+        "matkul": "Mata Kuliah A",
+        "bentuk": "Materi perkuliahan"
+      },
+      {
+        "tahun": "ts",
+        "tingkat": "nasional",
+        "kesesuaian": "sesuai",
+        "nama": "Nama Dosen B",
+        "judul": "Judul Penelitian B",
+        "matkul": "Mata Kuliah B",
+        "bentuk": "Materi perkuliahan"
+      },
+      {
+        "tahun": "ts-2",
+        "tingkat": "wilayah",
+        "kesesuaian": "tidak",
+        "nama": "Nama Dosen C",
+        "judul": "Judul Penelitian C",
+        "matkul": "Mata Kuliah C",
+        "bentuk": "Materi perkuliahan"
+      }
+    ],
+    "title": "tabel-5c"
+  },
+  {
+    "data": [
+      {
+        "aspek": 1,
+        "kepuasan": {
+          "sangatBaik": 38.7,
+          "baik": 53.9,
+          "cukup": 6.8,
+          "kurang": 0.5
+        },
+        "rencanaTindakLanjut": "Akan terus meningkatkan pelayanan dan mengacu pada standar layanan yang ada."
+      },
+      {
+        "aspek": 2,
+        "kepuasan": {
+          "sangatBaik": 31.4,
+          "baik": 54.5,
+          "cukup": 13.6,
+          "kurang": 0.5
+        },
+        "rencanaTindakLanjut": "Akan terus ditingkatkan melalui kegiatan mentoring, pembimbingan TA maupun PKM, serta terus melibatkan mahasiswa dalam kegiatan dosen seperti penelitian dan pengabdian kepada masyarakat."
+      },
+      {
+        "aspek": 3,
+        "kepuasan": {
+          "sangatBaik": 36.6,
+          "baik": 53.9,
+          "cukup": 9.4,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Akan dipertahankan dan terus ditingkatkan dengan memberikan pelatihan-pelatihan kepada dosen dan tenaga keendidikan."
+      },
+      {
+        "aspek": 4,
+        "kepuasan": {
+          "sangatBaik": 37.7,
+          "baik": 49.2,
+          "cukup": 11.5,
+          "kurang": 1.6
+        },
+        "rencanaTindakLanjut": "Akan terus ditingkatkan melalui pembekalan dari PS, bimbingan dosen wali."
+      },
+      {
+        "aspek": 5,
+        "rencanaTindakLanjut": "Akan terus ditingkatkan dengan melakukan inventarisasi dan pengusulan pada top menajemen untuk kelengkapan sarpras pendidikan.",
+        "kepuasan": {
+          "sangatBaik": 33.5,
+          "baik": 43.5,
+          "cukup": 20.4,
+          "kurang": 2.6
+        }
+      }
+    ],
+    "title": "tabel-5d"
+  },
+  {
+    "data": [
+      {
+        "tahun": "2022-07-16T11:36:15.587Z",
+        "namaDosen": "Nama dosen 1",
+        "temaPkm": "Tema PkM sesuai roadmap 1",
+        "namaMhs": "Nama mahasiswa 1",
+        "judulPkm": "Judul kegiatan PkM 1"
+      },
+      {
+        "tahun": "2023-07-16T11:35:59.771Z",
+        "namaDosen": "Nama dosen 2",
+        "temaPkm": "Tema PkM sesuai roadmap 2",
+        "namaMhs": "Nama mahasiswa 2",
+        "judulPkm": "Judul kegiatan PkM 2"
+      },
+      {
+        "tahun": "2024-07-16T11:36:14.160Z",
+        "namaDosen": "Nama dosen 3",
+        "temaPkm": "Tema PkM sesuai roadmap 3",
+        "namaMhs": "Nama mahasiswa 3",
+        "judulPkm": "Judul kegiatan PkM 3"
+      }
+    ],
+    "title": "tabel-7"
+  },
+  {
+    "data": [
+      {
+        "tahun": "ts-2",
+        "lulusan": 55,
+        "ipk": {
+          "min": 2.56,
+          "avg": 3.08,
+          "max": 3.6
+        }
+      },
+      {
+        "tahun": "ts-1",
+        "lulusan": 56,
+        "ipk": {
+          "min": 2.55,
+          "avg": 3.11,
+          "max": 3.67
+        }
+      },
+      {
+        "tahun": "ts",
+        "lulusan": 51,
+        "ipk": {
+          "min": 2.78,
+          "avg": 3.2,
+          "max": 3.61
+        }
+      }
+    ],
+    "title": "tabel-8a"
+  },
+  {
+    "data": [
+      {
+        "tingkat": "wilayah",
+        "waktu": "2022-02-18T06:39:23.408Z",
+        "nama": "Nama Kegiatan A",
+        "prestasi": "Finalis"
+      },
+      {
+        "tingkat": "nasional",
+        "waktu": "2022-01-18T06:40:38.824Z",
+        "nama": "Nama Kegiatan B",
+        "prestasi": "Finalis"
+      },
+      {
+        "tingkat": "internasional",
+        "waktu": "2022-03-18T06:41:29.165Z",
+        "nama": "Nama Kegiatan C",
+        "prestasi": "Finalis"
+      }
+    ],
+    "title": "tabel-8b1"
+  },
+  {
+    "data": [
+      {
+        "tingkat": "wilayah",
+        "waktu": "2023-02-18T06:42:37.831Z",
+        "nama": "Nama Kegiatan A",
+        "prestasi": "Juara I"
+      },
+      {
+        "tingkat": "nasional",
+        "waktu": "2022-01-18T06:42:59.285Z",
+        "nama": "Nama Kegiatan B",
+        "prestasi": "Juara II"
+      },
+      {
+        "tingkat": "internasional",
+        "waktu": "2024-01-18T06:42:59.285Z",
+        "nama": "Nama Kegiatan C",
+        "prestasi": "Juara III"
+      }
+    ],
+    "title": "tabel-8b2"
+  },
+  {
+    "ts-4": {
+      "masukTs4": 1
+    },
+    "ts-3": {
+      "masukTs3": 1,
+      "masukTs4": 1
+    },
+    "ts-2": {
+      "masukTs4": 1,
+      "masukTs3": 1,
+      "masukTs2": 1
+    },
+    "ts-1": {
+      "masukTs4": 1,
+      "masukTs3": 1,
+      "masukTs2": 1,
+      "masukTs1": 1
+    },
+    "ts": {
+      "masukTs4": 1,
+      "masukTs3": 1,
+      "masukTs2": 1,
+      "masukTs1": 1,
+      "masukTs": 1
+    },
+    "title": "tabel-8c"
+  },
+  {
+    "data": [
+      {
+        "tahun": "ts-4",
+        "lulusan": 64,
+        "lulusanTerlacak": 48,
+        "lulusanDipesanSebelumLulus": 5,
+        "lulusanTerlacakWt": {
+          "pendek": 17,
+          "sedang": 25,
+          "panjang": 1
+        }
+      },
+      {
+        "tahun": "ts-3",
+        "lulusan": 66,
+        "lulusanTerlacak": 60,
+        "lulusanDipesanSebelumLulus": 6,
+        "lulusanTerlacakWt": {
+          "pendek": 10,
+          "sedang": 42,
+          "panjang": 2
+        }
+      },
+      {
+        "tahun": "ts-2",
+        "lulusan": 55,
+        "lulusanTerlacak": 45,
+        "lulusanDipesanSebelumLulus": 4,
+        "lulusanTerlacakWt": {
+          "pendek": 7,
+          "sedang": 33,
+          "panjang": 1
+        }
+      }
+    ],
+    "title": "tabel-8d1"
+  },
+  {
+    "data": [
+      {
+        "tahun": "ts-4",
+        "lulusan": 64,
+        "lulusanTerlacak": 48,
+        "lulusanTerlacakKesesuaianBidangKerja": {
+          "rendah": 6,
+          "sedang": 19,
+          "tinggi": 23
+        }
+      },
+      {
+        "tahun": "ts-3",
+        "lulusan": 66,
+        "lulusanTerlacak": 60,
+        "lulusanTerlacakKesesuaianBidangKerja": {
+          "rendah": 2,
+          "sedang": 23,
+          "tinggi": 35
+        }
+      },
+      {
+        "tahun": "ts-2",
+        "lulusan": 55,
+        "lulusanTerlacak": 45,
+        "lulusanTerlacakKesesuaianBidangKerja": {
+          "rendah": 1,
+          "sedang": 18,
+          "tinggi": 26
+        }
+      }
+    ],
+    "title": "tabel-8d2"
+  },
+  {
+    "data": [
+      {
+        "tahun": "ts-4",
+        "lulusan": 64,
+        "lulusanPenanggap": 48,
+        "lulusanTerlacak": 48,
+        "lulusanTerlacakTingkatTempatKerja": {
+          "wilayah": 20,
+          "nasional": 20,
+          "internasional": 8
+        }
+      },
+      {
+        "tahun": "ts-3",
+        "lulusan": 66,
+        "lulusanPenanggap": 60,
+        "lulusanTerlacak": 60,
+        "lulusanTerlacakTingkatTempatKerja": {
+          "wilayah": 31,
+          "nasional": 20,
+          "internasional": 9
+        }
+      },
+      {
+        "tahun": "ts-2",
+        "lulusan": 55,
+        "lulusanPenanggap": 45,
+        "lulusanTerlacak": 45,
+        "lulusanTerlacakTingkatTempatKerja": {
+          "wilayah": 10,
+          "nasional": 31,
+          "internasional": 4
+        }
+      }
+    ],
+    "title": "tabel-8e1"
+  },
+  {
+    "data": [
+      {
+        "jenis": 1,
+        "kepuasan": {
+          "sangatBaik": 49.55,
+          "baik": 50.45,
+          "cukup": 0,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Meningkatkan Etika Mahasiswa melalui Pembelajaran Etika Profesi serta kegiatan pembelajaran lainnya baik didalam maupun diluar kelas."
+      },
+      {
+        "jenis": 2,
+        "kepuasan": {
+          "sangatBaik": 47.75,
+          "baik": 52.25,
+          "cukup": 0,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Mengikuti pelatihan dari industri serta kuliah tamu dari industri untuk menambah keahlian bidang ilmu (kompetensi utama) diluar jam perkuliahan mata kuliah kompetesi utama."
+      },
+      {
+        "jenis": 3,
+        "kepuasan": {
+          "sangatBaik": 40.54,
+          "baik": 59.46,
+          "cukup": 0,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Meningkatkan kemampuan berbahasa asing mahasiswa selain pada saat pembelajaran bahasa inggris dengan membuat English Club jurusan dan mengerjakan beberapa projek sesuai bidangnya ESP for Mechanical."
+      },
+      {
+        "jenis": 4,
+        "kepuasan": {
+          "sangatBaik": 44.14,
+          "baik": 54.05,
+          "cukup": 1.8,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Melakukan evaluasi terhadap mata kuliah yang berhubungan dengan teknologi informasi."
+      },
+      {
+        "jenis": 5,
+        "kepuasan": {
+          "sangatBaik": 42.34,
+          "baik": 55.86,
+          "cukup": 1.8,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Meningkatkan kegiatan baik dalam proses pembelajaran maupun kegitan diluar untuk memperbanyak public speaking."
+      },
+      {
+        "jenis": 6,
+        "rencanaTindakLanjut": "Menganjurkan kepada setiap mahasiswa untuk mengikuti kegitan UKM serta kegiatan lainnya dimana dapat meningkatkan soft skill khususnya kemampuan kerjasama.",
+        "kepuasan": {
+          "sangatBaik": 45.05,
+          "baik": 54.95,
+          "cukup": 0,
+          "kurang": 0
+        }
+      },
+      {
+        "jenis": 7,
+        "kepuasan": {
+          "sangatBaik": 46.85,
+          "baik": 51.35,
+          "cukup": 1.8,
+          "kurang": 0
+        },
+        "rencanaTindakLanjut": "Memberikan pelatihan dan seminar serta tantangan guna menumbuhkan sikap pengembangan diri mahasiswa agar tangguh dalam setiap pengembangan diri."
+      }
+    ],
+    "title": "tabel-8e2"
+  },
+  {
+    "data": [
+      {
+        "nama": "Nama Mahasiswa A",
+        "namaProduk": "Nama Produk A",
+        "deskripsiProduk": "Deskripsi Produk A.",
+        "bukti": "Bukti A"
+      },
+      {
+        "nama": "Nama Mahasiswa B",
+        "namaProduk": "Nama Produk B",
+        "deskripsiProduk": "Deskripsi Produk B.",
+        "bukti": "Bukti B"
+      },
+      {
+        "nama": "Nama Mahasiswa C",
+        "namaProduk": "Nama Produk C",
+        "deskripsiProduk": "Deskripsi Produk C.",
+        "bukti": "Bukti C"
+      }
+    ],
+    "title": "tabel-8f4"
+  },
+  {
+    "data": [
+      {
+        "nama": 1,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 2,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 3,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": false,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 4,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 5,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 6,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 7,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 8,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": false,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 9,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 10,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 11,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 12,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 13,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": false,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 14,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 15,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 16,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 17,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 18,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": false,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 19,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 20,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      },
+      {
+        "nama": 21,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 22,
+        "tanggal": "2022-07-16T11:02:20.080Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 23,
+        "tanggal": "2022-07-16T11:02:18.936Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": false,
+        "umpanBalik": false,
+        "tindakLanjut": false
+      },
+      {
+        "nama": 24,
+        "tanggal": "2022-07-16T11:02:01.428Z",
+        "ketersediaan": true,
+        "pelaksanaan": true,
+        "monev": true,
+        "umpanBalik": true,
+        "tindakLanjut": true
+      }
+    ],
+    "title": "tabel-9a"
+  },
+  {
+    "data": [
+      {
+        "jenis": 1,
+        "keterangan": "Nomor dan Tanggal Dokumen SPMI 1."
+      },
+      {
+        "jenis": 2,
+        "keterangan": "Nomor dan Tanggal Dokumen SPMI 2."
+      },
+      {
+        "jenis": 3,
+        "keterangan": "Nomor dan Tanggal Dokumen SPMI 3."
+      },
+      {
+        "jenis": 4,
+        "keterangan": "Nomor dan Tanggal Dokumen SPMI 4."
+      }
+    ],
+    "title": "tabel-9b"
+  }
+]

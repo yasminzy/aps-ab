@@ -24,8 +24,7 @@ const props = defineProps({
     <td colspan="2">Jumlah</td>
 
     <td>
-      N<sub>{{ props.name }}</sub
-      >=
+      N<sub>{{ props.name }}</sub>=
     </td>
 
     <td v-for="(item, index) in 5" :key="index"></td>
