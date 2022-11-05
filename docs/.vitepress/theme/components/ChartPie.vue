@@ -6,7 +6,7 @@ import lodash from "lodash"
 import pattern from "patternomaly"
 
 import { Pie } from "vue-chartjs"
-import { Chart, PieController, ArcElement } from "chart.js"
+import { Chart, PieController, ArcElement } from "chart.js/dist/chart.mjs"
 
 Chart.register(PieController, ArcElement)
 
